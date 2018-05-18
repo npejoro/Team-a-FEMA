@@ -33,10 +33,10 @@
         for (var i = 0; i < data.length; i++) {
             var datum = data[i];
             var trace = getData(datum.Year, datum.Region);
-            trace.text.push(datum.country);
-            trace.id.push(datum.country);
-            trace.x.push(datum.lifeExp);
-            trace.y.push(datum.gdpPercap);
+            trace.text.push(datum.State);
+            trace.id.push(datum.State);
+            trace.x.push(datum.Month);
+            trace.y.push(datum.Count);
             trace.marker.size.push(datum.pop);
         }
 
@@ -96,11 +96,11 @@
 
         var layout = {
             xaxis: {
-                title: 'Life Expectancy',
+                title: 'Month',
                 range: [30, 85]
             },
             yaxis: {
-                title: 'GDP per Capita',
+                title: 'Count',
                 type: 'log'
             },
             hovermode: 'closest',
