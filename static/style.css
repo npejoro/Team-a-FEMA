@@ -16,11 +16,13 @@ body {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    font-family: 'robotolight';
+    /* font-family: 'robotolight'; */
+    
     font-weight: 300;
     width:100%;
 }
 .preloader {
+    
     position: fixed;
     top: 0;
     left: 0;
@@ -39,7 +41,7 @@ body {
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(../images/loading.gif);
+    /* background-image: url(../images/loading.gif); */
     background-repeat: no-repeat;
     background-position: center;
     -moz-background-size: cover;
@@ -144,6 +146,7 @@ input[type="color"],
 h1,
 h2,
 h3 {
+   
     font-weight: 300;
     margin: 0;
 }
