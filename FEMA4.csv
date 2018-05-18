@@ -1,0 +1,2362 @@
+IncidentType,StateAbbreviation,State,Region,Year,Month,Count,Duration
+Drought,AL,Alabama,Region IV,1977,07-Jul,67,1
+Drought,AR,Arkansas,Region VI,1976,12-Dec,32,1
+Drought,AS,American Samoa,Region IX,1974,09-Sep,5,1
+Drought,AZ,Arizona,Region IX,1977,04-Apr,8,1
+Drought,CA,California,Region IX,1977,01-Jan,47,1
+Drought,CO,Colorado,Region VIII,1977,01-Jan,42,1
+Drought,DE,Delaware,Region III,1965,08-Aug,3,1
+Drought,FM,Federated States of Micronesia,Region IX,1992,03-Mar,2,1
+Drought,FM,Federated States of Micronesia,Region IX,1998,01-Jan,3,157
+Drought,FM,Federated States of Micronesia,Region IX,2007,03-Mar,1,243
+Drought,GA,Georgia,Region IV,1977,07-Jul,144,1
+Drought,IA,Iowa,Region VII,1977,03-Mar,3,1
+Drought,ID,Idaho,Region X,1977,05-May,9,1
+Drought,MH,Marshall Islands,Region IX,1998,01-Jan,25,165
+Drought,MI,Michigan,Region V,1977,03-Mar,44,1
+Drought,MN,Minnesota,Region V,1976,06-Jun,78,1
+Drought,MO,Missouri,Region VII,1976,09-Sep,94,1
+Drought,MT,Montana,Region VIII,1977,08-Aug,6,1
+Drought,NC,North Carolina,Region IV,1977,08-Aug,49,1
+Drought,ND,North Dakota,Region VIII,1976,07-Jul,18,1
+Drought,NE,Nebraska,Region VII,1977,01-Jan,2,1
+Drought,NJ,New Jersey,Region II,1965,08-Aug,21,1
+Drought,NJ,New Jersey,Region II,1980,10-Oct,21,1
+Drought,NM,New Mexico,Region VI,1977,03-Mar,8,1
+Drought,NV,Nevada,Region IX,1977,06-Jun,5,1
+Drought,NY,New York,Region II,1965,08-Aug,14,1
+Drought,OR,Oregon,Region X,1977,04-Apr,19,1
+Drought,PA,Pennsylvania,Region III,1965,08-Aug,13,1
+Drought,PR,Puerto Rico,Region II,1964,05-May,1,1
+Drought,PR,Puerto Rico,Region II,1974,08-Aug,24,1
+Drought,SC,South Carolina,Region IV,1977,08-Aug,31,1
+Drought,SD,South Dakota,Region VIII,1976,06-Jun,60,1
+Drought,TX,Texas,Region VI,1993,08-Aug,149,78
+Drought,UT,Utah,Region VIII,1977,01-Jan,27,1
+Drought,VA,Virginia,Region III,1976,10-Oct,38,1
+Drought,VA,Virginia,Region III,1977,07-Jul,62,1
+Drought,VI,Virgin Islands,Region II,1964,06-Jun,1,1
+Drought,VI,Virgin Islands,Region II,1974,07-Jul,2,1
+Drought,VI,Virgin Islands,Region II,1977,06-Jun,3,1
+Drought,VT,Vermont,Region I,1963,11-Nov,1,1
+Drought,VT,Vermont,Region I,1977,09-Sep,1,1
+Drought,WA,Washington,Region X,1977,03-Mar,16,1
+Drought,WI,Wisconsin,Region V,1976,06-Jun,66,1
+Drought,WV,West Virginia,Region III,1977,01-Jan,12,1
+Drought,WV,West Virginia,Region III,1977,08-Aug,9,1
+Drought,WY,Wyoming,Region VIII,1977,06-Jun,4,1
+Earthquake,AK,Alaska,Region X,1964,03-Mar,1,1
+Earthquake,AK,Alaska,Region X,2002,11-Nov,6,8
+Earthquake,CA,California,Region IX,1971,02-Feb,1,1
+Earthquake,CA,California,Region IX,1979,10-Oct,1,1
+Earthquake,CA,California,Region IX,1983,05-May,1,1
+Earthquake,CA,California,Region IX,1987,10-Oct,2,51
+Earthquake,CA,California,Region IX,1989,10-Oct,12,63
+Earthquake,CA,California,Region IX,1992,04-Apr,1,31
+Earthquake,CA,California,Region IX,1992,06-Jun,2,126
+Earthquake,CA,California,Region IX,2000,09-Sep,1,1
+Earthquake,GU,Guam,Region IX,2001,10-Oct,1,1
+Earthquake,HI,Hawaii,Region IX,1960,01-Jan,1,1
+Earthquake,HI,Hawaii,Region IX,1973,05-May,1,1
+Earthquake,HI,Hawaii,Region IX,1975,12-Dec,1,1
+Earthquake,ID,Idaho,Region X,1983,10-Oct,3,90
+Earthquake,NV,Nevada,Region IX,1954,07-Jul,1,1
+Earthquake,NY,New York,Region II,2002,04-Apr,6,1
+Earthquake,OR,Oregon,Region X,1993,03-Mar,4,1
+Earthquake,OR,Oregon,Region X,1993,09-Sep,1,1
+Earthquake,WA,Washington,Region X,1965,05-May,6,1
+Earthquake,WA,Washington,Region X,2001,02-Feb,24,17
+Fire,AK,Alaska,Region X,1996,06-Jun,1,14
+Fire,AK,Alaska,Region X,2004,06-Jun,1,37
+Fire,AK,Alaska,Region X,2004,07-Jul,1,50
+Fire,AK,Alaska,Region X,2006,06-Jun,1,19
+Fire,AK,Alaska,Region X,2006,08-Aug,1,2
+Fire,AK,Alaska,Region X,2007,06-Jun,1,18
+Fire,AK,Alaska,Region X,2009,05-May,1,9
+Fire,AK,Alaska,Region X,2011,05-May,1,14
+Fire,AL,Alabama,Region IV,2001,11-Nov,3,4
+Fire,AZ,Arizona,Region IX,1999,06-Jun,2,2
+Fire,AZ,Arizona,Region IX,2002,04-Apr,1,10
+Fire,AZ,Arizona,Region IX,2002,05-May,1,4
+Fire,AZ,Arizona,Region IX,2002,06-Jun,6,19.66666667
+Fire,AZ,Arizona,Region IX,2002,07-Jul,1,6
+Fire,AZ,Arizona,Region IX,2003,06-Jun,4,23.25
+Fire,AZ,Arizona,Region IX,2003,07-Jul,2,10
+Fire,AZ,Arizona,Region IX,2004,06-Jun,3,16.66666667
+Fire,AZ,Arizona,Region IX,2005,05-May,1,4
+Fire,AZ,Arizona,Region IX,2005,06-Jun,5,10.8
+Fire,AZ,Arizona,Region IX,2005,07-Jul,2,4
+Fire,AZ,Arizona,Region IX,2006,06-Jun,4,7.25
+Fire,AZ,Arizona,Region IX,2008,06-Jun,1,7
+Fire,AZ,Arizona,Region IX,2009,10-Oct,1,7
+Fire,AZ,Arizona,Region IX,2009,05-May,1,3
+Fire,AZ,Arizona,Region IX,2009,08-Aug,1,7
+Fire,AZ,Arizona,Region IX,2010,06-Jun,2,9.5
+Fire,AZ,Arizona,Region IX,2011,05-May,1,45
+Fire,AZ,Arizona,Region IX,2011,06-Jun,3,23.66666667
+Fire,AZ,Arizona,Region IX,2013,06-Jun,2,10.5
+Fire,AZ,Arizona,Region IX,2013,07-Jul,1,8
+Fire,AZ,Arizona,Region IX,2014,05-May,1,16
+Fire,CA,California,Region IX,1956,12-Dec,1,1
+Fire,CA,California,Region IX,1961,11-Nov,1,1
+Fire,CA,California,Region IX,1970,09-Sep,6,1
+Fire,CA,California,Region IX,1978,10-Oct,1,1
+Fire,CA,California,Region IX,1980,11-Nov,4,1
+Fire,CA,California,Region IX,1982,04-Apr,1,1
+Fire,CA,California,Region IX,1985,06-Jun,6,24
+Fire,CA,California,Region IX,1988,09-Sep,4,14
+Fire,CA,California,Region IX,1990,06-Jun,4,8
+Fire,CA,California,Region IX,1991,10-Oct,1,10
+Fire,CA,California,Region IX,1992,04-Apr,1,30
+Fire,CA,California,Region IX,1992,08-Aug,2,42
+Fire,CA,California,Region IX,1993,10-Oct,6,179
+Fire,CA,California,Region IX,1996,10-Oct,4,11
+Fire,CA,California,Region IX,1999,08-Aug,10,98
+Fire,CA,California,Region IX,2002,02-Feb,1,6
+Fire,CA,California,Region IX,2002,05-May,1,3
+Fire,CA,California,Region IX,2002,06-Jun,3,7.333333333
+Fire,CA,California,Region IX,2002,07-Jul,2,16
+Fire,CA,California,Region IX,2002,09-Sep,7,9.285714286
+Fire,CA,California,Region IX,2003,01-Jan,1,5
+Fire,CA,California,Region IX,2003,10-Oct,9,15.22222222
+Fire,CA,California,Region IX,2003,06-Jun,2,4.5
+Fire,CA,California,Region IX,2003,07-Jul,2,5
+Fire,CA,California,Region IX,2003,08-Aug,2,4
+Fire,CA,California,Region IX,2003,09-Sep,1,6
+Fire,CA,California,Region IX,2004,04-Apr,1,4
+Fire,CA,California,Region IX,2004,05-May,2,7.5
+Fire,CA,California,Region IX,2004,06-Jun,1,12
+Fire,CA,California,Region IX,2004,07-Jul,7,5.857142857
+Fire,CA,California,Region IX,2004,08-Aug,6,10
+Fire,CA,California,Region IX,2004,09-Sep,5,8.8
+Fire,CA,California,Region IX,2005,10-Oct,2,5
+Fire,CA,California,Region IX,2005,11-Nov,1,6
+Fire,CA,California,Region IX,2005,07-Jul,1,5
+Fire,CA,California,Region IX,2005,08-Aug,2,8
+Fire,CA,California,Region IX,2005,09-Sep,3,9.666666667
+Fire,CA,California,Region IX,2006,10-Oct,1,6
+Fire,CA,California,Region IX,2006,12-Dec,1,4
+Fire,CA,California,Region IX,2006,02-Feb,2,11
+Fire,CA,California,Region IX,2006,07-Jul,3,8.666666667
+Fire,CA,California,Region IX,2006,09-Sep,2,4.5
+Fire,CA,California,Region IX,2007,10-Oct,7,163
+Fire,CA,California,Region IX,2007,03-Mar,1,4
+Fire,CA,California,Region IX,2007,05-May,2,5
+Fire,CA,California,Region IX,2007,06-Jun,2,5
+Fire,CA,California,Region IX,2007,07-Jul,2,5.5
+Fire,CA,California,Region IX,2007,09-Sep,2,6.5
+Fire,CA,California,Region IX,2008,10-Oct,2,6.5
+Fire,CA,California,Region IX,2008,11-Nov,4,6
+Fire,CA,California,Region IX,2008,04-Apr,1,7
+Fire,CA,California,Region IX,2008,05-May,2,7
+Fire,CA,California,Region IX,2008,06-Jun,14,50.07142857
+Fire,CA,California,Region IX,2008,09-Sep,1,3
+Fire,CA,California,Region IX,2009,10-Oct,1,7
+Fire,CA,California,Region IX,2009,05-May,1,18
+Fire,CA,California,Region IX,2009,08-Aug,8,10.375
+Fire,CA,California,Region IX,2009,09-Sep,1,8
+Fire,CA,California,Region IX,2010,07-Jul,3,6
+Fire,CA,California,Region IX,2010,08-Aug,1,6
+Fire,CA,California,Region IX,2010,09-Sep,2,5
+Fire,CA,California,Region IX,2011,09-Sep,3,6
+Fire,CA,California,Region IX,2012,08-Aug,3,14.33333333
+Fire,CA,California,Region IX,2012,09-Sep,1,5
+Fire,CA,California,Region IX,2013,05-May,3,8
+Fire,CA,California,Region IX,2013,08-Aug,2,6.5
+Fire,CA,California,Region IX,2013,09-Sep,1,6
+Fire,CA,California,Region IX,2014,01-Jan,1,7
+Fire,CA,California,Region IX,2014,05-May,1,9
+Fire,CA,California,Region IX,2014,07-Jul,1,6
+Fire,CA,California,Region IX,2014,08-Aug,4,7
+Fire,CO,Colorado,Region VIII,2000,06-Jun,3,13.66666667
+Fire,CO,Colorado,Region VIII,2000,09-Sep,1,5
+Fire,CO,Colorado,Region VIII,2001,10-Oct,1,4
+Fire,CO,Colorado,Region VIII,2002,04-Apr,60,102.6833333
+Fire,CO,Colorado,Region VIII,2002,05-May,2,8.5
+Fire,CO,Colorado,Region VIII,2002,06-Jun,11,27.18181818
+Fire,CO,Colorado,Region VIII,2002,07-Jul,5,14
+Fire,CO,Colorado,Region VIII,2003,10-Oct,2,3
+Fire,CO,Colorado,Region VIII,2003,11-Nov,1,4
+Fire,CO,Colorado,Region VIII,2003,07-Jul,1,3
+Fire,CO,Colorado,Region VIII,2004,04-Apr,1,7
+Fire,CO,Colorado,Region VIII,2004,07-Jul,1,9
+Fire,CO,Colorado,Region VIII,2005,07-Jul,2,10
+Fire,CO,Colorado,Region VIII,2006,01-Jan,2,10
+Fire,CO,Colorado,Region VIII,2006,06-Jun,1,14
+Fire,CO,Colorado,Region VIII,2006,08-Aug,1,4
+Fire,CO,Colorado,Region VIII,2007,06-Jun,1,5
+Fire,CO,Colorado,Region VIII,2008,04-Apr,1,3
+Fire,CO,Colorado,Region VIII,2010,09-Sep,2,9
+Fire,CO,Colorado,Region VIII,2011,03-Mar,1,6
+Fire,CO,Colorado,Region VIII,2011,04-Apr,1,9
+Fire,CO,Colorado,Region VIII,2011,06-Jun,2,10
+Fire,CO,Colorado,Region VIII,2012,03-Mar,1,8
+Fire,CO,Colorado,Region VIII,2012,06-Jun,3,17.66666667
+Fire,CO,Colorado,Region VIII,2013,06-Jun,4,15
+Fire,FL,Florida,Region IV,1998,05-May,67,59
+Fire,FL,Florida,Region IV,1999,04-Apr,52,41
+Fire,FL,Florida,Region IV,2001,05-May,2,1
+Fire,FL,Florida,Region IV,2006,05-May,1,43
+Fire,FL,Florida,Region IV,2007,03-Mar,1,4
+Fire,FL,Florida,Region IV,2011,04-Apr,1,36
+Fire,FM,Federated States of Micronesia,Region IX,1981,09-Sep,1,1
+Fire,GA,Georgia,Region IV,2011,03-Mar,1,32
+Fire,GA,Georgia,Region IV,2011,06-Jun,4,45.75
+Fire,HI,Hawaii,Region IX,1998,02-Feb,1,1
+Fire,HI,Hawaii,Region IX,2000,03-Mar,1,4
+Fire,HI,Hawaii,Region IX,2003,05-May,1,4
+Fire,HI,Hawaii,Region IX,2004,09-Sep,1,5
+Fire,HI,Hawaii,Region IX,2005,08-Aug,4,5.5
+Fire,HI,Hawaii,Region IX,2006,09-Sep,1,6
+Fire,HI,Hawaii,Region IX,2007,10-Oct,1,11
+Fire,HI,Hawaii,Region IX,2007,06-Jun,1,8
+Fire,HI,Hawaii,Region IX,2007,08-Aug,2,7.5
+Fire,HI,Hawaii,Region IX,2009,08-Aug,1,10
+Fire,HI,Hawaii,Region IX,2010,06-Jun,1,6
+Fire,ID,Idaho,Region X,1960,07-Jul,1,1
+Fire,ID,Idaho,Region X,1967,08-Aug,10,1
+Fire,ID,Idaho,Region X,2000,07-Jul,15,62
+Fire,ID,Idaho,Region X,2007,08-Aug,4,19.75
+Fire,ID,Idaho,Region X,2010,08-Aug,1,9
+Fire,ID,Idaho,Region X,2012,08-Aug,1,22
+Fire,ID,Idaho,Region X,2012,09-Sep,1,10
+Fire,ID,Idaho,Region X,2013,08-Aug,1,18
+Fire,KS,Kansas,Region VII,2011,04-Apr,2,2
+Fire,KY,Kentucky,Region IV,2001,11-Nov,6,20
+Fire,LA,Louisiana,Region VI,2000,09-Sep,11,15
+Fire,MA,Massachusetts,Region I,1973,10-Oct,1,1
+Fire,MA,Massachusetts,Region I,1981,12-Dec,1,1
+Fire,MA,Massachusetts,Region I,1999,12-Dec,1,11
+Fire,MH,Marshall Islands,Region IX,1987,02-Feb,1,1
+Fire,MI,Michigan,Region V,1999,05-May,1,5
+Fire,MN,Minnesota,Region V,2000,10-Oct,5,15
+Fire,MN,Minnesota,Region V,2002,05-May,1,5
+Fire,MO,Missouri,Region VII,2000,03-Mar,1,5
+Fire,MT,Montana,Region VIII,1999,07-Jul,1,3
+Fire,MT,Montana,Region VIII,2000,07-Jul,48,75
+Fire,MT,Montana,Region VIII,2003,07-Jul,3,23.66666667
+Fire,MT,Montana,Region VIII,2003,08-Aug,7,28.71428571
+Fire,MT,Montana,Region VIII,2006,07-Jul,1,4
+Fire,MT,Montana,Region VIII,2006,08-Aug,3,13.33333333
+Fire,MT,Montana,Region VIII,2007,08-Aug,3,16.66666667
+Fire,MT,Montana,Region VIII,2007,09-Sep,1,1
+Fire,MT,Montana,Region VIII,2009,09-Sep,1,3
+Fire,MT,Montana,Region VIII,2011,08-Aug,1,4
+Fire,MT,Montana,Region VIII,2012,06-Jun,1,7
+Fire,MT,Montana,Region VIII,2012,09-Sep,1,7
+Fire,MT,Montana,Region VIII,2013,07-Jul,1,7
+Fire,ND,North Dakota,Region VIII,2002,06-Jun,1,5
+Fire,NE,Nebraska,Region VII,2006,07-Jul,3,23.33333333
+Fire,NE,Nebraska,Region VII,2012,08-Aug,3,12
+Fire,NH,New Hampshire,Region I,1953,07-Jul,1,1
+Fire,NJ,New Jersey,Region II,2001,09-Sep,21,1
+Fire,NJ,New Jersey,Region II,2002,06-Jun,1,1
+Fire,NM,New Mexico,Region VI,1998,06-Jun,1,109
+Fire,NM,New Mexico,Region VI,2000,04-Apr,2,13
+Fire,NM,New Mexico,Region VI,2000,05-May,57,53.10526316
+Fire,NM,New Mexico,Region VI,2000,06-Jun,1,7
+Fire,NM,New Mexico,Region VI,2001,06-Jun,2,2
+Fire,NM,New Mexico,Region VI,2002,03-Mar,1,10
+Fire,NM,New Mexico,Region VI,2002,04-Apr,1,35
+Fire,NM,New Mexico,Region VI,2002,05-May,3,17.33333333
+Fire,NM,New Mexico,Region VI,2002,06-Jun,4,30
+Fire,NM,New Mexico,Region VI,2002,08-Aug,1,17
+Fire,NM,New Mexico,Region VI,2003,05-May,1,2
+Fire,NM,New Mexico,Region VI,2004,06-Jun,1,7
+Fire,NM,New Mexico,Region VI,2006,01-Jan,2,4
+Fire,NM,New Mexico,Region VI,2006,03-Mar,1,7
+Fire,NM,New Mexico,Region VI,2007,11-Nov,1,60
+Fire,NM,New Mexico,Region VI,2007,02-Feb,1,11
+Fire,NM,New Mexico,Region VI,2008,04-Apr,1,73
+Fire,NM,New Mexico,Region VI,2008,06-Jun,1,1
+Fire,NM,New Mexico,Region VI,2009,05-May,1,9
+Fire,NM,New Mexico,Region VI,2011,03-Mar,1,5
+Fire,NM,New Mexico,Region VI,2011,04-Apr,4,11.5
+Fire,NM,New Mexico,Region VI,2011,06-Jun,7,42.42857143
+Fire,NM,New Mexico,Region VI,2012,05-May,2,70
+Fire,NM,New Mexico,Region VI,2012,06-Jun,3,27.66666667
+Fire,NM,New Mexico,Region VI,2013,05-May,1,63
+Fire,NV,Nevada,Region IX,1999,07-Jul,1,3
+Fire,NV,Nevada,Region IX,2000,06-Jun,1,3
+Fire,NV,Nevada,Region IX,2000,08-Aug,2,3
+Fire,NV,Nevada,Region IX,2001,07-Jul,1,1
+Fire,NV,Nevada,Region IX,2002,06-Jun,1,5
+Fire,NV,Nevada,Region IX,2002,07-Jul,3,11.33333333
+Fire,NV,Nevada,Region IX,2003,06-Jun,1,3
+Fire,NV,Nevada,Region IX,2003,07-Jul,2,3
+Fire,NV,Nevada,Region IX,2003,09-Sep,1,2
+Fire,NV,Nevada,Region IX,2004,06-Jun,1,6
+Fire,NV,Nevada,Region IX,2004,07-Jul,4,12
+Fire,NV,Nevada,Region IX,2004,08-Aug,1,7
+Fire,NV,Nevada,Region IX,2005,06-Jun,1,15
+Fire,NV,Nevada,Region IX,2005,07-Jul,3,4.333333333
+Fire,NV,Nevada,Region IX,2005,08-Aug,2,5.5
+Fire,NV,Nevada,Region IX,2006,11-Nov,1,2
+Fire,NV,Nevada,Region IX,2006,06-Jun,5,5.6
+Fire,NV,Nevada,Region IX,2006,08-Aug,2,6
+Fire,NV,Nevada,Region IX,2007,07-Jul,5,5.8
+Fire,NV,Nevada,Region IX,2009,07-Jul,1,6
+Fire,NV,Nevada,Region IX,2010,07-Jul,1,6
+Fire,NV,Nevada,Region IX,2011,10-Oct,1,4
+Fire,NV,Nevada,Region IX,2011,11-Nov,1,4
+Fire,NV,Nevada,Region IX,2011,09-Sep,1,2
+Fire,NV,Nevada,Region IX,2012,01-Jan,1,3
+Fire,NY,New York,Region II,1999,08-Aug,1,1
+Fire,OK,Oklahoma,Region VI,1977,01-Jan,1,1
+Fire,OK,Oklahoma,Region VI,1996,02-Feb,7,95
+Fire,OK,Oklahoma,Region VI,2000,09-Sep,3,13.33333333
+Fire,OK,Oklahoma,Region VI,2003,07-Jul,1,5
+Fire,OK,Oklahoma,Region VI,2005,12-Dec,1,4
+Fire,OK,Oklahoma,Region VI,2006,11-Nov,77,125
+Fire,OK,Oklahoma,Region VI,2006,04-Apr,1,10
+Fire,OK,Oklahoma,Region VI,2008,06-Jun,1,1
+Fire,OK,Oklahoma,Region VI,2011,03-Mar,5,4
+Fire,OK,Oklahoma,Region VI,2011,04-Apr,4,4
+Fire,OK,Oklahoma,Region VI,2011,06-Jun,1,6
+Fire,OK,Oklahoma,Region VI,2011,07-Jul,3,4.666666667
+Fire,OK,Oklahoma,Region VI,2011,08-Aug,11,6.090909091
+Fire,OK,Oklahoma,Region VI,2011,09-Sep,1,7
+Fire,OK,Oklahoma,Region VI,2012,07-Jul,1,5
+Fire,OK,Oklahoma,Region VI,2012,08-Aug,7,7.714285714
+Fire,OR,Oregon,Region X,2001,08-Aug,2,5.5
+Fire,OR,Oregon,Region X,2002,07-Jul,8,6.875
+Fire,OR,Oregon,Region X,2003,08-Aug,3,64
+Fire,OR,Oregon,Region X,2003,09-Sep,2,5.5
+Fire,OR,Oregon,Region X,2004,08-Aug,2,10
+Fire,OR,Oregon,Region X,2006,07-Jul,2,15.5
+Fire,OR,Oregon,Region X,2007,07-Jul,1,18
+Fire,OR,Oregon,Region X,2007,09-Sep,1,10
+Fire,OR,Oregon,Region X,2009,08-Aug,2,5
+Fire,PR,Puerto Rico,Region II,2009,10-Oct,5,4
+Fire,SC,South Carolina,Region IV,2001,11-Nov,1,20
+Fire,SC,South Carolina,Region IV,2002,06-Jun,1,8
+Fire,SD,South Dakota,Region VIII,2000,08-Aug,1,10
+Fire,SD,South Dakota,Region VIII,2002,06-Jun,1,19
+Fire,SD,South Dakota,Region VIII,2002,08-Aug,2,14
+Fire,SD,South Dakota,Region VIII,2003,11-Nov,1,2
+Fire,SD,South Dakota,Region VIII,2005,04-Apr,1,3
+Fire,SD,South Dakota,Region VIII,2005,07-Jul,2,6.5
+Fire,SD,South Dakota,Region VIII,2006,07-Jul,1,12
+Fire,SD,South Dakota,Region VIII,2007,07-Jul,2,13.5
+Fire,SD,South Dakota,Region VIII,2012,07-Jul,1,5
+Fire,TX,Texas,Region VI,1996,02-Feb,50,210
+Fire,TX,Texas,Region VI,1998,06-Jun,1,153
+Fire,TX,Texas,Region VI,1999,10-Oct,1,1
+Fire,TX,Texas,Region VI,1999,11-Nov,1,1
+Fire,TX,Texas,Region VI,1999,03-Mar,1,1
+Fire,TX,Texas,Region VI,1999,07-Jul,3,6
+Fire,TX,Texas,Region VI,1999,08-Aug,231,129.7532468
+Fire,TX,Texas,Region VI,1999,09-Sep,2,6.5
+Fire,TX,Texas,Region VI,2000,01-Jan,3,1
+Fire,TX,Texas,Region VI,2000,10-Oct,1,2
+Fire,TX,Texas,Region VI,2000,08-Aug,3,22.33333333
+Fire,TX,Texas,Region VI,2000,09-Sep,11,6.363636364
+Fire,TX,Texas,Region VI,2001,08-Aug,1,17
+Fire,TX,Texas,Region VI,2001,09-Sep,1,2
+Fire,TX,Texas,Region VI,2006,11-Nov,254,169
+Fire,TX,Texas,Region VI,2008,02-Feb,6,6.166666667
+Fire,TX,Texas,Region VI,2008,03-Mar,239,165.0041841
+Fire,TX,Texas,Region VI,2008,04-Apr,2,4
+Fire,TX,Texas,Region VI,2008,05-May,2,4
+Fire,TX,Texas,Region VI,2008,06-Jun,4,1.75
+Fire,TX,Texas,Region VI,2008,08-Aug,1,8
+Fire,TX,Texas,Region VI,2009,02-Feb,3,10.33333333
+Fire,TX,Texas,Region VI,2009,03-Mar,3,8.333333333
+Fire,TX,Texas,Region VI,2009,04-Apr,10,6.3
+Fire,TX,Texas,Region VI,2011,03-Mar,3,7
+Fire,TX,Texas,Region VI,2011,04-Apr,33,16.6969697
+Fire,TX,Texas,Region VI,2011,05-May,6,6.166666667
+Fire,TX,Texas,Region VI,2011,06-Jun,12,8.5
+Fire,TX,Texas,Region VI,2011,07-Jul,1,10
+Fire,TX,Texas,Region VI,2011,08-Aug,1,33
+Fire,TX,Texas,Region VI,2011,09-Sep,8,25.625
+Fire,TX,Texas,Region VI,2012,04-Apr,1,18
+Fire,UT,Utah,Region VIII,2002,06-Jun,1,6
+Fire,UT,Utah,Region VIII,2003,07-Jul,1,15
+Fire,UT,Utah,Region VIII,2005,06-Jun,1,5
+Fire,UT,Utah,Region VIII,2007,06-Jun,2,6
+Fire,UT,Utah,Region VIII,2007,07-Jul,2,14
+Fire,UT,Utah,Region VIII,2012,06-Jun,3,6
+Fire,UT,Utah,Region VIII,2012,07-Jul,1,8
+Fire,UT,Utah,Region VIII,2013,08-Aug,1,7
+Fire,UT,Utah,Region VIII,2014,07-Jul,1,2
+Fire,VA,Virginia,Region III,2001,11-Nov,6,23.5
+Fire,VA,Virginia,Region III,2001,09-Sep,1,1
+Fire,VA,Virginia,Region III,2002,02-Feb,1,4
+Fire,WA,Washington,Region X,1991,10-Oct,6,9
+Fire,WA,Washington,Region X,1998,07-Jul,1,4
+Fire,WA,Washington,Region X,2000,08-Aug,2,5
+Fire,WA,Washington,Region X,2001,07-Jul,1,8
+Fire,WA,Washington,Region X,2001,08-Aug,7,12.57142857
+Fire,WA,Washington,Region X,2002,07-Jul,2,5.5
+Fire,WA,Washington,Region X,2003,07-Jul,2,6.5
+Fire,WA,Washington,Region X,2003,09-Sep,1,13
+Fire,WA,Washington,Region X,2004,07-Jul,3,6
+Fire,WA,Washington,Region X,2004,08-Aug,2,10.5
+Fire,WA,Washington,Region X,2005,07-Jul,1,9
+Fire,WA,Washington,Region X,2005,08-Aug,2,13
+Fire,WA,Washington,Region X,2006,08-Aug,3,16.66666667
+Fire,WA,Washington,Region X,2006,09-Sep,1,8
+Fire,WA,Washington,Region X,2007,07-Jul,2,4
+Fire,WA,Washington,Region X,2007,09-Sep,1,4
+Fire,WA,Washington,Region X,2008,07-Jul,2,9.5
+Fire,WA,Washington,Region X,2009,07-Jul,1,6
+Fire,WA,Washington,Region X,2009,08-Aug,3,5.333333333
+Fire,WA,Washington,Region X,2010,07-Jul,1,4
+Fire,WA,Washington,Region X,2010,08-Aug,1,6
+Fire,WA,Washington,Region X,2012,08-Aug,1,16
+Fire,WA,Washington,Region X,2012,09-Sep,9,13.44444444
+Fire,WA,Washington,Region X,2013,07-Jul,2,19
+Fire,WA,Washington,Region X,2013,08-Aug,2,7
+Fire,WA,Washington,Region X,2014,07-Jul,2,28
+Fire,WV,West Virginia,Region III,1996,07-Jul,10,14
+Fire,WV,West Virginia,Region III,2001,11-Nov,14,15
+Fire,WY,Wyoming,Region VIII,2000,07-Jul,1,5
+Fire,WY,Wyoming,Region VIII,2001,07-Jul,2,11.5
+Fire,WY,Wyoming,Region VIII,2001,09-Sep,1,4
+Fire,WY,Wyoming,Region VIII,2002,06-Jun,3,18
+Fire,WY,Wyoming,Region VIII,2002,08-Aug,1,18
+Fire,WY,Wyoming,Region VIII,2003,11-Nov,1,2
+Fire,WY,Wyoming,Region VIII,2006,07-Jul,1,12
+Fire,WY,Wyoming,Region VIII,2006,08-Aug,1,12
+Fire,WY,Wyoming,Region VIII,2007,08-Aug,1,10
+Fire,WY,Wyoming,Region VIII,2012,06-Jun,3,11
+Fire,WY,Wyoming,Region VIII,2012,07-Jul,2,7
+Fire,WY,Wyoming,Region VIII,2012,09-Sep,1,8
+Flood,AK,Alaska,Region X,1986,10-Oct,4,4
+Flood,AK,Alaska,Region X,1986,09-Sep,1,2
+Flood,AK,Alaska,Region X,1989,05-May,3,41
+Flood,AK,Alaska,Region X,1995,09-Sep,4,23
+Flood,AK,Alaska,Region X,2002,04-Apr,6,34
+Flood,AK,Alaska,Region X,2006,05-May,3,18
+Flood,AL,Alabama,Region IV,1961,02-Feb,1,1
+Flood,AL,Alabama,Region IV,1973,05-May,12,1
+Flood,AL,Alabama,Region IV,1975,03-Mar,23,1
+Flood,AL,Alabama,Region IV,1975,04-Apr,8,1
+Flood,AL,Alabama,Region IV,1977,04-Apr,9,1
+Flood,AL,Alabama,Region IV,1978,08-Aug,1,1
+Flood,AL,Alabama,Region IV,1979,03-Mar,9,1
+Flood,AL,Alabama,Region IV,1979,04-Apr,28,1
+Flood,AL,Alabama,Region IV,1981,05-May,1,1
+Flood,AL,Alabama,Region IV,1991,12-Dec,12,27
+Flood,AR,Arkansas,Region VI,1958,05-May,1,1
+Flood,AR,Arkansas,Region VI,1961,05-May,1,1
+Flood,AR,Arkansas,Region VI,1963,08-Aug,1,1
+Flood,AR,Arkansas,Region VI,1964,03-Mar,1,1
+Flood,AR,Arkansas,Region VI,1969,02-Feb,36,1
+Flood,AR,Arkansas,Region VI,1972,01-Jan,27,1
+Flood,AR,Arkansas,Region VI,1973,04-Apr,43,1
+Flood,AR,Arkansas,Region VI,1973,05-May,5,1
+Flood,AR,Arkansas,Region VI,1974,05-May,1,1
+Flood,AR,Arkansas,Region VI,1974,06-Jun,8,1
+Flood,AR,Arkansas,Region VI,1975,06-Jun,7,1
+Flood,AR,Arkansas,Region VI,1978,09-Sep,2,1
+Flood,AR,Arkansas,Region VI,1983,07-Jul,5,2
+Flood,AR,Arkansas,Region VI,1987,12-Dec,11,11
+Flood,AR,Arkansas,Region VI,1990,05-May,37,34
+Flood,AR,Arkansas,Region VI,1991,04-Apr,21,30
+Flood,AR,Arkansas,Region VI,1997,04-Apr,28,18
+Flood,AS,American Samoa,Region IX,1979,11-Nov,5,1
+Flood,AZ,Arizona,Region IX,1966,04-Apr,5,1
+Flood,AZ,Arizona,Region IX,1970,09-Sep,6,1
+Flood,AZ,Arizona,Region IX,1972,10-Oct,2,1
+Flood,AZ,Arizona,Region IX,1972,07-Jul,3,1
+Flood,AZ,Arizona,Region IX,1977,11-Nov,3,1
+Flood,AZ,Arizona,Region IX,1978,12-Dec,6,1
+Flood,AZ,Arizona,Region IX,1978,03-Mar,10,1
+Flood,AZ,Arizona,Region IX,1980,02-Feb,5,1
+Flood,AZ,Arizona,Region IX,1983,06-Jun,3,5
+Flood,AZ,Arizona,Region IX,1983,09-Sep,11,18
+Flood,AZ,Arizona,Region IX,1990,07-Jul,7,69
+Flood,AZ,Arizona,Region IX,1993,01-Jan,13,61
+Flood,CA,California,Region IX,1954,02-Feb,1,1
+Flood,CA,California,Region IX,1955,12-Dec,1,1
+Flood,CA,California,Region IX,1958,04-Apr,1,1
+Flood,CA,California,Region IX,1962,10-Oct,1,1
+Flood,CA,California,Region IX,1962,03-Mar,1,1
+Flood,CA,California,Region IX,1963,02-Feb,1,1
+Flood,CA,California,Region IX,1964,12-Dec,31,1
+Flood,CA,California,Region IX,1965,12-Dec,4,1
+Flood,CA,California,Region IX,1966,01-Jan,1,1
+Flood,CA,California,Region IX,1967,01-Jan,8,1
+Flood,CA,California,Region IX,1969,01-Jan,37,1
+Flood,CA,California,Region IX,1969,08-Aug,1,1
+Flood,CA,California,Region IX,1970,02-Feb,17,1
+Flood,CA,California,Region IX,1972,01-Jan,1,1
+Flood,CA,California,Region IX,1972,04-Apr,2,1
+Flood,CA,California,Region IX,1972,06-Jun,1,1
+Flood,CA,California,Region IX,1973,02-Feb,6,1
+Flood,CA,California,Region IX,1974,01-Jan,7,1
+Flood,CA,California,Region IX,1974,05-May,1,1
+Flood,CA,California,Region IX,1976,09-Sep,3,1
+Flood,CA,California,Region IX,1978,10-Oct,1,1
+Flood,CA,California,Region IX,1978,02-Feb,14,1
+Flood,CA,California,Region IX,1979,07-Jul,1,1
+Flood,CA,California,Region IX,1980,01-Jan,8,1
+Flood,CA,California,Region IX,1980,10-Oct,1,1
+Flood,CA,California,Region IX,1982,12-Dec,10,21
+Flood,CA,California,Region IX,1982,08-Aug,1,22
+Flood,CA,California,Region IX,1983,06-Jun,3,231
+Flood,CA,California,Region IX,1983,08-Aug,2,4
+Flood,CA,California,Region IX,1986,02-Feb,39,27
+Flood,CA,California,Region IX,1988,01-Jan,5,6
+Flood,CA,California,Region IX,1992,02-Feb,5,9
+Flood,CA,California,Region IX,1993,01-Jan,27,75
+Flood,CO,Colorado,Region VIII,1955,05-May,1,1
+Flood,CO,Colorado,Region VIII,1956,06-Jun,1,1
+Flood,CO,Colorado,Region VIII,1969,05-May,15,1
+Flood,CO,Colorado,Region VIII,1970,09-Sep,16,1
+Flood,CO,Colorado,Region VIII,1973,05-May,16,1
+Flood,CO,Colorado,Region VIII,1973,07-Jul,16,1
+Flood,CO,Colorado,Region VIII,1976,08-Aug,4,1
+Flood,CO,Colorado,Region VIII,1982,07-Jul,1,1
+Flood,CO,Colorado,Region VIII,1984,07-Jul,15,1
+Flood,CO,Colorado,Region VIII,1997,07-Jul,13,16
+Flood,CT,Connecticut,Region I,1982,06-Jun,8,1
+Flood,CT,Connecticut,Region I,1984,05-May,6,7
+Flood,CT,Connecticut,Region I,1992,12-Dec,3,4
+Flood,DE,Delaware,Region III,1962,03-Mar,1,1
+Flood,DE,Delaware,Region III,1992,01-Jan,2,2
+Flood,FL,Florida,Region IV,1953,10-Oct,1,1
+Flood,FL,Florida,Region IV,1962,12-Dec,1,1
+Flood,FL,Florida,Region IV,1970,07-Jul,3,1
+Flood,FL,Florida,Region IV,1973,05-May,13,1
+Flood,FL,Florida,Region IV,1975,08-Aug,8,1
+Flood,FL,Florida,Region IV,1975,09-Sep,6,1
+Flood,FL,Florida,Region IV,1979,03-Mar,2,1
+Flood,FL,Florida,Region IV,1979,09-Sep,3,1
+Flood,FL,Florida,Region IV,1982,07-Jul,4,1
+Flood,FL,Florida,Region IV,1990,03-Mar,11,25
+Flood,FL,Florida,Region IV,1992,06-Jun,4,8
+Flood,FL,Florida,Region IV,1994,07-Jul,14,28
+Flood,FL,Florida,Region IV,1995,10-Oct,3,39
+Flood,FM,Federated States of Micronesia,Region IX,1979,12-Dec,1,1
+Flood,GA,Georgia,Region IV,1961,03-Mar,1,1
+Flood,GA,Georgia,Region IV,1963,03-Mar,1,1
+Flood,GA,Georgia,Region IV,1964,11-Nov,1,1
+Flood,GA,Georgia,Region IV,1966,03-Mar,23,1
+Flood,GA,Georgia,Region IV,1976,06-Jun,8,1
+Flood,GA,Georgia,Region IV,1977,11-Nov,1,1
+Flood,GA,Georgia,Region IV,1979,03-Mar,3,1
+Flood,GA,Georgia,Region IV,1990,10-Oct,9,19
+Flood,GA,Georgia,Region IV,1991,03-Mar,15,21
+Flood,HI,Hawaii,Region IX,1963,04-Apr,1,1
+Flood,HI,Hawaii,Region IX,1968,09-Sep,1,1
+Flood,HI,Hawaii,Region IX,1974,05-May,2,1
+Flood,HI,Hawaii,Region IX,1979,03-Mar,1,1
+Flood,HI,Hawaii,Region IX,1980,02-Feb,1,1
+Flood,HI,Hawaii,Region IX,1982,04-Apr,1,1
+Flood,HI,Hawaii,Region IX,1988,11-Nov,1,52
+Flood,HI,Hawaii,Region IX,1996,11-Nov,1,35
+Flood,IA,Iowa,Region VII,1953,06-Jun,1,1
+Flood,IA,Iowa,Region VII,1954,06-Jun,1,1
+Flood,IA,Iowa,Region VII,1958,07-Jul,1,1
+Flood,IA,Iowa,Region VII,1961,03-Mar,1,1
+Flood,IA,Iowa,Region VII,1962,09-Sep,1,1
+Flood,IA,Iowa,Region VII,1965,04-Apr,68,1
+Flood,IA,Iowa,Region VII,1968,08-Aug,12,1
+Flood,IA,Iowa,Region VII,1969,04-Apr,40,1
+Flood,IA,Iowa,Region VII,1969,08-Aug,47,1
+Flood,IA,Iowa,Region VII,1972,08-Aug,4,1
+Flood,IA,Iowa,Region VII,1972,09-Sep,17,1
+Flood,IA,Iowa,Region VII,1973,05-May,26,1
+Flood,IA,Iowa,Region VII,1974,06-Jun,39,1
+Flood,IA,Iowa,Region VII,1987,05-May,4,6
+Flood,IA,Iowa,Region VII,1990,05-May,39,50
+Flood,IA,Iowa,Region VII,1990,07-Jul,17,38
+Flood,IA,Iowa,Region VII,1991,06-Jun,16,15
+Flood,IA,Iowa,Region VII,1992,09-Sep,9,2
+Flood,IA,Iowa,Region VII,1993,03-Mar,15,18
+Flood,IA,Iowa,Region VII,1993,04-Apr,99,172
+Flood,IA,Iowa,Region VII,1998,06-Jun,83,33
+Flood,IA,Iowa,Region VII,2002,06-Jun,21,23
+Flood,ID,Idaho,Region X,1956,04-Apr,1,1
+Flood,ID,Idaho,Region X,1957,05-May,1,1
+Flood,ID,Idaho,Region X,1961,06-Jun,1,1
+Flood,ID,Idaho,Region X,1962,02-Feb,1,1
+Flood,ID,Idaho,Region X,1963,02-Feb,1,1
+Flood,ID,Idaho,Region X,1964,12-Dec,27,1
+Flood,ID,Idaho,Region X,1972,03-Mar,1,1
+Flood,ID,Idaho,Region X,1974,01-Jan,9,1
+Flood,ID,Idaho,Region X,1976,06-Jun,5,1
+Flood,ID,Idaho,Region X,2005,05-May,1,15
+Flood,IL,Illinois,Region V,1957,06-Jun,1,1
+Flood,IL,Illinois,Region V,1961,05-May,1,1
+Flood,IL,Illinois,Region V,1969,06-Jun,10,1
+Flood,IL,Illinois,Region V,1969,08-Aug,15,1
+Flood,IL,Illinois,Region V,1972,09-Sep,3,1
+Flood,IL,Illinois,Region V,1973,04-Apr,52,1
+Flood,IL,Illinois,Region V,1974,06-Jun,46,1
+Flood,IL,Illinois,Region V,1979,04-Apr,29,1
+Flood,IL,Illinois,Region V,1985,02-Feb,23,42
+Flood,IL,Illinois,Region V,1986,09-Sep,8,25
+Flood,IL,Illinois,Region V,1987,08-Aug,3,18
+Flood,IL,Illinois,Region V,1992,04-Apr,1,39
+Flood,IL,Illinois,Region V,1993,04-Apr,39,193
+Flood,IL,Illinois,Region V,2001,04-Apr,10,42
+Flood,IN,Indiana,Region V,1954,10-Oct,1,1
+Flood,IN,Indiana,Region V,1959,01-Jan,1,1
+Flood,IN,Indiana,Region V,1961,05-May,1,1
+Flood,IN,Indiana,Region V,1964,03-Mar,1,1
+Flood,IN,Indiana,Region V,1968,07-Jul,12,1
+Flood,IN,Indiana,Region V,1978,03-Mar,2,1
+Flood,IN,Indiana,Region V,1979,07-Jul,18,1
+Flood,IN,Indiana,Region V,1982,03-Mar,5,1
+Flood,IN,Indiana,Region V,1990,11-Nov,1,18
+Flood,IN,Indiana,Region V,1991,12-Dec,73,26
+Flood,IN,Indiana,Region V,1992,08-Aug,6,2
+Flood,IN,Indiana,Region V,1996,01-Jan,56,7
+Flood,KS,Kansas,Region VII,1957,09-Sep,1,1
+Flood,KS,Kansas,Region VII,1958,11-Nov,1,1
+Flood,KS,Kansas,Region VII,1965,06-Jun,21,1
+Flood,KS,Kansas,Region VII,1973,05-May,64,1
+Flood,KS,Kansas,Region VII,1974,06-Jun,1,1
+Flood,KS,Kansas,Region VII,1976,07-Jul,10,1
+Flood,KS,Kansas,Region VII,1977,09-Sep,10,1
+Flood,KS,Kansas,Region VII,1979,06-Jun,2,1
+Flood,KS,Kansas,Region VII,1982,06-Jun,1,1
+Flood,KS,Kansas,Region VII,1986,10-Oct,10,3
+Flood,KS,Kansas,Region VII,1993,06-Jun,57,100
+Flood,KS,Kansas,Region VII,2011,06-Jun,4,62
+Flood,KY,Kentucky,Region IV,1957,01-Jan,1,1
+Flood,KY,Kentucky,Region IV,1962,03-Mar,1,1
+Flood,KY,Kentucky,Region IV,1963,03-Mar,1,1
+Flood,KY,Kentucky,Region IV,1964,03-Mar,1,1
+Flood,KY,Kentucky,Region IV,1967,03-Mar,18,1
+Flood,KY,Kentucky,Region IV,1969,07-Jul,11,1
+Flood,KY,Kentucky,Region IV,1970,02-Feb,12,1
+Flood,KY,Kentucky,Region IV,1970,06-Jun,13,1
+Flood,KY,Kentucky,Region IV,1972,05-May,10,1
+Flood,KY,Kentucky,Region IV,1973,05-May,5,1
+Flood,KY,Kentucky,Region IV,1975,03-Mar,17,1
+Flood,KY,Kentucky,Region IV,1975,05-May,4,1
+Flood,KY,Kentucky,Region IV,1977,04-Apr,15,1
+Flood,KY,Kentucky,Region IV,1978,12-Dec,37,1
+Flood,KY,Kentucky,Region IV,1979,07-Jul,1,1
+Flood,KY,Kentucky,Region IV,1982,09-Sep,1,1
+Flood,KY,Kentucky,Region IV,1989,01-Jan,67,55
+Flood,KY,Kentucky,Region IV,1989,10-Oct,11,3
+Flood,KY,Kentucky,Region IV,1989,06-Jun,12,22
+Flood,KY,Kentucky,Region IV,1991,12-Dec,19,59
+Flood,LA,Louisiana,Region VI,1953,05-May,1,1
+Flood,LA,Louisiana,Region VI,1958,05-May,1,1
+Flood,LA,Louisiana,Region VI,1973,04-Apr,37,1
+Flood,LA,Louisiana,Region VI,1974,02-Feb,6,1
+Flood,LA,Louisiana,Region VI,1975,04-Apr,7,1
+Flood,LA,Louisiana,Region VI,1977,05-May,8,1
+Flood,LA,Louisiana,Region VI,1978,05-May,4,1
+Flood,LA,Louisiana,Region VI,1978,09-Sep,2,1
+Flood,LA,Louisiana,Region VI,1979,05-May,10,1
+Flood,LA,Louisiana,Region VI,1979,09-Sep,3,1
+Flood,LA,Louisiana,Region VI,1980,04-Apr,12,1
+Flood,LA,Louisiana,Region VI,1980,05-May,6,1
+Flood,LA,Louisiana,Region VI,1983,01-Jan,19,1
+Flood,LA,Louisiana,Region VI,1983,04-Apr,10,1
+Flood,LA,Louisiana,Region VI,1984,10-Oct,4,1
+Flood,LA,Louisiana,Region VI,1989,11-Nov,3,3
+Flood,LA,Louisiana,Region VI,1989,05-May,30,24
+Flood,LA,Louisiana,Region VI,1989,06-Jun,19,27
+Flood,LA,Louisiana,Region VI,1991,04-Apr,15,15
+Flood,LA,Louisiana,Region VI,1993,01-Jan,9,6
+Flood,MA,Massachusetts,Region I,1972,03-Mar,4,1
+Flood,MA,Massachusetts,Region I,1978,02-Feb,8,3
+Flood,MA,Massachusetts,Region I,1987,03-Mar,8,15
+Flood,MA,Massachusetts,Region I,1996,10-Oct,10,6
+Flood,MA,Massachusetts,Region I,1998,06-Jun,7,24
+Flood,MA,Massachusetts,Region I,2004,04-Apr,5,30
+Flood,MD,Maryland,Region III,1962,03-Mar,1,1
+Flood,MD,Maryland,Region III,1971,08-Aug,9,1
+Flood,MD,Maryland,Region III,1972,06-Jun,21,1
+Flood,MD,Maryland,Region III,1975,10-Oct,14,1
+Flood,MD,Maryland,Region III,1976,10-Oct,2,1
+Flood,MD,Maryland,Region III,1986,11-Nov,1,3
+Flood,MD,Maryland,Region III,1996,01-Jan,6,13
+Flood,ME,Maine,Region I,1970,02-Feb,15,1
+Flood,ME,Maine,Region I,1972,03-Mar,7,1
+Flood,ME,Maine,Region I,1973,05-May,3,1
+Flood,ME,Maine,Region I,1974,01-Jan,12,1
+Flood,ME,Maine,Region I,1978,02-Feb,4,1
+Flood,ME,Maine,Region I,1987,03-Mar,14,14
+Flood,ME,Maine,Region I,1989,05-May,4,9
+Flood,ME,Maine,Region I,1992,03-Mar,10,28
+Flood,ME,Maine,Region I,1993,04-Apr,12,7
+Flood,ME,Maine,Region I,1994,04-Apr,1,25
+Flood,ME,Maine,Region I,1996,10-Oct,3,7
+Flood,ME,Maine,Region I,2007,03-Mar,4,3
+Flood,ME,Maine,Region I,2008,04-Apr,7,17
+Flood,MH,Marshall Islands,Region IX,1992,01-Jan,6,1
+Flood,MI,Michigan,Region V,1972,12-Dec,9,1
+Flood,MI,Michigan,Region V,1973,04-Apr,14,1
+Flood,MI,Michigan,Region V,1975,04-Apr,17,1
+Flood,MI,Michigan,Region V,1975,09-Sep,16,1
+Flood,MI,Michigan,Region V,1980,09-Sep,10,1
+Flood,MI,Michigan,Region V,1982,03-Mar,2,1
+Flood,MI,Michigan,Region V,1985,09-Sep,21,24
+Flood,MI,Michigan,Region V,1986,09-Sep,30,31
+Flood,MI,Michigan,Region V,2002,04-Apr,6,30
+Flood,MN,Minnesota,Region V,1957,06-Jun,1,1
+Flood,MN,Minnesota,Region V,1965,04-Apr,65,1
+Flood,MN,Minnesota,Region V,1966,03-Mar,25,1
+Flood,MN,Minnesota,Region V,1968,08-Aug,5,1
+Flood,MN,Minnesota,Region V,1968,09-Sep,1,1
+Flood,MN,Minnesota,Region V,1969,04-Apr,70,1
+Flood,MN,Minnesota,Region V,1969,08-Aug,4,1
+Flood,MN,Minnesota,Region V,1970,07-Jul,11,1
+Flood,MN,Minnesota,Region V,1972,08-Aug,18,1
+Flood,MN,Minnesota,Region V,1974,06-Jun,12,1
+Flood,MN,Minnesota,Region V,1974,07-Jul,6,1
+Flood,MN,Minnesota,Region V,1975,07-Jul,1,1
+Flood,MN,Minnesota,Region V,1978,04-Apr,10,1
+Flood,MN,Minnesota,Region V,1979,04-Apr,11,1
+Flood,MN,Minnesota,Region V,1989,03-Mar,8,41
+Flood,MN,Minnesota,Region V,1996,03-Mar,26,96
+Flood,MN,Minnesota,Region V,1997,03-Mar,59,65
+Flood,MN,Minnesota,Region V,2001,03-Mar,66,103
+Flood,MN,Minnesota,Region V,2006,03-Mar,9,35
+Flood,MN,Minnesota,Region V,2010,03-Mar,28,57
+Flood,MO,Missouri,Region VII,1960,04-Apr,1,1
+Flood,MO,Missouri,Region VII,1961,05-May,1,1
+Flood,MO,Missouri,Region VII,1964,07-Jul,1,1
+Flood,MO,Missouri,Region VII,1965,07-Jul,18,1
+Flood,MO,Missouri,Region VII,1973,11-Nov,36,1
+Flood,MO,Missouri,Region VII,1974,06-Jun,22,1
+Flood,MO,Missouri,Region VII,1976,07-Jul,4,1
+Flood,MO,Missouri,Region VII,1977,09-Sep,6,1
+Flood,MO,Missouri,Region VII,1979,03-Mar,2,1
+Flood,MO,Missouri,Region VII,1982,12-Dec,14,1
+Flood,MO,Missouri,Region VII,1982,08-Aug,3,1
+Flood,MO,Missouri,Region VII,1984,06-Jun,11,11
+Flood,MO,Missouri,Region VII,1986,09-Sep,30,28
+Flood,MO,Missouri,Region VII,1990,05-May,10,17
+Flood,MO,Missouri,Region VII,1993,04-Apr,8,45
+Flood,MO,Missouri,Region VII,1993,06-Jun,105,138
+Flood,MO,Missouri,Region VII,2000,05-May,10,2
+Flood,MO,Missouri,Region VII,2011,06-Jun,28,62
+Flood,MP,Northern Mariana Islands,Region IX,1978,08-Aug,1,1
+Flood,MS,Mississippi,Region IV,1961,02-Feb,1,1
+Flood,MS,Mississippi,Region IV,1972,01-Jan,9,1
+Flood,MS,Mississippi,Region IV,1974,04-Apr,30,1
+Flood,MS,Mississippi,Region IV,1975,04-Apr,5,1
+Flood,MS,Mississippi,Region IV,1983,12-Dec,1,1
+Flood,MS,Mississippi,Region IV,1991,02-Feb,18,33
+Flood,MS,Mississippi,Region IV,1997,02-Feb,4,53
+Flood,MS,Mississippi,Region IV,2011,04-Apr,14,52
+Flood,MT,Montana,Region VIII,1953,06-Jun,1,1
+Flood,MT,Montana,Region VIII,1964,06-Jun,1,1
+Flood,MT,Montana,Region VIII,1974,01-Jan,7,1
+Flood,MT,Montana,Region VIII,1975,06-Jun,14,1
+Flood,MT,Montana,Region VIII,1978,05-May,7,1
+Flood,MT,Montana,Region VIII,1981,05-May,10,1
+Flood,MT,Montana,Region VIII,1986,02-Feb,16,12
+Flood,MT,Montana,Region VIII,1986,09-Sep,7,34
+Flood,NC,North Carolina,Region IV,1962,03-Mar,1,1
+Flood,NC,North Carolina,Region IV,1964,10-Oct,1,1
+Flood,NC,North Carolina,Region IV,1973,06-Jun,9,1
+Flood,NC,North Carolina,Region IV,1977,11-Nov,16,1
+Flood,NC,North Carolina,Region IV,1979,09-Sep,1,1
+Flood,NC,North Carolina,Region IV,1995,10-Oct,15,3
+Flood,ND,North Dakota,Region VIII,1965,05-May,10,1
+Flood,ND,North Dakota,Region VIII,1966,03-Mar,16,1
+Flood,ND,North Dakota,Region VIII,1966,07-Jul,8,1
+Flood,ND,North Dakota,Region VIII,1969,04-Apr,46,1
+Flood,ND,North Dakota,Region VIII,1970,06-Jun,21,1
+Flood,ND,North Dakota,Region VIII,1972,06-Jun,7,1
+Flood,ND,North Dakota,Region VIII,1974,05-May,18,1
+Flood,ND,North Dakota,Region VIII,1975,05-May,15,1
+Flood,ND,North Dakota,Region VIII,1975,07-Jul,13,1
+Flood,ND,North Dakota,Region VIII,1976,04-Apr,10,1
+Flood,ND,North Dakota,Region VIII,1978,04-Apr,25,1
+Flood,ND,North Dakota,Region VIII,1979,04-Apr,42,1
+Flood,ND,North Dakota,Region VIII,1982,05-May,3,1
+Flood,ND,North Dakota,Region VIII,1989,03-Mar,6,41
+Flood,ND,North Dakota,Region VIII,1993,06-Jun,39,95
+Flood,ND,North Dakota,Region VIII,1997,02-Feb,53,86
+Flood,ND,North Dakota,Region VIII,1998,03-Mar,16,139
+Flood,ND,North Dakota,Region VIII,1999,03-Mar,42,141
+Flood,ND,North Dakota,Region VIII,2001,03-Mar,36,162
+Flood,ND,North Dakota,Region VIII,2010,02-Feb,18,64
+Flood,ND,North Dakota,Region VIII,2011,04-Apr,21,88
+Flood,ND,North Dakota,Region VIII,2013,04-Apr,6,16
+Flood,NE,Nebraska,Region VII,1960,04-Apr,1,1
+Flood,NE,Nebraska,Region VII,1962,05-May,1,1
+Flood,NE,Nebraska,Region VII,1962,09-Sep,1,1
+Flood,NE,Nebraska,Region VII,1963,07-Jul,1,1
+Flood,NE,Nebraska,Region VII,1964,07-Jul,1,1
+Flood,NE,Nebraska,Region VII,1966,08-Aug,8,1
+Flood,NE,Nebraska,Region VII,1967,07-Jul,56,1
+Flood,NE,Nebraska,Region VII,1971,02-Feb,19,1
+Flood,NE,Nebraska,Region VII,1971,07-Jul,9,1
+Flood,NE,Nebraska,Region VII,1973,10-Oct,15,1
+Flood,NE,Nebraska,Region VII,1978,03-Mar,21,1
+Flood,NE,Nebraska,Region VII,1991,05-May,7,37
+Flood,NE,Nebraska,Region VII,1992,07-Jul,8,19
+Flood,NE,Nebraska,Region VII,1993,03-Mar,13,15
+Flood,NE,Nebraska,Region VII,1993,06-Jun,52,44
+Flood,NE,Nebraska,Region VII,2010,03-Mar,37,29
+Flood,NE,Nebraska,Region VII,2011,06-Jun,18,46
+Flood,NH,New Hampshire,Region I,1973,07-Jul,10,1
+Flood,NH,New Hampshire,Region I,1974,01-Jan,4,1
+Flood,NH,New Hampshire,Region I,1978,02-Feb,1,1
+Flood,NH,New Hampshire,Region I,1979,03-Mar,1,1
+Flood,NH,New Hampshire,Region I,1986,07-Jul,3,13
+Flood,NH,New Hampshire,Region I,1987,03-Mar,8,13
+Flood,NH,New Hampshire,Region I,1990,08-Aug,8,5
+Flood,NH,New Hampshire,Region I,1996,10-Oct,12,15.5
+Flood,NJ,New Jersey,Region II,1962,03-Mar,1,1
+Flood,NJ,New Jersey,Region II,1968,06-Jun,7,1
+Flood,NJ,New Jersey,Region II,1971,09-Sep,21,1
+Flood,NJ,New Jersey,Region II,1973,08-Aug,4,1
+Flood,NJ,New Jersey,Region II,1975,07-Jul,13,1
+Flood,NJ,New Jersey,Region II,1976,08-Aug,4,1
+Flood,NJ,New Jersey,Region II,1984,03-Mar,8,12
+Flood,NJ,New Jersey,Region II,1992,12-Dec,12,8
+Flood,NM,New Mexico,Region VI,1954,10-Oct,1,1
+Flood,NM,New Mexico,Region VI,1955,08-Aug,1,1
+Flood,NM,New Mexico,Region VI,1965,07-Jul,4,1
+Flood,NM,New Mexico,Region VI,1972,11-Nov,3,1
+Flood,NM,New Mexico,Region VI,1972,08-Aug,1,1
+Flood,NM,New Mexico,Region VI,1972,09-Sep,2,1
+Flood,NM,New Mexico,Region VI,1973,05-May,11,1
+Flood,NM,New Mexico,Region VI,1979,01-Jan,5,1
+Flood,NM,New Mexico,Region VI,1979,06-Jun,6,1
+Flood,NM,New Mexico,Region VI,1983,09-Sep,3,15
+Flood,NM,New Mexico,Region VI,1984,08-Aug,3,19
+Flood,NM,New Mexico,Region VI,1985,01-Jan,5,1
+Flood,NM,New Mexico,Region VI,1992,05-May,1,4
+Flood,NM,New Mexico,Region VI,1993,01-Jan,4,54
+Flood,NV,Nevada,Region IX,1955,12-Dec,1,1
+Flood,NV,Nevada,Region IX,1955,06-Jun,1,1
+Flood,NV,Nevada,Region IX,1956,08-Aug,1,1
+Flood,NV,Nevada,Region IX,1962,02-Feb,1,1
+Flood,NV,Nevada,Region IX,1963,02-Feb,1,1
+Flood,NV,Nevada,Region IX,1965,01-Jan,4,1
+Flood,NV,Nevada,Region IX,1969,04-Apr,1,1
+Flood,NV,Nevada,Region IX,1981,08-Aug,1,1
+Flood,NV,Nevada,Region IX,1984,09-Sep,1,1
+Flood,NV,Nevada,Region IX,1986,02-Feb,6,26
+Flood,NY,New York,Region II,1956,03-Mar,1,1
+Flood,NY,New York,Region II,1962,03-Mar,1,1
+Flood,NY,New York,Region II,1963,08-Aug,1,1
+Flood,NY,New York,Region II,1967,10-Oct,2,1
+Flood,NY,New York,Region II,1969,08-Aug,1,1
+Flood,NY,New York,Region II,1970,07-Jul,4,1
+Flood,NY,New York,Region II,1971,09-Sep,13,1
+Flood,NY,New York,Region II,1972,06-Jun,26,1
+Flood,NY,New York,Region II,1973,03-Mar,8,1
+Flood,NY,New York,Region II,1973,07-Jul,6,1
+Flood,NY,New York,Region II,1974,11-Nov,1,1
+Flood,NY,New York,Region II,1974,07-Jul,4,1
+Flood,NY,New York,Region II,1975,10-Oct,16,1
+Flood,NY,New York,Region II,1976,06-Jun,2,1
+Flood,NY,New York,Region II,1976,07-Jul,7,1
+Flood,NY,New York,Region II,1984,03-Mar,12,12
+Flood,NY,New York,Region II,1984,09-Sep,3,1
+Flood,NY,New York,Region II,1985,03-Mar,2,1
+Flood,NY,New York,Region II,1987,04-Apr,5,5
+Flood,NY,New York,Region II,1992,12-Dec,5,5
+Flood,NY,New York,Region II,1996,01-Jan,41,12
+Flood,OH,Ohio,Region V,1959,01-Jan,1,1
+Flood,OH,Ohio,Region V,1964,03-Mar,1,1
+Flood,OH,Ohio,Region V,1968,06-Jun,28,1
+Flood,OH,Ohio,Region V,1972,11-Nov,5,1
+Flood,OH,Ohio,Region V,1972,07-Jul,7,1
+Flood,OH,Ohio,Region V,1973,04-Apr,8,1
+Flood,OH,Ohio,Region V,1974,05-May,3,1
+Flood,OH,Ohio,Region V,1974,07-Jul,1,1
+Flood,OH,Ohio,Region V,1975,09-Sep,4,1
+Flood,OH,Ohio,Region V,1980,08-Aug,7,1
+Flood,OH,Ohio,Region V,1982,03-Mar,5,12
+Flood,OH,Ohio,Region V,1987,07-Jul,4,10
+Flood,OH,Ohio,Region V,1989,05-May,13,35
+Flood,OH,Ohio,Region V,1996,01-Jan,13,12
+Flood,OH,Ohio,Region V,1996,05-May,16,54
+Flood,OK,Oklahoma,Region VI,1955,06-Jun,1,1
+Flood,OK,Oklahoma,Region VI,1957,05-May,1,1
+Flood,OK,Oklahoma,Region VI,1959,11-Nov,1,1
+Flood,OK,Oklahoma,Region VI,1959,07-Jul,1,1
+Flood,OK,Oklahoma,Region VI,1968,05-May,5,1
+Flood,OK,Oklahoma,Region VI,1971,09-Sep,6,1
+Flood,OK,Oklahoma,Region VI,1972,01-Jan,12,1
+Flood,OK,Oklahoma,Region VI,1973,10-Oct,5,1
+Flood,OK,Oklahoma,Region VI,1973,12-Dec,15,1
+Flood,OK,Oklahoma,Region VI,1974,11-Nov,13,1
+Flood,OK,Oklahoma,Region VI,1974,03-Mar,6,1
+Flood,OK,Oklahoma,Region VI,1974,06-Jun,20,1
+Flood,OK,Oklahoma,Region VI,1976,06-Jun,2,1
+Flood,OK,Oklahoma,Region VI,1981,11-Nov,6,1
+Flood,OK,Oklahoma,Region VI,1982,06-Jun,9,1
+Flood,OK,Oklahoma,Region VI,1983,10-Oct,18,5
+Flood,OK,Oklahoma,Region VI,1983,06-Jun,1,1
+Flood,OK,Oklahoma,Region VI,1984,05-May,4,2
+Flood,OK,Oklahoma,Region VI,1986,09-Sep,41,20
+Flood,OK,Oklahoma,Region VI,1987,05-May,16,13
+Flood,OR,Oregon,Region X,1955,12-Dec,1,1
+Flood,OR,Oregon,Region X,1956,07-Jul,1,1
+Flood,OR,Oregon,Region X,1957,03-Mar,1,1
+Flood,OR,Oregon,Region X,1963,02-Feb,1,1
+Flood,OR,Oregon,Region X,1964,12-Dec,36,1
+Flood,OR,Oregon,Region X,1971,02-Feb,2,1
+Flood,OR,Oregon,Region X,1972,01-Jan,10,1
+Flood,OR,Oregon,Region X,1974,01-Jan,19,1
+Flood,OR,Oregon,Region X,1990,01-Jan,2,4
+Flood,OR,Oregon,Region X,1995,07-Jul,1,2
+Flood,OR,Oregon,Region X,1996,11-Nov,3,25
+Flood,OR,Oregon,Region X,1996,02-Feb,27,18
+Flood,OR,Oregon,Region X,1998,05-May,1,7
+Flood,PA,Pennsylvania,Region III,1955,08-Aug,1,1
+Flood,PA,Pennsylvania,Region III,1956,03-Mar,1,1
+Flood,PA,Pennsylvania,Region III,1959,01-Jan,1,1
+Flood,PA,Pennsylvania,Region III,1969,08-Aug,4,1
+Flood,PA,Pennsylvania,Region III,1971,09-Sep,7,1
+Flood,PA,Pennsylvania,Region III,1972,06-Jun,67,1
+Flood,PA,Pennsylvania,Region III,1972,09-Sep,1,1
+Flood,PA,Pennsylvania,Region III,1973,07-Jul,10,1
+Flood,PA,Pennsylvania,Region III,1975,09-Sep,30,1
+Flood,PA,Pennsylvania,Region III,1976,10-Oct,21,1
+Flood,PA,Pennsylvania,Region III,1976,07-Jul,2,1
+Flood,PA,Pennsylvania,Region III,1977,07-Jul,8,1
+Flood,PA,Pennsylvania,Region III,1980,08-Aug,3,1
+Flood,PA,Pennsylvania,Region III,1981,06-Jun,5,1
+Flood,PA,Pennsylvania,Region III,1984,08-Aug,7,1
+Flood,PA,Pennsylvania,Region III,1985,11-Nov,6,4
+Flood,PA,Pennsylvania,Region III,1986,05-May,1,2
+Flood,PA,Pennsylvania,Region III,1996,01-Jan,67,14
+Flood,PA,Pennsylvania,Region III,1996,11-Nov,1,8
+Flood,PA,Pennsylvania,Region III,1996,06-Jun,5,8
+Flood,PA,Pennsylvania,Region III,1996,07-Jul,10,1
+Flood,PA,Pennsylvania,Region III,1996,09-Sep,6,3
+Flood,PA,Pennsylvania,Region III,1999,09-Sep,5,2
+Flood,PA,Pennsylvania,Region III,2011,09-Sep,42,43
+Flood,PR,Puerto Rico,Region II,1970,10-Oct,60,1
+Flood,PR,Puerto Rico,Region II,1974,11-Nov,52,1
+Flood,PR,Puerto Rico,Region II,1975,09-Sep,78,1
+Flood,PR,Puerto Rico,Region II,1985,10-Oct,48,4
+Flood,PR,Puerto Rico,Region II,1985,05-May,20,6
+Flood,PR,Puerto Rico,Region II,1986,04-Apr,31,20
+Flood,PR,Puerto Rico,Region II,1987,11-Nov,32,16
+Flood,PR,Puerto Rico,Region II,1992,01-Jan,35,2
+Flood,SC,South Carolina,Region IV,1990,10-Oct,13,18
+Flood,SC,South Carolina,Region IV,1996,09-Sep,5,41
+Flood,SD,South Dakota,Region VIII,1954,07-Jul,1,1
+Flood,SD,South Dakota,Region VIII,1960,04-Apr,1,1
+Flood,SD,South Dakota,Region VIII,1962,07-Jul,1,1
+Flood,SD,South Dakota,Region VIII,1965,05-May,4,1
+Flood,SD,South Dakota,Region VIII,1969,04-Apr,26,1
+Flood,SD,South Dakota,Region VIII,1972,06-Jun,4,1
+Flood,SD,South Dakota,Region VIII,1976,06-Jun,4,1
+Flood,SD,South Dakota,Region VIII,1984,06-Jun,16,1
+Flood,SD,South Dakota,Region VIII,1986,03-Mar,25,50
+Flood,SD,South Dakota,Region VIII,1995,03-Mar,53,112
+Flood,SD,South Dakota,Region VIII,1997,02-Feb,65,111
+Flood,SD,South Dakota,Region VIII,1998,04-Apr,9,59
+Flood,SD,South Dakota,Region VIII,2001,03-Mar,24,61
+Flood,TN,Tennessee,Region IV,1963,03-Mar,1,1
+Flood,TN,Tennessee,Region IV,1969,07-Jul,6,1
+Flood,TN,Tennessee,Region IV,1972,05-May,4,1
+Flood,TN,Tennessee,Region IV,1973,03-Mar,47,1
+Flood,TN,Tennessee,Region IV,1973,05-May,6,1
+Flood,TN,Tennessee,Region IV,1973,06-Jun,12,1
+Flood,TN,Tennessee,Region IV,1975,03-Mar,46,1
+Flood,TN,Tennessee,Region IV,1977,11-Nov,6,1
+Flood,TN,Tennessee,Region IV,1977,04-Apr,6,1
+Flood,TN,Tennessee,Region IV,1982,08-Aug,5,1
+Flood,TN,Tennessee,Region IV,1982,09-Sep,1,1
+Flood,TN,Tennessee,Region IV,1984,05-May,10,6
+Flood,TN,Tennessee,Region IV,1990,02-Feb,3,6
+Flood,TN,Tennessee,Region IV,1991,12-Dec,22,27
+Flood,TN,Tennessee,Region IV,1991,05-May,9,34
+Flood,TN,Tennessee,Region IV,1994,03-Mar,17,10
+Flood,TN,Tennessee,Region IV,2011,04-Apr,4,43
+Flood,TX,Texas,Region VI,1953,06-Jun,1,1
+Flood,TX,Texas,Region VI,1954,07-Jul,1,1
+Flood,TX,Texas,Region VI,1959,07-Jul,1,1
+Flood,TX,Texas,Region VI,1966,05-May,26,1
+Flood,TX,Texas,Region VI,1966,09-Sep,1,1
+Flood,TX,Texas,Region VI,1968,06-Jun,1,1
+Flood,TX,Texas,Region VI,1968,07-Jul,4,1
+Flood,TX,Texas,Region VI,1971,09-Sep,15,1
+Flood,TX,Texas,Region VI,1972,01-Jan,6,1
+Flood,TX,Texas,Region VI,1972,05-May,7,1
+Flood,TX,Texas,Region VI,1973,06-Jun,4,1
+Flood,TX,Texas,Region VI,1973,07-Jul,13,1
+Flood,TX,Texas,Region VI,1974,11-Nov,10,1
+Flood,TX,Texas,Region VI,1975,02-Feb,1,1
+Flood,TX,Texas,Region VI,1976,06-Jun,1,1
+Flood,TX,Texas,Region VI,1978,08-Aug,8,1
+Flood,TX,Texas,Region VI,1979,06-Jun,1,1
+Flood,TX,Texas,Region VI,1979,07-Jul,6,1
+Flood,TX,Texas,Region VI,1979,09-Sep,7,1
+Flood,TX,Texas,Region VI,1980,09-Sep,2,1
+Flood,TX,Texas,Region VI,1981,10-Oct,9,1
+Flood,TX,Texas,Region VI,1981,09-Sep,1,1
+Flood,TX,Texas,Region VI,1982,05-May,1,1
+Flood,TX,Texas,Region VI,1984,10-Oct,3,1
+Flood,TX,Texas,Region VI,1984,09-Sep,1,3
+Flood,TX,Texas,Region VI,1989,03-Mar,9,2
+Flood,TX,Texas,Region VI,1989,06-Jun,9,13
+Flood,TX,Texas,Region VI,1991,12-Dec,65,26
+Flood,TX,Texas,Region VI,1992,03-Mar,3,27
+Flood,TX,Texas,Region VI,1994,10-Oct,38,26
+Flood,TX,Texas,Region VI,1997,06-Jun,21,25
+Flood,TX,Texas,Region VI,1998,10-Oct,43,30
+Flood,TX,Texas,Region VI,2002,06-Jun,41,33
+Flood,UT,Utah,Region VIII,1983,04-Apr,22,1
+Flood,UT,Utah,Region VIII,1984,08-Aug,12,1
+Flood,UT,Utah,Region VIII,1986,02-Feb,4,11
+Flood,UT,Utah,Region VIII,1989,01-Jan,1,1
+Flood,UT,Utah,Region VIII,2005,04-Apr,8,63
+Flood,VA,Virginia,Region III,1957,02-Feb,1,1
+Flood,VA,Virginia,Region III,1962,03-Mar,1,1
+Flood,VA,Virginia,Region III,1963,03-Mar,1,1
+Flood,VA,Virginia,Region III,1972,10-Oct,34,1
+Flood,VA,Virginia,Region III,1972,06-Jun,106,1
+Flood,VA,Virginia,Region III,1977,11-Nov,8,1
+Flood,VA,Virginia,Region III,1977,04-Apr,16,1
+Flood,VA,Virginia,Region III,1979,07-Jul,1,1
+Flood,VA,Virginia,Region III,1979,09-Sep,1,1
+Flood,VA,Virginia,Region III,1984,05-May,3,1
+Flood,VA,Virginia,Region III,1985,11-Nov,52,1
+Flood,VA,Virginia,Region III,1989,10-Oct,1,2
+Flood,VA,Virginia,Region III,1992,04-Apr,28,2
+Flood,VA,Virginia,Region III,1996,01-Jan,27,14
+Flood,VI,Virgin Islands,Region II,1970,10-Oct,2,1
+Flood,VI,Virgin Islands,Region II,1974,11-Nov,3,1
+Flood,VI,Virgin Islands,Region II,1983,04-Apr,2,1
+Flood,VT,Vermont,Region I,1964,03-Mar,1,1
+Flood,VT,Vermont,Region I,1969,08-Aug,2,1
+Flood,VT,Vermont,Region I,1973,07-Jul,14,1
+Flood,VT,Vermont,Region I,1976,08-Aug,12,1
+Flood,VT,Vermont,Region I,1984,06-Jun,5,3
+Flood,VT,Vermont,Region I,1989,08-Aug,5,2
+Flood,VT,Vermont,Region I,1990,07-Jul,5,20
+Flood,VT,Vermont,Region I,1992,03-Mar,5,1
+Flood,VT,Vermont,Region I,1993,04-Apr,4,33
+Flood,VT,Vermont,Region I,1996,01-Jan,11,15
+Flood,VT,Vermont,Region I,1996,06-Jun,1,3
+Flood,VT,Vermont,Region I,1997,07-Jul,5,3
+Flood,WA,Washington,Region X,1956,02-Feb,1,1
+Flood,WA,Washington,Region X,1957,03-Mar,1,1
+Flood,WA,Washington,Region X,1963,03-Mar,1,1
+Flood,WA,Washington,Region X,1964,12-Dec,21,1
+Flood,WA,Washington,Region X,1971,02-Feb,7,1
+Flood,WA,Washington,Region X,1972,02-Feb,9,1
+Flood,WA,Washington,Region X,1972,03-Mar,3,1
+Flood,WA,Washington,Region X,1972,06-Jun,3,1
+Flood,WA,Washington,Region X,1974,01-Jan,13,1
+Flood,WA,Washington,Region X,1975,12-Dec,12,1
+Flood,WA,Washington,Region X,1977,12-Dec,18,1
+Flood,WA,Washington,Region X,1979,12-Dec,9,1
+Flood,WA,Washington,Region X,1979,03-Mar,1,1
+Flood,WA,Washington,Region X,1982,08-Aug,1,1
+Flood,WA,Washington,Region X,1983,01-Jan,1,1
+Flood,WA,Washington,Region X,1986,01-Jan,3,4
+Flood,WA,Washington,Region X,1986,11-Nov,7,8
+Flood,WA,Washington,Region X,1986,02-Feb,1,3
+Flood,WA,Washington,Region X,1986,05-May,1,1
+Flood,WA,Washington,Region X,1989,03-Mar,4,10
+Flood,WA,Washington,Region X,1990,01-Jan,7,9
+Flood,WA,Washington,Region X,1990,11-Nov,19,42
+Flood,WA,Washington,Region X,1991,12-Dec,10,12
+Flood,WA,Washington,Region X,1996,01-Jan,24,29
+Flood,WA,Washington,Region X,1997,03-Mar,13,11
+Flood,WA,Washington,Region X,1997,04-Apr,1,82
+Flood,WI,Wisconsin,Region V,1969,05-May,15,1
+Flood,WI,Wisconsin,Region V,1969,07-Jul,6,1
+Flood,WI,Wisconsin,Region V,1972,09-Sep,4,1
+Flood,WI,Wisconsin,Region V,1973,04-Apr,34,1
+Flood,WI,Wisconsin,Region V,1976,03-Mar,22,1
+Flood,WI,Wisconsin,Region V,1980,07-Jul,4,1
+Flood,WI,Wisconsin,Region V,1984,07-Jul,3,1
+Flood,WI,Wisconsin,Region V,1986,08-Aug,2,1
+Flood,WI,Wisconsin,Region V,1986,09-Sep,8,24
+Flood,WI,Wisconsin,Region V,1990,08-Aug,1,3
+Flood,WI,Wisconsin,Region V,1992,09-Sep,10,11
+Flood,WI,Wisconsin,Region V,1996,07-Jul,2,6
+Flood,WI,Wisconsin,Region V,1999,07-Jul,10,28
+Flood,WI,Wisconsin,Region V,2001,04-Apr,32,88
+Flood,WV,West Virginia,Region III,1954,08-Aug,1,1
+Flood,WV,West Virginia,Region III,1957,01-Jan,1,1
+Flood,WV,West Virginia,Region III,1961,07-Jul,1,1
+Flood,WV,West Virginia,Region III,1962,03-Mar,1,1
+Flood,WV,West Virginia,Region III,1963,03-Mar,1,1
+Flood,WV,West Virginia,Region III,1964,03-Mar,1,1
+Flood,WV,West Virginia,Region III,1967,03-Mar,36,1
+Flood,WV,West Virginia,Region III,1969,09-Sep,1,1
+Flood,WV,West Virginia,Region III,1972,02-Feb,7,1
+Flood,WV,West Virginia,Region III,1972,07-Jul,15,1
+Flood,WV,West Virginia,Region III,1972,08-Aug,4,1
+Flood,WV,West Virginia,Region III,1974,01-Jan,5,1
+Flood,WV,West Virginia,Region III,1974,04-Apr,4,1
+Flood,WV,West Virginia,Region III,1975,09-Sep,2,1
+Flood,WV,West Virginia,Region III,1977,04-Apr,11,1
+Flood,WV,West Virginia,Region III,1977,08-Aug,3,1
+Flood,WV,West Virginia,Region III,1978,12-Dec,5,1
+Flood,WV,West Virginia,Region III,1980,08-Aug,15,8
+Flood,WV,West Virginia,Region III,1984,05-May,4,1
+Flood,WV,West Virginia,Region III,1985,11-Nov,29,5
+Flood,WV,West Virginia,Region III,1996,01-Jan,28,15
+Flood,WV,West Virginia,Region III,1996,05-May,17,27
+Flood,WV,West Virginia,Region III,1997,02-Feb,16,16
+Flood,WV,West Virginia,Region III,2000,02-Feb,26,5
+Flood,WV,West Virginia,Region III,2010,06-Jun,5,18
+Flood,WY,Wyoming,Region VIII,1963,07-Jul,1,1
+Flood,WY,Wyoming,Region VIII,1978,05-May,12,1
+Flood,WY,Wyoming,Region VIII,1985,08-Aug,1,1
+Human,CA,California,Region IX,1963,12-Dec,1,1
+Human,CA,California,Region IX,2004,06-Jun,1,40
+Human,CO,Colorado,Region VIII,1973,05-May,1,1
+Human,FL,Florida,Region IV,1980,05-May,4,1
+Human,KY,Kentucky,Region IV,1981,03-Mar,1,1
+Human,LA,Louisiana,Region VI,1962,11-Nov,1,1
+Human,MS,Mississippi,Region IV,1962,10-Oct,1,1
+Human,NY,New York,Region II,1978,08-Aug,1,1
+Human,NY,New York,Region II,1980,05-May,1,1
+Human,NY,New York,Region II,1993,02-Feb,1,1
+Human,OK,Oklahoma,Region VI,1995,04-Apr,1,1
+Human,RI,Rhode Island,Region I,1992,08-Aug,2,110
+Human,VA,Virginia,Region III,2001,09-Sep,1,1
+Human,WV,West Virginia,Region III,2014,01-Jan,9,12
+Human,WY,Wyoming,Region VIII,1987,02-Feb,1,1
+Hurricane,AL,Alabama,Region IV,1969,11-Nov,2,1
+Hurricane,AL,Alabama,Region IV,1979,09-Sep,11,1
+Hurricane,AL,Alabama,Region IV,1985,08-Aug,2,5
+Hurricane,AL,Alabama,Region IV,1995,10-Oct,38,5
+Hurricane,AL,Alabama,Region IV,1998,09-Sep,26,10.61538462
+Hurricane,AL,Alabama,Region IV,2002,09-Sep,2,9
+Hurricane,AL,Alabama,Region IV,2005,07-Jul,46,7
+Hurricane,AL,Alabama,Region IV,2005,08-Aug,73,33.67123288
+Hurricane,AL,Alabama,Region IV,2008,08-Aug,67,6
+Hurricane,AR,Arkansas,Region VI,2005,08-Aug,75,34
+Hurricane,AS,American Samoa,Region IX,1987,01-Jan,5,1
+Hurricane,AS,American Samoa,Region IX,1990,02-Feb,5,11
+Hurricane,AS,American Samoa,Region IX,1991,12-Dec,5,5
+Hurricane,AZ,Arizona,Region IX,2005,08-Aug,15,34
+Hurricane,CA,California,Region IX,2005,08-Aug,58,34
+Hurricane,CT,Connecticut,Region I,1954,09-Sep,1,1
+Hurricane,CT,Connecticut,Region I,1955,08-Aug,1,1
+Hurricane,CT,Connecticut,Region I,1985,09-Sep,8,1
+Hurricane,CT,Connecticut,Region I,1991,08-Aug,6,1
+Hurricane,CT,Connecticut,Region I,1999,09-Sep,3,6
+Hurricane,CT,Connecticut,Region I,2005,08-Aug,8,34
+Hurricane,CT,Connecticut,Region I,2011,08-Aug,8,7
+Hurricane,DC,District of Columbia,Region III,2003,09-Sep,1,12
+Hurricane,DC,District of Columbia,Region III,2005,08-Aug,1,34
+Hurricane,DC,District of Columbia,Region III,2011,08-Aug,1,7
+Hurricane,DC,District of Columbia,Region III,2012,10-Oct,1,4
+Hurricane,DE,Delaware,Region III,1999,09-Sep,1,3
+Hurricane,DE,Delaware,Region III,2003,09-Sep,4,9.25
+Hurricane,DE,Delaware,Region III,2005,08-Aug,3,34
+Hurricane,DE,Delaware,Region III,2011,08-Aug,5,6.4
+Hurricane,DE,Delaware,Region III,2012,10-Oct,3,13
+Hurricane,FL,Florida,Region IV,1960,09-Sep,1,1
+Hurricane,FL,Florida,Region IV,1964,09-Sep,2,1
+Hurricane,FL,Florida,Region IV,1965,09-Sep,10,1
+Hurricane,FL,Florida,Region IV,1968,11-Nov,14,1
+Hurricane,FL,Florida,Region IV,1979,09-Sep,5,1
+Hurricane,FL,Florida,Region IV,1985,11-Nov,8,2
+Hurricane,FL,Florida,Region IV,1985,08-Aug,7,5
+Hurricane,FL,Florida,Region IV,1992,08-Aug,4,2
+Hurricane,FL,Florida,Region IV,1995,10-Oct,15,8
+Hurricane,FL,Florida,Region IV,1995,08-Aug,7,2
+Hurricane,FL,Florida,Region IV,1998,09-Sep,57,8.754385965
+Hurricane,FL,Florida,Region IV,1999,10-Oct,29,6
+Hurricane,FL,Florida,Region IV,1999,09-Sep,24,8
+Hurricane,FL,Florida,Region IV,2005,08-Aug,67,34
+Hurricane,GA,Georgia,Region IV,1964,09-Sep,1,1
+Hurricane,GA,Georgia,Region IV,1995,10-Oct,50,2
+Hurricane,GA,Georgia,Region IV,1999,09-Sep,6,4
+Hurricane,HI,Hawaii,Region IX,1959,08-Aug,1,1
+Hurricane,HI,Hawaii,Region IX,1992,09-Sep,6,1
+Hurricane,IA,Iowa,Region VII,2005,08-Aug,99,34
+Hurricane,ID,Idaho,Region X,2005,08-Aug,44,34
+Hurricane,IL,Illinois,Region V,2005,08-Aug,102,34
+Hurricane,IN,Indiana,Region V,2005,08-Aug,92,34
+Hurricane,KS,Kansas,Region VII,2005,09-Sep,105,31
+Hurricane,LA,Louisiana,Region VI,1956,10-Oct,1,1
+Hurricane,LA,Louisiana,Region VI,1957,05-May,1,1
+Hurricane,LA,Louisiana,Region VI,1964,10-Oct,1,1
+Hurricane,LA,Louisiana,Region VI,1965,09-Sep,35,1
+Hurricane,LA,Louisiana,Region VI,1969,08-Aug,5,1
+Hurricane,LA,Louisiana,Region VI,1971,10-Oct,21,1
+Hurricane,LA,Louisiana,Region VI,1974,09-Sep,10,1
+Hurricane,LA,Louisiana,Region VI,1985,10-Oct,14,14
+Hurricane,LA,Louisiana,Region VI,1992,08-Aug,36,6
+Hurricane,LA,Louisiana,Region VI,1998,09-Sep,22,26
+Hurricane,LA,Louisiana,Region VI,2002,10-Oct,44,16
+Hurricane,LA,Louisiana,Region VI,2002,09-Sep,16,11
+Hurricane,LA,Louisiana,Region VI,2004,09-Sep,29,14
+Hurricane,LA,Louisiana,Region VI,2005,08-Aug,63,68
+Hurricane,LA,Louisiana,Region VI,2005,09-Sep,64,43
+Hurricane,LA,Louisiana,Region VI,2008,09-Sep,4,62
+Hurricane,LA,Louisiana,Region VI,2012,08-Aug,34,16
+Hurricane,MA,Massachusetts,Region I,1954,09-Sep,1,1
+Hurricane,MA,Massachusetts,Region I,1955,08-Aug,1,1
+Hurricane,MA,Massachusetts,Region I,1985,09-Sep,13,1
+Hurricane,MA,Massachusetts,Region I,1991,08-Aug,11,1
+Hurricane,MA,Massachusetts,Region I,2005,08-Aug,14,34
+Hurricane,MA,Massachusetts,Region I,2010,09-Sep,10,4
+Hurricane,MA,Massachusetts,Region I,2012,10-Oct,14,13
+Hurricane,MD,Maryland,Region III,1996,09-Sep,3,4
+Hurricane,MD,Maryland,Region III,1999,09-Sep,11,5
+Hurricane,MD,Maryland,Region III,2003,09-Sep,24,12
+Hurricane,MD,Maryland,Region III,2005,08-Aug,24,34
+Hurricane,MD,Maryland,Region III,2011,08-Aug,23,11
+Hurricane,MD,Maryland,Region III,2012,10-Oct,24,14
+Hurricane,ME,Maine,Region I,1954,09-Sep,1,1
+Hurricane,ME,Maine,Region I,1991,08-Aug,9,4
+Hurricane,ME,Maine,Region I,1999,09-Sep,5,4
+Hurricane,ME,Maine,Region I,2005,08-Aug,15,34
+Hurricane,ME,Maine,Region I,2011,08-Aug,4,3
+Hurricane,MI,Michigan,Region V,2005,08-Aug,83,34
+Hurricane,MN,Minnesota,Region V,2005,08-Aug,87,34
+Hurricane,MO,Missouri,Region VII,2005,08-Aug,115,34
+Hurricane,MS,Mississippi,Region IV,1965,09-Sep,11,1
+Hurricane,MS,Mississippi,Region IV,1969,08-Aug,27,1
+Hurricane,MS,Mississippi,Region IV,1979,09-Sep,16,1
+Hurricane,MS,Mississippi,Region IV,1985,08-Aug,4,7
+Hurricane,MS,Mississippi,Region IV,1998,09-Sep,35,9.457142857
+Hurricane,MS,Mississippi,Region IV,2002,09-Sep,11,14
+Hurricane,MS,Mississippi,Region IV,2005,07-Jul,42,6
+Hurricane,MS,Mississippi,Region IV,2005,08-Aug,11,49
+Hurricane,MS,Mississippi,Region IV,2012,08-Aug,34,17
+Hurricane,MT,Montana,Region VIII,2005,08-Aug,56,34
+Hurricane,NC,North Carolina,Region IV,1954,10-Oct,1,1
+Hurricane,NC,North Carolina,Region IV,1955,08-Aug,1,1
+Hurricane,NC,North Carolina,Region IV,1958,10-Oct,1,1
+Hurricane,NC,North Carolina,Region IV,1960,09-Sep,1,1
+Hurricane,NC,North Carolina,Region IV,1984,09-Sep,6,1
+Hurricane,NC,North Carolina,Region IV,1989,09-Sep,29,2
+Hurricane,NC,North Carolina,Region IV,1993,08-Aug,1,1
+Hurricane,NC,North Carolina,Region IV,1996,07-Jul,17,4
+Hurricane,NC,North Carolina,Region IV,1996,09-Sep,58,47
+Hurricane,NC,North Carolina,Region IV,1998,08-Aug,30,13
+Hurricane,NC,North Carolina,Region IV,1999,08-Aug,17,14
+Hurricane,NC,North Carolina,Region IV,1999,09-Sep,132,34.5
+Hurricane,NC,North Carolina,Region IV,2003,09-Sep,48,9
+Hurricane,NC,North Carolina,Region IV,2004,09-Sep,64,6.90625
+Hurricane,NC,North Carolina,Region IV,2005,08-Aug,100,34
+Hurricane,NC,North Carolina,Region IV,2005,09-Sep,47,7
+Hurricane,NC,North Carolina,Region IV,2010,09-Sep,30,4
+Hurricane,NC,North Carolina,Region IV,2011,08-Aug,34,8
+Hurricane,NE,Nebraska,Region VII,2005,08-Aug,93,34
+Hurricane,NH,New Hampshire,Region I,1991,08-Aug,4,3
+Hurricane,NH,New Hampshire,Region I,1999,09-Sep,3,3
+Hurricane,NH,New Hampshire,Region I,2005,08-Aug,10,34
+Hurricane,NH,New Hampshire,Region I,2012,10-Oct,10,6
+Hurricane,NJ,New Jersey,Region II,1955,08-Aug,1,1
+Hurricane,NJ,New Jersey,Region II,1985,09-Sep,4,1
+Hurricane,NJ,New Jersey,Region II,1999,09-Sep,30,3
+Hurricane,NJ,New Jersey,Region II,2005,08-Aug,21,34
+Hurricane,NJ,New Jersey,Region II,2011,08-Aug,21,11
+Hurricane,NJ,New Jersey,Region II,2012,10-Oct,21,14
+Hurricane,NM,New Mexico,Region VI,2005,08-Aug,33,34
+Hurricane,NV,Nevada,Region IX,2005,08-Aug,17,34
+Hurricane,NY,New York,Region II,1954,10-Oct,1,1
+Hurricane,NY,New York,Region II,1955,08-Aug,1,1
+Hurricane,NY,New York,Region II,1976,09-Sep,3,1
+Hurricane,NY,New York,Region II,1985,09-Sep,2,1
+Hurricane,NY,New York,Region II,1991,08-Aug,1,1
+Hurricane,NY,New York,Region II,1999,09-Sep,19,3
+Hurricane,NY,New York,Region II,2005,08-Aug,62,34
+Hurricane,NY,New York,Region II,2011,08-Aug,17,12
+Hurricane,NY,New York,Region II,2012,10-Oct,62,13
+Hurricane,OH,Ohio,Region V,2005,08-Aug,88,34
+Hurricane,OK,Oklahoma,Region VI,2005,08-Aug,77,34
+Hurricane,PA,Pennsylvania,Region III,1985,09-Sep,6,1
+Hurricane,PA,Pennsylvania,Region III,1999,09-Sep,8,14
+Hurricane,PA,Pennsylvania,Region III,2004,09-Sep,67,15
+Hurricane,PA,Pennsylvania,Region III,2005,08-Aug,67,34
+Hurricane,PA,Pennsylvania,Region III,2011,08-Aug,13,20
+Hurricane,PA,Pennsylvania,Region III,2012,10-Oct,68,14
+Hurricane,PR,Puerto Rico,Region II,1956,08-Aug,1,1
+Hurricane,PR,Puerto Rico,Region II,1979,09-Sep,72,1
+Hurricane,PR,Puerto Rico,Region II,1989,09-Sep,57,2
+Hurricane,PR,Puerto Rico,Region II,1995,09-Sep,14,3
+Hurricane,PR,Puerto Rico,Region II,1996,09-Sep,71,3
+Hurricane,PR,Puerto Rico,Region II,1998,09-Sep,1,1
+Hurricane,PR,Puerto Rico,Region II,1999,11-Nov,78,4
+Hurricane,PR,Puerto Rico,Region II,2011,08-Aug,78,4
+Hurricane,RI,Rhode Island,Region I,1954,09-Sep,1,1
+Hurricane,RI,Rhode Island,Region I,1955,08-Aug,1,1
+Hurricane,RI,Rhode Island,Region I,1985,09-Sep,5,1
+Hurricane,RI,Rhode Island,Region I,1991,08-Aug,5,1
+Hurricane,RI,Rhode Island,Region I,2005,08-Aug,5,34
+Hurricane,RI,Rhode Island,Region I,2011,08-Aug,5,4
+Hurricane,RI,Rhode Island,Region I,2012,10-Oct,5,14
+Hurricane,SC,South Carolina,Region IV,1954,10-Oct,1,1
+Hurricane,SC,South Carolina,Region IV,1955,08-Aug,1,1
+Hurricane,SC,South Carolina,Region IV,1989,09-Sep,24,2
+Hurricane,SC,South Carolina,Region IV,1998,08-Aug,1,8
+Hurricane,SC,South Carolina,Region IV,1999,09-Sep,54,14.5
+Hurricane,SC,South Carolina,Region IV,2004,08-Aug,2,2
+Hurricane,SC,South Carolina,Region IV,2004,09-Sep,28,36
+Hurricane,SC,South Carolina,Region IV,2005,08-Aug,46,34
+Hurricane,TN,Tennessee,Region IV,2005,08-Aug,95,34
+Hurricane,TX,Texas,Region VI,1957,04-Apr,1,1
+Hurricane,TX,Texas,Region VI,1961,09-Sep,1,1
+Hurricane,TX,Texas,Region VI,1963,09-Sep,1,1
+Hurricane,TX,Texas,Region VI,1967,09-Sep,29,1
+Hurricane,TX,Texas,Region VI,1970,08-Aug,7,1
+Hurricane,TX,Texas,Region VI,1980,08-Aug,12,1
+Hurricane,TX,Texas,Region VI,1983,08-Aug,9,3
+Hurricane,TX,Texas,Region VI,1988,09-Sep,3,3
+Hurricane,TX,Texas,Region VI,1999,08-Aug,13,6
+Hurricane,TX,Texas,Region VI,2003,07-Jul,18,14
+Hurricane,TX,Texas,Region VI,2005,08-Aug,254,34
+Hurricane,TX,Texas,Region VI,2005,09-Sep,255,25
+Hurricane,TX,Texas,Region VI,2007,08-Aug,32,20
+Hurricane,TX,Texas,Region VI,2008,08-Aug,61,12
+Hurricane,TX,Texas,Region VI,2008,09-Sep,88,20
+Hurricane,TX,Texas,Region VI,2010,06-Jun,25,49
+Hurricane,VA,Virginia,Region III,1969,08-Aug,27,1
+Hurricane,VA,Virginia,Region III,1996,09-Sep,88,19
+Hurricane,VA,Virginia,Region III,1998,08-Aug,5,8
+Hurricane,VA,Virginia,Region III,1999,08-Aug,1,18
+Hurricane,VA,Virginia,Region III,1999,09-Sep,67,14
+Hurricane,VA,Virginia,Region III,2003,09-Sep,100,14
+Hurricane,VA,Virginia,Region III,2005,08-Aug,134,34
+Hurricane,VA,Virginia,Region III,2011,08-Aug,30,10
+Hurricane,VA,Virginia,Region III,2012,10-Oct,134,7
+Hurricane,VI,Virgin Islands,Region II,1979,09-Sep,3,1
+Hurricane,VI,Virgin Islands,Region II,1984,11-Nov,3,3
+Hurricane,VI,Virgin Islands,Region II,1989,09-Sep,3,2
+Hurricane,VI,Virgin Islands,Region II,1996,07-Jul,3,2
+Hurricane,VI,Virgin Islands,Region II,1998,09-Sep,5,3.6
+Hurricane,VI,Virgin Islands,Region II,1999,11-Nov,6,4
+Hurricane,VI,Virgin Islands,Region II,2004,09-Sep,3,4
+Hurricane,VT,Vermont,Region I,2011,08-Aug,14,8
+Hurricane,WI,Wisconsin,Region V,2005,08-Aug,73,34
+Hurricane,WV,West Virginia,Region III,1969,09-Sep,3,1
+Hurricane,WV,West Virginia,Region III,2003,09-Sep,10,13
+Hurricane,WV,West Virginia,Region III,2005,08-Aug,55,34
+Hurricane,WV,West Virginia,Region III,2012,10-Oct,55,11
+Other,AK,Alaska,Region X,1953,10-Oct,1,1
+Other,AK,Alaska,Region X,1954,11-Nov,1,1
+Other,AK,Alaska,Region X,1955,12-Dec,1,1
+Other,AK,Alaska,Region X,1994,08-Aug,2,39
+Other,AK,Alaska,Region X,2000,12-Dec,14,65
+Other,AK,Alaska,Region X,2002,10-Oct,2,59
+Other,AK,Alaska,Region X,2003,03-Mar,3,9
+Other,AK,Alaska,Region X,2004,10-Oct,6,7
+Other,AK,Alaska,Region X,2005,01-Jan,1,6
+Other,AK,Alaska,Region X,2005,09-Sep,4,5
+Other,AK,Alaska,Region X,2006,10-Oct,3,6
+Other,AK,Alaska,Region X,2006,08-Aug,3,11
+Other,AL,Alabama,Region IV,1970,04-Apr,2,1
+Other,AL,Alabama,Region IV,1975,10-Oct,15,1
+Other,AL,Alabama,Region IV,1980,04-Apr,2,1
+Other,AL,Alabama,Region IV,1981,04-Apr,1,1
+Other,AL,Alabama,Region IV,1983,12-Dec,4,5
+Other,AL,Alabama,Region IV,1990,02-Feb,27,14
+Other,AL,Alabama,Region IV,1990,03-Mar,33,14
+Other,AL,Alabama,Region IV,1994,01-Jan,10,30
+Other,AL,Alabama,Region IV,1994,03-Mar,7,15
+Other,AL,Alabama,Region IV,1994,07-Jul,10,18
+Other,AL,Alabama,Region IV,1995,02-Feb,5,6
+Other,AL,Alabama,Region IV,1996,02-Feb,14,12
+Other,AL,Alabama,Region IV,1996,03-Mar,3,2
+Other,AL,Alabama,Region IV,1997,07-Jul,3,6
+Other,AL,Alabama,Region IV,1998,03-Mar,12,15
+Other,AL,Alabama,Region IV,1998,04-Apr,6,13
+Other,AL,Alabama,Region IV,1999,12-Dec,12,7
+Other,AL,Alabama,Region IV,2000,01-Jan,3,8
+Other,AL,Alabama,Region IV,2000,12-Dec,11,7
+Other,AL,Alabama,Region IV,2000,03-Mar,2,2
+Other,AL,Alabama,Region IV,2001,11-Nov,19,2
+Other,AL,Alabama,Region IV,2001,02-Feb,6,2
+Other,AL,Alabama,Region IV,2002,11-Nov,29,8
+Other,AL,Alabama,Region IV,2003,05-May,38,26
+Other,AL,Alabama,Region IV,2007,03-Mar,8,1
+Other,AL,Alabama,Region IV,2011,04-Apr,67,35
+Other,AR,Arkansas,Region VI,1982,12-Dec,38,1
+Other,AR,Arkansas,Region VI,1992,06-Jun,5,6
+Other,AR,Arkansas,Region VI,1996,04-Apr,8,2
+Other,AR,Arkansas,Region VI,1997,03-Mar,25,4
+Other,AR,Arkansas,Region VI,1999,01-Jan,22,11
+Other,AR,Arkansas,Region VI,2000,12-Dec,52,28
+Other,AR,Arkansas,Region VI,2001,02-Feb,22,36
+Other,AR,Arkansas,Region VI,2002,12-Dec,20,47
+Other,AR,Arkansas,Region VI,2003,12-Dec,18,2
+Other,AR,Arkansas,Region VI,2003,05-May,23,40
+Other,AR,Arkansas,Region VI,2004,04-Apr,14,30
+Other,AR,Arkansas,Region VI,2004,05-May,14,41
+Other,AR,Arkansas,Region VI,2006,04-Apr,7,3
+Other,AR,Arkansas,Region VI,2009,01-Jan,48,5
+Other,AS,American Samoa,Region IX,1966,02-Feb,5,1
+Other,AS,American Samoa,Region IX,1981,03-Mar,5,1
+Other,AS,American Samoa,Region IX,2003,05-May,2,3
+Other,AS,American Samoa,Region IX,2004,01-Jan,3,5
+Other,AS,American Samoa,Region IX,2005,02-Feb,5,7
+Other,AZ,Arizona,Region IX,1985,01-Jan,2,1
+Other,AZ,Arizona,Region IX,1999,09-Sep,2,10
+Other,AZ,Arizona,Region IX,2000,10-Oct,7,19
+Other,AZ,Arizona,Region IX,2005,12-Dec,6,16
+Other,AZ,Arizona,Region IX,2010,01-Jan,3,10
+Other,CA,California,Region IX,1964,04-Apr,1,1
+Other,CA,California,Region IX,1980,02-Feb,3,1
+Other,CA,California,Region IX,1983,01-Jan,40,69
+Other,CA,California,Region IX,1994,05-May,4,184
+Other,CA,California,Region IX,1995,01-Jan,42,39
+Other,CA,California,Region IX,1995,02-Feb,57,66
+Other,CA,California,Region IX,1997,12-Dec,48,95
+Other,CA,California,Region IX,1998,02-Feb,41,88
+Other,CO,Colorado,Region VIII,1999,04-Apr,12,21
+Other,CO,Colorado,Region VIII,2001,04-Apr,14,12
+Other,CO,Colorado,Region VIII,2005,08-Aug,64,34
+Other,CO,Colorado,Region VIII,2008,05-May,2,1
+Other,CT,Connecticut,Region I,2005,10-Oct,5,2
+Other,CT,Connecticut,Region I,2007,04-Apr,7,13
+Other,CT,Connecticut,Region I,2011,10-Oct,8,2
+Other,CT,Connecticut,Region I,2013,02-Feb,8,4
+Other,DC,District of Columbia,Region III,1989,06-Jun,1,2
+Other,DC,District of Columbia,Region III,1994,01-Jan,1,5
+Other,DC,District of Columbia,Region III,1996,01-Jan,1,5
+Other,DC,District of Columbia,Region III,2000,01-Jan,1,7
+Other,DC,District of Columbia,Region III,2000,08-Aug,1,1
+Other,DC,District of Columbia,Region III,2001,08-Aug,1,3
+Other,DC,District of Columbia,Region III,2003,02-Feb,1,2
+Other,DC,District of Columbia,Region III,2009,01-Jan,1,5
+Other,DC,District of Columbia,Region III,2010,02-Feb,1,7
+Other,DE,Delaware,Region III,1993,12-Dec,1,4
+Other,DE,Delaware,Region III,1994,02-Feb,2,11
+Other,DE,Delaware,Region III,1998,01-Jan,1,10
+Other,DE,Delaware,Region III,2004,09-Sep,1,5
+Other,DE,Delaware,Region III,2006,06-Jun,1,22
+Other,FL,Florida,Region IV,1960,03-Mar,1,1
+Other,FL,Florida,Region IV,1972,06-Jun,14,1
+Other,FL,Florida,Region IV,1979,05-May,4,1
+Other,FL,Florida,Region IV,1992,10-Oct,7,2
+Other,FL,Florida,Region IV,1994,11-Nov,2,15
+Other,FL,Florida,Region IV,1994,07-Jul,12,28
+Other,FL,Florida,Region IV,1996,10-Oct,16,15
+Other,FL,Florida,Region IV,1998,11-Nov,2,2
+Other,FL,Florida,Region IV,1998,12-Dec,55,121
+Other,FL,Florida,Region IV,1998,02-Feb,3,3
+Other,FL,Florida,Region IV,2000,09-Sep,9,14
+Other,FL,Florida,Region IV,2001,06-Jun,9,5
+Other,FL,Florida,Region IV,2003,03-Mar,1,1
+Other,FL,Florida,Region IV,2003,06-Jun,11,71
+Other,FL,Florida,Region IV,2007,12-Dec,1,1
+Other,FM,Federated States of Micronesia,Region IX,1963,04-Apr,1,1
+Other,FM,Federated States of Micronesia,Region IX,1964,12-Dec,1,1
+Other,FM,Federated States of Micronesia,Region IX,1971,05-May,1,1
+Other,FM,Federated States of Micronesia,Region IX,1986,05-May,1,1
+Other,FM,Federated States of Micronesia,Region IX,1987,01-Jan,1,2
+Other,FM,Federated States of Micronesia,Region IX,1987,11-Nov,1,2
+Other,FM,Federated States of Micronesia,Region IX,1990,11-Nov,2,6
+Other,FM,Federated States of Micronesia,Region IX,1991,11-Nov,3,5
+Other,FM,Federated States of Micronesia,Region IX,1991,12-Dec,1,2
+Other,FM,Federated States of Micronesia,Region IX,1992,01-Jan,3,3
+Other,FM,Federated States of Micronesia,Region IX,1997,12-Dec,1,2
+Other,FM,Federated States of Micronesia,Region IX,2002,02-Feb,1,6
+Other,FM,Federated States of Micronesia,Region IX,2002,07-Jul,2,3
+Other,FM,Federated States of Micronesia,Region IX,2003,11-Nov,2,5
+Other,FM,Federated States of Micronesia,Region IX,2003,12-Dec,1,3
+Other,FM,Federated States of Micronesia,Region IX,2004,04-Apr,1,7
+Other,GA,Georgia,Region IV,1990,02-Feb,38,15
+Other,GA,Georgia,Region IV,1994,10-Oct,13,47
+Other,GA,Georgia,Region IV,1995,11-Nov,1,2
+Other,GA,Georgia,Region IV,1998,02-Feb,119,87
+Other,GA,Georgia,Region IV,1999,04-Apr,2,1
+Other,GA,Georgia,Region IV,2000,02-Feb,6,1
+Other,GA,Georgia,Region IV,2014,02-Feb,91,5
+Other,GU,Guam,Region IX,1962,11-Nov,1,1
+Other,GU,Guam,Region IX,1963,04-Apr,1,1
+Other,GU,Guam,Region IX,1976,05-May,1,1
+Other,GU,Guam,Region IX,1988,01-Jan,1,2
+Other,GU,Guam,Region IX,1990,12-Dec,1,1
+Other,GU,Guam,Region IX,1991,11-Nov,1,2
+Other,GU,Guam,Region IX,1992,08-Aug,1,2
+Other,GU,Guam,Region IX,1997,12-Dec,1,2
+Other,GU,Guam,Region IX,2002,12-Dec,1,9
+Other,GU,Guam,Region IX,2002,07-Jul,1,2
+Other,GU,Guam,Region IX,2004,06-Jun,1,4
+Other,HI,Hawaii,Region IX,1955,04-Apr,1,1
+Other,HI,Hawaii,Region IX,1957,03-Mar,1,1
+Other,HI,Hawaii,Region IX,1960,05-May,1,1
+Other,HI,Hawaii,Region IX,1982,11-Nov,2,1
+Other,HI,Hawaii,Region IX,1990,01-Jan,1,5118
+Other,HI,Hawaii,Region IX,1996,11-Nov,1,35
+Other,HI,Hawaii,Region IX,2000,10-Oct,2,6
+Other,HI,Hawaii,Region IX,2005,10-Oct,1,1
+Other,IA,Iowa,Region VII,1984,06-Jun,5,2
+Other,IA,Iowa,Region VII,1991,10-Oct,44,30
+Other,IA,Iowa,Region VII,1996,05-May,16,21
+Other,IA,Iowa,Region VII,1996,06-Jun,15,16
+Other,IA,Iowa,Region VII,1999,05-May,17,14
+Other,IA,Iowa,Region VII,1999,07-Jul,21,40
+Other,IA,Iowa,Region VII,2001,04-Apr,23,52
+Other,IA,Iowa,Region VII,2004,05-May,77,37
+Other,IA,Iowa,Region VII,2007,02-Feb,48,8
+Other,IA,Iowa,Region VII,2007,05-May,19,3
+Other,IA,Iowa,Region VII,2007,08-Aug,17,20
+Other,IA,Iowa,Region VII,2008,12-Dec,30,2
+Other,IA,Iowa,Region VII,2009,07-Jul,1,1
+Other,IA,Iowa,Region VII,2010,12-Dec,27,5
+Other,IA,Iowa,Region VII,2011,07-Jul,6,6
+Other,ID,Idaho,Region X,1980,05-May,8,1
+Other,ID,Idaho,Region X,1996,02-Feb,10,18
+Other,ID,Idaho,Region X,1997,11-Nov,18,49
+Other,ID,Idaho,Region X,1997,03-Mar,12,109
+Other,ID,Idaho,Region X,2006,12-Dec,1,6
+Other,ID,Idaho,Region X,2010,06-Jun,7,9
+Other,IL,Illinois,Region V,1976,06-Jun,2,1
+Other,IL,Illinois,Region V,1981,06-Jun,4,1
+Other,IL,Illinois,Region V,1982,12-Dec,23,1
+Other,IL,Illinois,Region V,1983,06-Jun,14,1
+Other,IL,Illinois,Region V,1990,02-Feb,10,2
+Other,IL,Illinois,Region V,1990,05-May,16,50
+Other,IL,Illinois,Region V,1994,04-Apr,16,26
+Other,IL,Illinois,Region V,1995,05-May,19,32
+Other,IL,Illinois,Region V,1996,04-Apr,33,17.27272727
+Other,IL,Illinois,Region V,1996,07-Jul,11,22
+Other,IL,Illinois,Region V,1997,03-Mar,6,32
+Other,IL,Illinois,Region V,1997,08-Aug,1,2
+Other,IL,Illinois,Region V,1999,05-May,1,2
+Other,IL,Illinois,Region V,2003,05-May,16,6
+Other,IL,Illinois,Region V,2004,04-Apr,4,4
+Other,IL,Illinois,Region V,2006,03-Mar,6,3
+Other,IL,Illinois,Region V,2007,11-Nov,18,2
+Other,IL,Illinois,Region V,2007,08-Aug,11,10.18181818
+Other,IL,Illinois,Region V,2008,01-Jan,2,68
+Other,IL,Illinois,Region V,2009,01-Jan,9,3
+Other,IN,Indiana,Region V,1990,05-May,30,45
+Other,IN,Indiana,Region V,1991,03-Mar,26,4
+Other,IN,Indiana,Region V,1992,06-Jun,15,38
+Other,IN,Indiana,Region V,1993,08-Aug,6,2
+Other,IN,Indiana,Region V,1996,04-Apr,29,28
+Other,IN,Indiana,Region V,1997,02-Feb,13,32
+Other,IN,Indiana,Region V,1998,03-Mar,9,4
+Other,IN,Indiana,Region V,1998,06-Jun,25,27
+Other,IN,Indiana,Region V,2002,04-Apr,31,41
+Other,IN,Indiana,Region V,2002,09-Sep,32,1
+Other,IN,Indiana,Region V,2003,07-Jul,46,34
+Other,IN,Indiana,Region V,2003,08-Aug,21,21
+Other,IN,Indiana,Region V,2004,05-May,69,32
+Other,IN,Indiana,Region V,2004,07-Jul,20,16
+Other,IN,Indiana,Region V,2005,01-Jan,87,42
+Other,IN,Indiana,Region V,2006,09-Sep,3,3
+Other,IN,Indiana,Region V,2007,08-Aug,1,13
+Other,IN,Indiana,Region V,2008,01-Jan,21,68
+Other,KS,Kansas,Region VII,1973,09-Sep,53,1
+Other,KS,Kansas,Region VII,1981,07-Jul,2,1
+Other,KS,Kansas,Region VII,1984,06-Jun,6,3
+Other,KS,Kansas,Region VII,1998,10-Oct,32,13.625
+Other,KS,Kansas,Region VII,1998,06-Jun,2,1
+Other,KS,Kansas,Region VII,2000,04-Apr,3,2
+Other,KS,Kansas,Region VII,2001,04-Apr,1,11
+Other,KS,Kansas,Region VII,2002,01-Jan,35,18
+Other,KS,Kansas,Region VII,2003,05-May,15,27
+Other,KS,Kansas,Region VII,2004,06-Jun,29,44
+Other,KS,Kansas,Region VII,2004,08-Aug,2,4
+Other,KS,Kansas,Region VII,2005,01-Jan,38,3
+Other,KS,Kansas,Region VII,2005,10-Oct,5,2
+Other,KS,Kansas,Region VII,2005,06-Jun,3,2
+Other,KS,Kansas,Region VII,2006,11-Nov,17,2
+Other,KS,Kansas,Region VII,2006,03-Mar,2,1
+Other,KS,Kansas,Region VII,2007,12-Dec,105,14
+Other,KS,Kansas,Region VII,2007,05-May,42,29
+Other,KS,Kansas,Region VII,2007,06-Jun,23,30
+Other,KS,Kansas,Region VII,2008,05-May,54,26
+Other,KS,Kansas,Region VII,2008,09-Sep,9,7
+Other,KS,Kansas,Region VII,2009,11-Nov,3,3
+Other,KS,Kansas,Region VII,2009,03-Mar,33,4
+Other,KS,Kansas,Region VII,2009,04-Apr,28,22
+Other,KS,Kansas,Region VII,2009,07-Jul,5,7
+Other,KY,Kentucky,Region IV,1975,03-Mar,1,1
+Other,KY,Kentucky,Region IV,1984,05-May,28,1
+Other,KY,Kentucky,Region IV,1996,05-May,4,1
+Other,KY,Kentucky,Region IV,1997,03-Mar,101,31
+Other,KY,Kentucky,Region IV,1998,02-Feb,40,3
+Other,KY,Kentucky,Region IV,1998,04-Apr,21,25
+Other,KY,Kentucky,Region IV,2000,02-Feb,16,14
+Other,KY,Kentucky,Region IV,2001,07-Jul,20,26
+Other,KY,Kentucky,Region IV,2002,03-Mar,37,5
+Other,KY,Kentucky,Region IV,2002,04-Apr,39,14
+Other,KY,Kentucky,Region IV,2003,02-Feb,52,12
+Other,KY,Kentucky,Region IV,2003,05-May,44,24
+Other,KY,Kentucky,Region IV,2003,06-Jun,23,14
+Other,KY,Kentucky,Region IV,2004,05-May,78,24
+Other,KY,Kentucky,Region IV,2004,07-Jul,27,3
+Other,KY,Kentucky,Region IV,2005,11-Nov,2,1
+Other,KY,Kentucky,Region IV,2007,04-Apr,9,2
+Other,KY,Kentucky,Region IV,2009,01-Jan,100,10
+Other,LA,Louisiana,Region VI,1974,11-Nov,1,1
+Other,LA,Louisiana,Region VI,1975,06-Jun,12,1
+Other,LA,Louisiana,Region VI,1991,04-Apr,38,35
+Other,LA,Louisiana,Region VI,1994,02-Feb,8,3
+Other,LA,Louisiana,Region VI,1995,05-May,12,9
+Other,LA,Louisiana,Region VI,1997,01-Jan,3,6
+Other,LA,Louisiana,Region VI,1999,12-Dec,18,7
+Other,LA,Louisiana,Region VI,1999,04-Apr,5,5
+Other,LA,Louisiana,Region VI,2001,12-Dec,8,24
+Other,LA,Louisiana,Region VI,2001,06-Jun,27,18
+Other,LA,Louisiana,Region VI,2003,02-Feb,41,1
+Other,LA,Louisiana,Region VI,2004,05-May,9,8
+Other,LA,Louisiana,Region VI,2005,07-Jul,5,2
+Other,LA,Louisiana,Region VI,2006,10-Oct,24,24
+Other,LA,Louisiana,Region VI,2007,02-Feb,3,2
+Other,MA,Massachusetts,Region I,1972,09-Sep,8,1
+Other,MA,Massachusetts,Region I,1991,10-Oct,7,4
+Other,MA,Massachusetts,Region I,1992,12-Dec,9,3
+Other,MA,Massachusetts,Region I,2001,03-Mar,7,43
+Other,MA,Massachusetts,Region I,2005,10-Oct,12,10.5
+Other,MA,Massachusetts,Region I,2008,12-Dec,9,8
+Other,MA,Massachusetts,Region I,2010,05-May,4,5
+Other,MA,Massachusetts,Region I,2011,10-Oct,8,2
+Other,MD,Maryland,Region III,1979,09-Sep,5,1
+Other,MD,Maryland,Region III,1989,06-Jun,1,2
+Other,MD,Maryland,Region III,2000,01-Jan,15,6
+Other,MD,Maryland,Region III,2003,02-Feb,20,10
+Other,MD,Maryland,Region III,2006,06-Jun,3,21
+Other,ME,Maine,Region I,1972,09-Sep,8,1
+Other,ME,Maine,Region I,1980,09-Sep,8,1
+Other,ME,Maine,Region I,1991,10-Oct,5,4
+Other,ME,Maine,Region I,1996,01-Jan,7,19
+Other,ME,Maine,Region I,1996,10-Oct,2,7
+Other,ME,Maine,Region I,1996,04-Apr,5,2
+Other,ME,Maine,Region I,1998,01-Jan,16,21
+Other,ME,Maine,Region I,1998,06-Jun,6,19
+Other,ME,Maine,Region I,1999,10-Oct,2,4
+Other,ME,Maine,Region I,2000,03-Mar,8,30
+Other,ME,Maine,Region I,2001,03-Mar,6,27
+Other,ME,Maine,Region I,2004,12-Dec,7,22
+Other,ME,Maine,Region I,2005,03-Mar,13,36
+Other,ME,Maine,Region I,2006,05-May,1,11
+Other,ME,Maine,Region I,2007,04-Apr,13,9
+Other,ME,Maine,Region I,2007,07-Jul,1,2
+Other,ME,Maine,Region I,2008,12-Dec,6,19
+Other,ME,Maine,Region I,2008,07-Jul,3,30
+Other,ME,Maine,Region I,2009,12-Dec,7,19
+Other,ME,Maine,Region I,2009,06-Jun,9,21
+Other,ME,Maine,Region I,2010,03-Mar,2,21
+Other,ME,Maine,Region I,2011,12-Dec,3,8
+Other,MH,Marshall Islands,Region IX,1979,02-Feb,8,1
+Other,MH,Marshall Islands,Region IX,1988,01-Jan,1,1
+Other,MH,Marshall Islands,Region IX,1991,11-Nov,8,2
+Other,MH,Marshall Islands,Region IX,1992,11-Nov,11,2
+Other,MH,Marshall Islands,Region IX,1994,06-Jun,1,2
+Other,MI,Michigan,Region V,1976,03-Mar,29,1
+Other,MI,Michigan,Region V,1996,06-Jun,7,11
+Other,MI,Michigan,Region V,1997,07-Jul,5,1
+Other,MI,Michigan,Region V,1998,05-May,13,3
+Other,MI,Michigan,Region V,1998,07-Jul,2,2
+Other,MI,Michigan,Region V,2000,09-Sep,2,2
+Other,MI,Michigan,Region V,2003,08-Aug,14,4
+Other,MI,Michigan,Region V,2004,05-May,26,20
+Other,MI,Michigan,Region V,2008,06-Jun,12,38
+Other,MN,Minnesota,Region V,1975,07-Jul,17,1
+Other,MN,Minnesota,Region V,1978,07-Jul,17,1
+Other,MN,Minnesota,Region V,1987,07-Jul,10,17
+Other,MN,Minnesota,Region V,1991,10-Oct,12,30
+Other,MN,Minnesota,Region V,1992,06-Jun,10,5
+Other,MN,Minnesota,Region V,1993,05-May,57,112
+Other,MN,Minnesota,Region V,1995,07-Jul,15,6
+Other,MN,Minnesota,Region V,1997,01-Jan,55,32
+Other,MN,Minnesota,Region V,1997,11-Nov,12,17
+Other,MN,Minnesota,Region V,1997,06-Jun,7,30
+Other,MN,Minnesota,Region V,1999,03-Mar,7,91
+Other,MN,Minnesota,Region V,1999,07-Jul,9,30
+Other,MN,Minnesota,Region V,2000,05-May,17,71
+Other,MN,Minnesota,Region V,2002,06-Jun,19,20
+Other,MN,Minnesota,Region V,2004,09-Sep,7,14
+Other,MN,Minnesota,Region V,2006,11-Nov,9,3
+Other,MN,Minnesota,Region V,2007,08-Aug,9,14.11111111
+Other,MN,Minnesota,Region V,2008,06-Jun,6,7
+Other,MN,Minnesota,Region V,2009,03-Mar,35,68
+Other,MO,Missouri,Region VII,1965,06-Jun,6,1
+Other,MO,Missouri,Region VII,1973,04-Apr,94,1
+Other,MO,Missouri,Region VII,1993,11-Nov,24,7
+Other,MO,Missouri,Region VII,1994,04-Apr,18,27
+Other,MO,Missouri,Region VII,1995,05-May,62,42
+Other,MO,Missouri,Region VII,1998,10-Oct,19,8
+Other,MO,Missouri,Region VII,1998,07-Jul,3,22
+Other,MO,Missouri,Region VII,1999,04-Apr,6,12
+Other,MO,Missouri,Region VII,2002,01-Jan,43,16
+Other,MO,Missouri,Region VII,2002,04-Apr,79,48
+Other,MO,Missouri,Region VII,2003,05-May,76,27
+Other,MO,Missouri,Region VII,2004,05-May,37,14
+Other,MO,Missouri,Region VII,2006,11-Nov,14,3
+Other,MO,Missouri,Region VII,2006,03-Mar,48,5.854166667
+Other,MO,Missouri,Region VII,2006,07-Jul,9,3
+Other,MO,Missouri,Region VII,2007,01-Jan,39,11
+Other,MO,Missouri,Region VII,2007,12-Dec,158,8.53164557
+Other,MO,Missouri,Region VII,2007,05-May,30,14
+Other,MO,Missouri,Region VII,2007,08-Aug,7,3
+Other,MO,Missouri,Region VII,2008,01-Jan,9,4
+Other,MO,Missouri,Region VII,2008,02-Feb,18,5
+Other,MO,Missouri,Region VII,2008,03-Mar,71,54
+Other,MO,Missouri,Region VII,2008,05-May,3,2
+Other,MO,Missouri,Region VII,2008,06-Jun,61,74
+Other,MO,Missouri,Region VII,2008,09-Sep,56,14
+Other,MO,Missouri,Region VII,2009,01-Jan,136,3
+Other,MO,Missouri,Region VII,2009,05-May,53,9
+Other,MO,Missouri,Region VII,2010,06-Jun,37,50
+Other,MO,Missouri,Region VII,2011,01-Jan,177,6
+Other,MP,Northern Mariana Islands,Region IX,1976,06-Jun,1,1
+Other,MP,Northern Mariana Islands,Region IX,1980,11-Nov,1,1
+Other,MP,Northern Mariana Islands,Region IX,1986,12-Dec,1,1
+Other,MP,Northern Mariana Islands,Region IX,1987,10-Oct,3,2
+Other,MP,Northern Mariana Islands,Region IX,1988,01-Jan,1,2
+Other,MP,Northern Mariana Islands,Region IX,1990,01-Jan,4,2
+Other,MP,Northern Mariana Islands,Region IX,1997,11-Nov,3,2
+Other,MP,Northern Mariana Islands,Region IX,1997,12-Dec,1,2
+Other,MP,Northern Mariana Islands,Region IX,2002,12-Dec,3,9
+Other,MP,Northern Mariana Islands,Region IX,2002,07-Jul,1,2
+Other,MP,Northern Mariana Islands,Region IX,2004,06-Jun,3,3
+Other,MP,Northern Mariana Islands,Region IX,2004,08-Aug,3,6
+Other,MP,Northern Mariana Islands,Region IX,2005,08-Aug,3,3
+Other,MS,Mississippi,Region IV,1973,03-Mar,52,1
+Other,MS,Mississippi,Region IV,1976,04-Apr,4,1
+Other,MS,Mississippi,Region IV,1979,04-Apr,41,1
+Other,MS,Mississippi,Region IV,1980,04-Apr,8,1
+Other,MS,Mississippi,Region IV,1983,04-Apr,15,1
+Other,MS,Mississippi,Region IV,1983,06-Jun,16,1
+Other,MS,Mississippi,Region IV,1987,02-Feb,1,1
+Other,MS,Mississippi,Region IV,1990,01-Jan,35,51
+Other,MS,Mississippi,Region IV,1991,12-Dec,12,27
+Other,MS,Mississippi,Region IV,1991,04-Apr,42,36
+Other,MS,Mississippi,Region IV,1994,02-Feb,26,6
+Other,MS,Mississippi,Region IV,1995,05-May,4,10
+Other,MS,Mississippi,Region IV,1999,12-Dec,34,4
+Other,MS,Mississippi,Region IV,2001,11-Nov,23,24
+Other,MS,Mississippi,Region IV,2001,02-Feb,50,28
+Other,MS,Mississippi,Region IV,2001,04-Apr,6,3
+Other,MS,Mississippi,Region IV,2001,06-Jun,5,8
+Other,MS,Mississippi,Region IV,2002,11-Nov,6,2
+Other,MS,Mississippi,Region IV,2003,04-Apr,31,20
+Other,MS,Mississippi,Region IV,2003,05-May,9,4
+Other,MS,Mississippi,Region IV,2008,03-Mar,4,61
+Other,MT,Montana,Region VIII,1996,02-Feb,14,26
+Other,MT,Montana,Region VIII,1996,03-Mar,6,97
+Other,MT,Montana,Region VIII,1997,03-Mar,23,159
+Other,MT,Montana,Region VIII,2000,10-Oct,7,21
+Other,MT,Montana,Region VIII,2001,04-Apr,1,2
+Other,MT,Montana,Region VIII,2001,06-Jun,3,12
+Other,MT,Montana,Region VIII,2002,06-Jun,5,14
+Other,MT,Montana,Region VIII,2008,05-May,4,2
+Other,NC,North Carolina,Region IV,1956,04-Apr,1,1
+Other,NC,North Carolina,Region IV,1968,02-Feb,21,1
+Other,NC,North Carolina,Region IV,1998,01-Jan,10,37
+Other,NC,North Carolina,Region IV,1998,03-Mar,7,13
+Other,NC,North Carolina,Region IV,2000,01-Jan,33,9
+Other,NC,North Carolina,Region IV,2002,12-Dec,44,3
+Other,NC,North Carolina,Region IV,2003,02-Feb,9,2
+Other,NC,North Carolina,Region IV,2010,09-Sep,14,5
+Other,ND,North Dakota,Region VIII,1994,03-Mar,25,154
+Other,ND,North Dakota,Region VIII,1995,03-Mar,32,127
+Other,ND,North Dakota,Region VIII,1996,03-Mar,33,102
+Other,ND,North Dakota,Region VIII,1997,01-Jan,53,29
+Other,ND,North Dakota,Region VIII,2000,04-Apr,40,130
+Other,ND,North Dakota,Region VIII,2002,06-Jun,5,65
+Other,ND,North Dakota,Region VIII,2003,06-Jun,1,2
+Other,ND,North Dakota,Region VIII,2004,03-Mar,19,81
+Other,ND,North Dakota,Region VIII,2005,06-Jun,26,37
+Other,ND,North Dakota,Region VIII,2005,08-Aug,53,34
+Other,ND,North Dakota,Region VIII,2006,11-Nov,4,4
+Other,ND,North Dakota,Region VIII,2006,03-Mar,11,32
+Other,ND,North Dakota,Region VIII,2007,06-Jun,13,17
+Other,ND,North Dakota,Region VIII,2007,07-Jul,2,1
+Other,ND,North Dakota,Region VIII,2007,08-Aug,1,2
+Other,ND,North Dakota,Region VIII,2010,01-Jan,25,6
+Other,ND,North Dakota,Region VIII,2010,04-Apr,12,3
+Other,ND,North Dakota,Region VIII,2011,04-Apr,9,3
+Other,NE,Nebraska,Region VII,1976,04-Apr,20,1
+Other,NE,Nebraska,Region VII,1990,06-Jun,23,51
+Other,NE,Nebraska,Region VII,1996,05-May,4,21
+Other,NE,Nebraska,Region VII,1997,10-Oct,39,3
+Other,NE,Nebraska,Region VII,1999,08-Aug,3,4
+Other,NE,Nebraska,Region VII,2001,04-Apr,28,14
+Other,NE,Nebraska,Region VII,2001,08-Aug,1,2
+Other,NE,Nebraska,Region VII,2003,06-Jun,19,36
+Other,NE,Nebraska,Region VII,2004,05-May,39,13
+Other,NE,Nebraska,Region VII,2005,05-May,11,2
+Other,NE,Nebraska,Region VII,2006,11-Nov,29,2
+Other,NE,Nebraska,Region VII,2007,12-Dec,59,14
+Other,NE,Nebraska,Region VII,2007,05-May,34,11.58823529
+Other,NE,Nebraska,Region VII,2007,06-Jun,6,6
+Other,NE,Nebraska,Region VII,2008,12-Dec,8,3
+Other,NE,Nebraska,Region VII,2008,04-Apr,5,4
+Other,NE,Nebraska,Region VII,2008,05-May,62,34
+Other,NE,Nebraska,Region VII,2008,06-Jun,4,1
+Other,NE,Nebraska,Region VII,2009,11-Nov,7,2
+Other,NE,Nebraska,Region VII,2010,12-Dec,58,18
+Other,NE,Nebraska,Region VII,2010,06-Jun,61,90
+Other,NE,Nebraska,Region VII,2010,09-Sep,7,2
+Other,NH,New Hampshire,Region I,1972,03-Mar,1,1
+Other,NH,New Hampshire,Region I,1991,10-Oct,1,2
+Other,NH,New Hampshire,Region I,1998,01-Jan,9,19
+Other,NH,New Hampshire,Region I,1998,06-Jun,7,21
+Other,NH,New Hampshire,Region I,2003,07-Jul,2,29
+Other,NH,New Hampshire,Region I,2005,10-Oct,6,12
+Other,NH,New Hampshire,Region I,2006,05-May,7,12
+Other,NH,New Hampshire,Region I,2007,04-Apr,10,9
+Other,NH,New Hampshire,Region I,2008,12-Dec,10,13
+Other,NH,New Hampshire,Region I,2008,07-Jul,9,10.33333333
+Other,NH,New Hampshire,Region I,2008,09-Sep,2,2
+Other,NH,New Hampshire,Region I,2010,03-Mar,2,18
+Other,NH,New Hampshire,Region I,2011,10-Oct,10,2
+Other,NJ,New Jersey,Region II,1974,12-Dec,1,1
+Other,NJ,New Jersey,Region II,1977,02-Feb,10,1
+Other,NJ,New Jersey,Region II,1992,01-Jan,5,1
+Other,NJ,New Jersey,Region II,1996,10-Oct,5,6
+Other,NJ,New Jersey,Region II,1997,08-Aug,1,2
+Other,NJ,New Jersey,Region II,1998,02-Feb,3,5
+Other,NJ,New Jersey,Region II,2000,05-May,21,156
+Other,NJ,New Jersey,Region II,2000,08-Aug,2,10
+Other,NJ,New Jersey,Region II,2003,08-Aug,5,3
+Other,NJ,New Jersey,Region II,2004,07-Jul,2,12
+Other,NJ,New Jersey,Region II,2004,09-Sep,4,14
+Other,NJ,New Jersey,Region II,2005,04-Apr,9,3
+Other,NJ,New Jersey,Region II,2006,06-Jun,4,18
+Other,NM,New Mexico,Region VI,1998,12-Dec,10,4
+Other,NM,New Mexico,Region VI,1999,07-Jul,7,23
+Other,NM,New Mexico,Region VI,2004,04-Apr,4,10
+Other,NM,New Mexico,Region VI,2007,03-Mar,2,2
+Other,NV,Nevada,Region IX,1997,12-Dec,7,29
+Other,NV,Nevada,Region IX,1999,07-Jul,1,9
+Other,NV,Nevada,Region IX,2005,01-Jan,2,7
+Other,NV,Nevada,Region IX,2006,12-Dec,6,5
+Other,NV,Nevada,Region IX,2008,01-Jan,1,6
+Other,NY,New York,Region II,1976,03-Mar,7,1
+Other,NY,New York,Region II,1996,10-Oct,4,2
+Other,NY,New York,Region II,1996,11-Nov,12,8
+Other,NY,New York,Region II,1998,05-May,6,3
+Other,NY,New York,Region II,1998,06-Jun,15,16
+Other,NY,New York,Region II,1998,09-Sep,11,1
+Other,NY,New York,Region II,2000,05-May,89,144.494382
+Other,NY,New York,Region II,2003,04-Apr,16,3
+Other,NY,New York,Region II,2003,07-Jul,17,24
+Other,NY,New York,Region II,2003,08-Aug,63,3
+Other,NY,New York,Region II,2007,08-Aug,2,1
+Other,NY,New York,Region II,2008,12-Dec,16,21
+Other,NY,New York,Region II,2011,09-Sep,15,5
+Other,OH,Ohio,Region V,1956,05-May,1,1
+Other,OH,Ohio,Region V,1973,06-Jun,2,1
+Other,OH,Ohio,Region V,1981,06-Jun,4,1
+Other,OH,Ohio,Region V,1990,05-May,25,49
+Other,OH,Ohio,Region V,1992,07-Jul,24,21
+Other,OH,Ohio,Region V,1995,08-Aug,11,12
+Other,OH,Ohio,Region V,1997,02-Feb,18,18
+Other,OH,Ohio,Region V,1998,06-Jun,23,12
+Other,OH,Ohio,Region V,2000,02-Feb,7,14
+Other,OH,Ohio,Region V,2000,07-Jul,1,5
+Other,OH,Ohio,Region V,2000,09-Sep,1,1
+Other,OH,Ohio,Region V,2001,07-Jul,4,2
+Other,OH,Ohio,Region V,2002,11-Nov,20,1
+Other,OH,Ohio,Region V,2003,02-Feb,31,33
+Other,OH,Ohio,Region V,2003,07-Jul,10,8
+Other,OH,Ohio,Region V,2003,08-Aug,13,4
+Other,OH,Ohio,Region V,2004,01-Jan,14,28
+Other,OH,Ohio,Region V,2004,05-May,25,35
+Other,OH,Ohio,Region V,2004,08-Aug,88,32
+Other,OH,Ohio,Region V,2005,12-Dec,62,42
+Other,OH,Ohio,Region V,2006,06-Jun,6,3
+Other,OH,Ohio,Region V,2006,07-Jul,3,9
+Other,OH,Ohio,Region V,2007,08-Aug,8,9
+Other,OH,Ohio,Region V,2008,09-Sep,33,1
+Other,OH,Ohio,Region V,2012,06-Jun,88,4
+Other,OK,Oklahoma,Region VI,1960,07-Jul,1,1
+Other,OK,Oklahoma,Region VI,1970,10-Oct,15,1
+Other,OK,Oklahoma,Region VI,1973,06-Jun,31,1
+Other,OK,Oklahoma,Region VI,1975,07-Jul,10,1
+Other,OK,Oklahoma,Region VI,1990,04-Apr,39,49
+Other,OK,Oklahoma,Region VI,1993,05-May,44,19
+Other,OK,Oklahoma,Region VI,1994,04-Apr,1,24
+Other,OK,Oklahoma,Region VI,1995,07-Jul,17,17
+Other,OK,Oklahoma,Region VI,2000,10-Oct,11,9
+Other,OK,Oklahoma,Region VI,2000,12-Dec,39,17
+Other,OK,Oklahoma,Region VI,2001,10-Oct,3,2
+Other,OK,Oklahoma,Region VI,2001,12-Dec,65,17
+Other,OK,Oklahoma,Region VI,2001,05-May,48,4
+Other,OK,Oklahoma,Region VI,2002,01-Jan,45,13
+Other,OK,Oklahoma,Region VI,2003,12-Dec,14,2
+Other,OK,Oklahoma,Region VI,2003,05-May,27,23
+Other,OK,Oklahoma,Region VI,2006,03-Mar,1,1
+Other,OK,Oklahoma,Region VI,2007,01-Jan,77,15
+Other,OK,Oklahoma,Region VI,2007,12-Dec,80,26.1
+Other,OK,Oklahoma,Region VI,2007,05-May,36,8.25
+Other,OK,Oklahoma,Region VI,2008,03-Mar,14,7
+Other,OK,Oklahoma,Region VI,2008,05-May,4,4
+Other,OK,Oklahoma,Region VI,2010,01-Jan,77,3
+Other,OK,Oklahoma,Region VI,2011,01-Jan,77,6
+Other,OR,Oregon,Region X,1962,10-Oct,1,1
+Other,OR,Oregon,Region X,1994,05-May,8,184
+Other,OR,Oregon,Region X,1996,12-Dec,10,3
+Other,OR,Oregon,Region X,1997,12-Dec,14,13
+Other,OR,Oregon,Region X,2002,02-Feb,5,2
+Other,OR,Oregon,Region X,2004,12-Dec,30,20
+Other,OR,Oregon,Region X,2005,08-Aug,36,34
+Other,OR,Oregon,Region X,2006,11-Nov,4,4
+Other,OR,Oregon,Region X,2006,12-Dec,19,35
+Other,OR,Oregon,Region X,2007,12-Dec,9,2
+Other,PA,Pennsylvania,Region III,1956,05-May,1,1
+Other,PA,Pennsylvania,Region III,1956,08-Aug,1,1
+Other,PA,Pennsylvania,Region III,1994,01-Jan,44,53
+Other,PA,Pennsylvania,Region III,1998,05-May,7,3
+Other,PA,Pennsylvania,Region III,1999,08-Aug,2,2
+Other,PA,Pennsylvania,Region III,2001,06-Jun,3,9
+Other,PA,Pennsylvania,Region III,2003,02-Feb,36,6
+Other,PA,Pennsylvania,Region III,2003,07-Jul,15,54
+Other,PA,Pennsylvania,Region III,2003,09-Sep,1,9
+Other,PA,Pennsylvania,Region III,2004,07-Jul,7,30
+Other,PA,Pennsylvania,Region III,2004,09-Sep,67,2
+Other,PA,Pennsylvania,Region III,2005,04-Apr,11,22
+Other,PA,Pennsylvania,Region III,2006,06-Jun,28,18
+Other,PA,Pennsylvania,Region III,2007,11-Nov,8,2
+Other,PA,Pennsylvania,Region III,2014,02-Feb,7,17
+Other,PR,Puerto Rico,Region II,1996,11-Nov,1,1
+Other,PR,Puerto Rico,Region II,2001,11-Nov,13,3
+Other,PR,Puerto Rico,Region II,2001,05-May,15,6
+Other,PR,Puerto Rico,Region II,2003,11-Nov,31,14
+Other,PR,Puerto Rico,Region II,2005,10-Oct,17,7
+Other,PW,Republic of Palau,Region IX,1967,03-Mar,1,1
+Other,PW,Republic of Palau,Region IX,1968,04-Apr,1,1
+Other,PW,Republic of Palau,Region IX,1976,04-Apr,1,1
+Other,PW,Republic of Palau,Region IX,1976,06-Jun,1,1
+Other,PW,Republic of Palau,Region IX,1979,02-Feb,1,1
+Other,PW,Republic of Palau,Region IX,1990,11-Nov,1,2
+Other,RI,Rhode Island,Region I,1996,11-Nov,2,11
+Other,RI,Rhode Island,Region I,2007,04-Apr,1,2
+Other,RI,Rhode Island,Region I,2010,03-Mar,5,32
+Other,SC,South Carolina,Region IV,2000,01-Jan,38,11
+Other,SC,South Carolina,Region IV,2003,12-Dec,6,3
+Other,SC,South Carolina,Region IV,2004,01-Jan,26,5
+Other,SC,South Carolina,Region IV,2004,08-Aug,3,3
+Other,SC,South Carolina,Region IV,2006,12-Dec,7,2
+Other,SC,South Carolina,Region IV,2014,02-Feb,46,10
+Other,SD,South Dakota,Region VIII,1992,06-Jun,8,11
+Other,SD,South Dakota,Region VIII,1993,05-May,39,128
+Other,SD,South Dakota,Region VIII,1994,03-Mar,21,151
+Other,SD,South Dakota,Region VIII,1997,01-Jan,65,29
+Other,SD,South Dakota,Region VIII,1997,11-Nov,10,14
+Other,SD,South Dakota,Region VIII,2000,04-Apr,4,3
+Other,SD,South Dakota,Region VIII,2004,05-May,9,20
+Other,SD,South Dakota,Region VIII,2005,11-Nov,26,3
+Other,SD,South Dakota,Region VIII,2005,06-Jun,7,2
+Other,SD,South Dakota,Region VIII,2005,09-Sep,65,26
+Other,SD,South Dakota,Region VIII,2006,04-Apr,6,3
+Other,SD,South Dakota,Region VIII,2007,05-May,24,36
+Other,SD,South Dakota,Region VIII,2008,06-Jun,27,11
+Other,SD,South Dakota,Region VIII,2009,03-Mar,14,118
+Other,SD,South Dakota,Region VIII,2010,01-Jan,29,7
+Other,SD,South Dakota,Region VIII,2010,12-Dec,12,5
+Other,SD,South Dakota,Region VIII,2010,04-Apr,3,1
+Other,SD,South Dakota,Region VIII,2010,06-Jun,3,9
+Other,SD,South Dakota,Region VIII,2010,09-Sep,4,2
+Other,TN,Tennessee,Region IV,1979,05-May,14,1
+Other,TN,Tennessee,Region IV,1994,02-Feb,71,3
+Other,TN,Tennessee,Region IV,1997,03-Mar,6,2
+Other,TN,Tennessee,Region IV,1998,01-Jan,39,38
+Other,TN,Tennessee,Region IV,1998,04-Apr,43,33
+Other,TN,Tennessee,Region IV,1998,07-Jul,2,16
+Other,TN,Tennessee,Region IV,1999,01-Jan,24,16
+Other,TN,Tennessee,Region IV,1999,12-Dec,33,7
+Other,TN,Tennessee,Region IV,1999,05-May,18,15
+Other,TN,Tennessee,Region IV,2000,05-May,15,9
+Other,TN,Tennessee,Region IV,2001,07-Jul,8,27
+Other,TN,Tennessee,Region IV,2002,01-Jan,37,57
+Other,TN,Tennessee,Region IV,2002,11-Nov,22,4
+Other,TN,Tennessee,Region IV,2003,02-Feb,28,13
+Other,TN,Tennessee,Region IV,2003,05-May,73,27
+Other,TN,Tennessee,Region IV,2003,07-Jul,2,2
+Other,TN,Tennessee,Region IV,2004,09-Sep,15,5
+Other,TN,Tennessee,Region IV,2006,04-Apr,15,7
+Other,TN,Tennessee,Region IV,2009,01-Jan,7,5
+Other,TN,Tennessee,Region IV,2009,04-Apr,5,1
+Other,TN,Tennessee,Region IV,2009,06-Jun,3,3
+Other,TN,Tennessee,Region IV,2009,07-Jul,6,3
+Other,TN,Tennessee,Region IV,2012,02-Feb,10,3
+Other,TX,Texas,Region VI,1960,07-Jul,1,1
+Other,TX,Texas,Region VI,1973,03-Mar,5,1
+Other,TX,Texas,Region VI,1979,04-Apr,7,1
+Other,TX,Texas,Region VI,1989,05-May,87,35
+Other,TX,Texas,Region VI,1990,04-Apr,64,45
+Other,TX,Texas,Region VI,1991,04-Apr,5,2
+Other,TX,Texas,Region VI,1992,05-May,26,91
+Other,TX,Texas,Region VI,1994,04-Apr,3,10
+Other,TX,Texas,Region VI,1995,05-May,1,4
+Other,TX,Texas,Region VI,1998,08-Aug,255,10
+Other,TX,Texas,Region VI,1998,09-Sep,5,27
+Other,TX,Texas,Region VI,2001,12-Dec,46,35
+Other,TX,Texas,Region VI,2002,10-Oct,18,23
+Other,TX,Texas,Region VI,2002,09-Sep,11,25
+Other,TX,Texas,Region VI,2003,02-Feb,54,1
+Other,TX,Texas,Region VI,2006,07-Jul,2,30
+Other,TX,Texas,Region VI,2007,04-Apr,5,4
+Other,TX,Texas,Region VI,2007,08-Aug,6,7
+Other,TX,Texas,Region VI,2013,04-Apr,1,4
+Other,UT,Utah,Region VIII,2005,01-Jan,2,5
+Other,UT,Utah,Region VIII,2005,08-Aug,29,34
+Other,VA,Virginia,Region III,1993,08-Aug,1,1
+Other,VA,Virginia,Region III,1994,03-Mar,33,5
+Other,VA,Virginia,Region III,1995,06-Jun,24,16
+Other,VA,Virginia,Region III,2000,01-Jan,109,6
+Other,VA,Virginia,Region III,2001,07-Jul,10,51
+Other,VA,Virginia,Region III,2002,03-Mar,10,4
+Other,VA,Virginia,Region III,2003,11-Nov,6,2
+Other,VA,Virginia,Region III,2003,02-Feb,39,14
+Other,VA,Virginia,Region III,2004,05-May,4,34
+Other,VA,Virginia,Region III,2004,08-Aug,12,10
+Other,VA,Virginia,Region III,2004,09-Sep,10,4
+Other,VA,Virginia,Region III,2006,06-Jun,16,14
+Other,VA,Virginia,Region III,2006,08-Aug,26,10
+Other,VA,Virginia,Region III,2009,11-Nov,12,6
+Other,VI,Virgin Islands,Region II,2003,11-Nov,3,7
+Other,VT,Vermont,Region I,1995,08-Aug,6,3
+Other,VT,Vermont,Region I,1998,01-Jan,6,11
+Other,VT,Vermont,Region I,1998,06-Jun,11,62
+Other,VT,Vermont,Region I,1999,09-Sep,10,6
+Other,VT,Vermont,Region I,2000,07-Jul,6,5
+Other,VT,Vermont,Region I,2001,12-Dec,2,3
+Other,VT,Vermont,Region I,2002,06-Jun,5,9
+Other,VT,Vermont,Region I,2003,07-Jul,4,29
+Other,VT,Vermont,Region I,2004,08-Aug,7,32
+Other,VT,Vermont,Region I,2007,04-Apr,8,7
+Other,VT,Vermont,Region I,2007,07-Jul,5,3
+Other,VT,Vermont,Region I,2008,06-Jun,2,4
+Other,VT,Vermont,Region I,2008,07-Jul,10,16.4
+Other,VT,Vermont,Region I,2009,12-Dec,2,8
+Other,WA,Washington,Region X,1962,10-Oct,1,1
+Other,WA,Washington,Region X,1980,05-May,39,1
+Other,WA,Washington,Region X,1993,01-Jan,7,2
+Other,WA,Washington,Region X,1994,05-May,6,184
+Other,WA,Washington,Region X,1996,11-Nov,19,42
+Other,WA,Washington,Region X,1997,11-Nov,3,16
+Other,WA,Washington,Region X,1997,12-Dec,38,47
+Other,WA,Washington,Region X,1998,03-Mar,1,1
+Other,WA,Washington,Region X,1998,05-May,2,4
+Other,WA,Washington,Region X,2003,10-Oct,15,9
+Other,WA,Washington,Region X,2005,08-Aug,39,34
+Other,WA,Washington,Region X,2006,01-Jan,11,9
+Other,WI,Wisconsin,Region V,1975,09-Sep,4,1
+Other,WI,Wisconsin,Region V,1977,08-Aug,10,1
+Other,WI,Wisconsin,Region V,1978,07-Jul,16,1
+Other,WI,Wisconsin,Region V,1990,06-Jun,17,28
+Other,WI,Wisconsin,Region V,1991,07-Jul,5,1
+Other,WI,Wisconsin,Region V,1993,06-Jun,47,80
+Other,WI,Wisconsin,Region V,1997,06-Jun,4,3
+Other,WI,Wisconsin,Region V,1998,08-Aug,5,11
+Other,WI,Wisconsin,Region V,2000,05-May,30,55
+Other,WI,Wisconsin,Region V,2002,06-Jun,8,5
+Other,WI,Wisconsin,Region V,2004,05-May,44,58
+Other,WI,Wisconsin,Region V,2007,08-Aug,14,14
+Other,WI,Wisconsin,Region V,2010,09-Sep,9,18
+Other,WV,West Virginia,Region III,1995,06-Jun,3,6
+Other,WV,West Virginia,Region III,1996,09-Sep,10,4
+Other,WV,West Virginia,Region III,1998,06-Jun,21,32
+Other,WV,West Virginia,Region III,2001,05-May,24,113
+Other,WV,West Virginia,Region III,2002,05-May,8,19
+Other,WV,West Virginia,Region III,2003,11-Nov,34,20
+Other,WV,West Virginia,Region III,2003,02-Feb,49,41
+Other,WV,West Virginia,Region III,2003,06-Jun,20,35
+Other,WV,West Virginia,Region III,2004,05-May,24,33
+Other,WV,West Virginia,Region III,2004,07-Jul,4,42
+Other,WV,West Virginia,Region III,2004,09-Sep,22,12
+Other,WV,West Virginia,Region III,2005,01-Jan,6,22
+Other,WV,West Virginia,Region III,2007,04-Apr,18,5
+Other,WV,West Virginia,Region III,2008,06-Jun,18,5
+Other,WV,West Virginia,Region III,2009,05-May,11,37
+Other,WV,West Virginia,Region III,2010,03-Mar,6,29
+Other,WV,West Virginia,Region III,2012,06-Jun,55,12
+Other,WY,Wyoming,Region VIII,1999,10-Oct,2,5
+Other,WY,Wyoming,Region VIII,2000,10-Oct,4,21
+Snow,AK,Alaska,Region X,1974,06-Jun,1,1
+Snow,AK,Alaska,Region X,1989,01-Jan,11,32
+Snow,AK,Alaska,Region X,1991,04-Apr,3,41
+Snow,AL,Alabama,Region IV,1993,03-Mar,67,5
+Snow,AR,Arkansas,Region VI,1994,02-Feb,17,2
+Snow,CA,California,Region IX,1991,12-Dec,33,16
+Snow,CA,California,Region IX,1999,12-Dec,8,9
+Snow,CA,California,Region IX,2007,01-Jan,16,7
+Snow,CO,Colorado,Region VIII,2003,03-Mar,29,4
+Snow,CO,Colorado,Region VIII,2007,12-Dec,26,4.615384615
+Snow,CT,Connecticut,Region I,1978,02-Feb,8,1
+Snow,CT,Connecticut,Region I,1993,03-Mar,8,5
+Snow,CT,Connecticut,Region I,1996,01-Jan,8,7
+Snow,CT,Connecticut,Region I,2003,02-Feb,8,2
+Snow,CT,Connecticut,Region I,2004,12-Dec,7,3
+Snow,CT,Connecticut,Region I,2005,01-Jan,8,2
+Snow,CT,Connecticut,Region I,2006,02-Feb,5,2
+Snow,DC,District of Columbia,Region III,1993,03-Mar,1,5
+Snow,DC,District of Columbia,Region III,2010,12-Dec,1,3
+Snow,DE,Delaware,Region III,1993,03-Mar,3,5
+Snow,DE,Delaware,Region III,1996,01-Jan,3,7
+Snow,DE,Delaware,Region III,2003,02-Feb,3,6
+Snow,DE,Delaware,Region III,2010,02-Feb,3,7
+Snow,FL,Florida,Region IV,1971,03-Mar,6,1
+Snow,FL,Florida,Region IV,1977,01-Jan,35,1
+Snow,FL,Florida,Region IV,1984,12-Dec,5,3
+Snow,FL,Florida,Region IV,1985,03-Mar,20,1
+Snow,FL,Florida,Region IV,1990,12-Dec,32,3
+Snow,FL,Florida,Region IV,2001,12-Dec,49,56
+Snow,GA,Georgia,Region IV,1977,06-Jun,6,1
+Snow,GA,Georgia,Region IV,1993,03-Mar,93,5
+Snow,IA,Iowa,Region VII,1997,10-Oct,13,3
+Snow,IA,Iowa,Region VII,2007,02-Feb,30,3
+Snow,ID,Idaho,Region X,1984,01-Jan,1,95
+Snow,IL,Illinois,Region V,1979,01-Jan,24,1
+Snow,IL,Illinois,Region V,1999,01-Jan,52,15
+Snow,IL,Illinois,Region V,2001,12-Dec,27,21
+Snow,IL,Illinois,Region V,2005,12-Dec,16,3
+Snow,IL,Illinois,Region V,2006,11-Nov,26,2
+Snow,IL,Illinois,Region V,2008,02-Feb,8,2
+Snow,IN,Indiana,Region V,1977,02-Feb,40,1
+Snow,IN,Indiana,Region V,1978,01-Jan,1,1
+Snow,IN,Indiana,Region V,1999,01-Jan,57,15
+Snow,IN,Indiana,Region V,2001,12-Dec,29,21
+Snow,IN,Indiana,Region V,2005,12-Dec,50,3
+Snow,IN,Indiana,Region V,2007,02-Feb,49,3
+Snow,KY,Kentucky,Region IV,1993,03-Mar,73,5
+Snow,KY,Kentucky,Region IV,1994,02-Feb,68,3
+Snow,KY,Kentucky,Region IV,1996,01-Jan,120,8
+Snow,KY,Kentucky,Region IV,2005,12-Dec,30,3
+Snow,LA,Louisiana,Region VI,1977,02-Feb,34,1
+Snow,LA,Louisiana,Region VI,2000,01-Jan,8,4
+Snow,MA,Massachusetts,Region I,1978,02-Feb,1,1
+Snow,MA,Massachusetts,Region I,1993,03-Mar,14,5
+Snow,MA,Massachusetts,Region I,1996,01-Jan,14,7
+Snow,MA,Massachusetts,Region I,2001,03-Mar,7,3
+Snow,MA,Massachusetts,Region I,2003,02-Feb,14,2
+Snow,MA,Massachusetts,Region I,2004,12-Dec,12,2
+Snow,MA,Massachusetts,Region I,2005,01-Jan,14,2
+Snow,MD,Maryland,Region III,1977,01-Jan,16,1
+Snow,MD,Maryland,Region III,1993,03-Mar,24,5
+Snow,MD,Maryland,Region III,1994,02-Feb,9,11
+Snow,MD,Maryland,Region III,1996,01-Jan,24,7
+Snow,MD,Maryland,Region III,2010,12-Dec,12,3
+Snow,ME,Maine,Region I,1991,04-Apr,1,19
+Snow,ME,Maine,Region I,1993,03-Mar,16,5
+Snow,ME,Maine,Region I,2001,03-Mar,13,27
+Snow,ME,Maine,Region I,2003,12-Dec,11,167
+Snow,ME,Maine,Region I,2003,02-Feb,1,3
+Snow,ME,Maine,Region I,2004,12-Dec,18,2
+Snow,ME,Maine,Region I,2005,01-Jan,2,2
+Snow,ME,Maine,Region I,2005,02-Feb,13,2
+Snow,ME,Maine,Region I,2005,03-Mar,12,1.25
+Snow,ME,Maine,Region I,2006,12-Dec,1,3
+Snow,MI,Michigan,Region V,1972,04-Apr,9,1
+Snow,MI,Michigan,Region V,1977,02-Feb,12,1
+Snow,MI,Michigan,Region V,1978,01-Jan,83,1
+Snow,MI,Michigan,Region V,1994,01-Jan,10,152
+Snow,MI,Michigan,Region V,1999,01-Jan,31,14
+Snow,MI,Michigan,Region V,2001,12-Dec,39,21
+Snow,MN,Minnesota,Region V,1996,10-Oct,4,2
+Snow,MS,Mississippi,Region IV,1977,02-Feb,72,1
+Snow,MT,Montana,Region VIII,1964,12-Dec,1,1
+Snow,NC,North Carolina,Region IV,1977,03-Mar,30,1
+Snow,NC,North Carolina,Region IV,1993,03-Mar,59,5
+Snow,NC,North Carolina,Region IV,1996,01-Jan,70,7
+Snow,NC,North Carolina,Region IV,1996,02-Feb,34,8
+Snow,ND,North Dakota,Region VIII,1978,02-Feb,9,1
+Snow,ND,North Dakota,Region VIII,2004,01-Jan,9,5
+Snow,ND,North Dakota,Region VIII,2005,10-Oct,20,3
+Snow,NE,Nebraska,Region VII,1994,04-Apr,15,4
+Snow,NH,New Hampshire,Region I,1993,03-Mar,10,5
+Snow,NH,New Hampshire,Region I,2001,03-Mar,7,3
+Snow,NH,New Hampshire,Region I,2003,02-Feb,5,2
+Snow,NH,New Hampshire,Region I,2004,12-Dec,8,2
+Snow,NH,New Hampshire,Region I,2005,01-Jan,9,2
+Snow,NH,New Hampshire,Region I,2005,02-Feb,5,2
+Snow,NH,New Hampshire,Region I,2005,03-Mar,5,2
+Snow,NJ,New Jersey,Region II,1993,03-Mar,21,5
+Snow,NJ,New Jersey,Region II,1996,01-Jan,21,6
+Snow,NJ,New Jersey,Region II,2003,02-Feb,21,2
+Snow,NV,Nevada,Region IX,2005,01-Jan,16,5
+Snow,NV,Nevada,Region IX,2005,12-Dec,15,5
+Snow,NY,New York,Region II,1977,01-Jan,9,1
+Snow,NY,New York,Region II,1977,02-Feb,9,1
+Snow,NY,New York,Region II,1985,03-Mar,2,1
+Snow,NY,New York,Region II,1987,10-Oct,9,1
+Snow,NY,New York,Region II,1991,03-Mar,13,2
+Snow,NY,New York,Region II,1993,03-Mar,62,5
+Snow,NY,New York,Region II,1996,01-Jan,19,7
+Snow,NY,New York,Region II,1998,01-Jan,10,13
+Snow,NY,New York,Region II,1999,01-Jan,10,15
+Snow,NY,New York,Region II,1999,03-Mar,6,4
+Snow,NY,New York,Region II,2000,11-Nov,3,3
+Snow,NY,New York,Region II,2001,12-Dec,6,6
+Snow,NY,New York,Region II,2002,12-Dec,1,6
+Snow,NY,New York,Region II,2003,12-Dec,20,11
+Snow,NY,New York,Region II,2003,02-Feb,22,2
+Snow,NY,New York,Region II,2004,01-Jan,4,4
+Snow,NY,New York,Region II,2006,10-Oct,4,14
+Snow,NY,New York,Region II,2007,02-Feb,3,11
+Snow,OH,Ohio,Region V,1977,02-Feb,47,1
+Snow,OH,Ohio,Region V,1978,01-Jan,88,1
+Snow,OH,Ohio,Region V,2005,12-Dec,26,3
+Snow,OH,Ohio,Region V,2008,03-Mar,20,3
+Snow,OK,Oklahoma,Region VI,2009,03-Mar,4,2
+Snow,PA,Pennsylvania,Region III,1977,01-Jan,21,1
+Snow,PA,Pennsylvania,Region III,1993,03-Mar,67,5
+Snow,PA,Pennsylvania,Region III,1996,01-Jan,51,7
+Snow,RI,Rhode Island,Region I,1978,02-Feb,10,1
+Snow,RI,Rhode Island,Region I,1993,03-Mar,5,5
+Snow,RI,Rhode Island,Region I,1996,01-Jan,5,7
+Snow,RI,Rhode Island,Region I,2003,02-Feb,2,2
+Snow,RI,Rhode Island,Region I,2005,01-Jan,5,2
+Snow,SD,South Dakota,Region VIII,1995,01-Jan,21,29
+Snow,SD,South Dakota,Region VIII,1996,10-Oct,26,3
+Snow,SD,South Dakota,Region VIII,2008,11-Nov,12,3
+Snow,SD,South Dakota,Region VIII,2008,05-May,6,2
+Snow,TN,Tennessee,Region IV,1993,03-Mar,57,5
+Snow,TX,Texas,Region VI,1984,12-Dec,6,5
+Snow,TX,Texas,Region VI,1990,12-Dec,10,4
+Snow,VA,Virginia,Region III,1977,01-Jan,39,1
+Snow,VA,Virginia,Region III,1993,03-Mar,136,2
+Snow,VA,Virginia,Region III,1994,02-Feb,72,5
+Snow,VA,Virginia,Region III,1996,01-Jan,136,7
+Snow,VT,Vermont,Region I,2001,03-Mar,9,3
+Snow,WI,Wisconsin,Region V,1979,01-Jan,3,1
+Snow,WI,Wisconsin,Region V,2001,12-Dec,14,21
+Snow,WI,Wisconsin,Region V,2008,02-Feb,11,2
+Snow,WV,West Virginia,Region III,1993,03-Mar,55,5
+Snow,WV,West Virginia,Region III,1996,01-Jan,55,7
+Snow,WV,West Virginia,Region III,2010,12-Dec,18,3
+Snow,WV,West Virginia,Region III,2010,02-Feb,20,7
+Tornado,AL,Alabama,Region IV,1973,03-Mar,28,1
+Tornado,AL,Alabama,Region IV,1974,04-Apr,20,1
+Tornado,AL,Alabama,Region IV,1975,01-Jan,5,1
+Tornado,AL,Alabama,Region IV,1978,04-Apr,2,1
+Tornado,AL,Alabama,Region IV,1984,05-May,4,1
+Tornado,AL,Alabama,Region IV,1989,11-Nov,2,1
+Tornado,AR,Arkansas,Region VI,1957,05-May,1,1
+Tornado,AR,Arkansas,Region VI,1960,05-May,1,1
+Tornado,AR,Arkansas,Region VI,1968,05-May,28,1
+Tornado,AR,Arkansas,Region VI,1975,04-Apr,1,1
+Tornado,AR,Arkansas,Region VI,1976,04-Apr,4,1
+Tornado,AR,Arkansas,Region VI,1978,01-Jan,3,1
+Tornado,AR,Arkansas,Region VI,1978,04-Apr,1,1
+Tornado,AR,Arkansas,Region VI,1979,04-Apr,8,1
+Tornado,AR,Arkansas,Region VI,1980,04-Apr,5,1
+Tornado,AR,Arkansas,Region VI,1982,04-Apr,12,1
+Tornado,AR,Arkansas,Region VI,1987,12-Dec,1,1
+Tornado,AR,Arkansas,Region VI,1988,11-Nov,24,6
+Tornado,AR,Arkansas,Region VI,1998,04-Apr,1,1
+Tornado,CO,Colorado,Region VIII,1965,06-Jun,27,1
+Tornado,CT,Connecticut,Region I,1979,10-Oct,1,1
+Tornado,CT,Connecticut,Region I,1989,07-Jul,2,1
+Tornado,FL,Florida,Region IV,1993,03-Mar,38,5
+Tornado,GA,Georgia,Region IV,1953,05-May,1,1
+Tornado,GA,Georgia,Region IV,1954,03-Mar,1,1
+Tornado,GA,Georgia,Region IV,1973,04-Apr,14,1
+Tornado,GA,Georgia,Region IV,1973,06-Jun,1,1
+Tornado,GA,Georgia,Region IV,1974,04-Apr,20,1
+Tornado,GA,Georgia,Region IV,1975,03-Mar,2,1
+Tornado,GA,Georgia,Region IV,1984,05-May,6,1
+Tornado,GA,Georgia,Region IV,1992,11-Nov,14,16
+Tornado,GA,Georgia,Region IV,1993,02-Feb,8,2
+Tornado,GA,Georgia,Region IV,1994,03-Mar,12,15
+Tornado,GA,Georgia,Region IV,1994,07-Jul,55,23
+Tornado,IA,Iowa,Region VII,1968,05-May,4,1
+Tornado,IA,Iowa,Region VII,1979,04-Apr,5,1
+Tornado,IA,Iowa,Region VII,1979,07-Jul,8,1
+Tornado,IA,Iowa,Region VII,1988,07-Jul,1,2
+Tornado,IL,Illinois,Region V,1965,04-Apr,10,1
+Tornado,IL,Illinois,Region V,1967,04-Apr,9,1
+Tornado,IL,Illinois,Region V,1968,06-Jun,8,1
+Tornado,IL,Illinois,Region V,1974,04-Apr,4,1
+Tornado,IL,Illinois,Region V,1975,07-Jul,1,1
+Tornado,IL,Illinois,Region V,1982,06-Jun,2,1
+Tornado,IL,Illinois,Region V,1989,01-Jan,5,1
+Tornado,IL,Illinois,Region V,1990,08-Aug,3,1
+Tornado,IL,Illinois,Region V,2002,04-Apr,68,33
+Tornado,IN,Indiana,Region V,1965,04-Apr,17,1
+Tornado,IN,Indiana,Region V,1974,04-Apr,39,1
+Tornado,IN,Indiana,Region V,1986,03-Mar,1,1
+Tornado,IN,Indiana,Region V,2005,11-Nov,2,1
+Tornado,KS,Kansas,Region VII,1955,05-May,1,1
+Tornado,KS,Kansas,Region VII,1966,06-Jun,2,1
+Tornado,KS,Kansas,Region VII,1967,07-Jul,27,1
+Tornado,KS,Kansas,Region VII,1969,07-Jul,20,1
+Tornado,KS,Kansas,Region VII,1991,04-Apr,6,24
+Tornado,KS,Kansas,Region VII,1999,05-May,3,4
+Tornado,KY,Kentucky,Region IV,1968,05-May,5,1
+Tornado,KY,Kentucky,Region IV,1971,05-May,8,1
+Tornado,KY,Kentucky,Region IV,1974,04-Apr,34,1
+Tornado,KY,Kentucky,Region IV,1995,05-May,32,7
+Tornado,KY,Kentucky,Region IV,2000,01-Jan,11,2
+Tornado,LA,Louisiana,Region VI,1978,12-Dec,2,1
+Tornado,LA,Louisiana,Region VI,1984,05-May,1,1
+Tornado,LA,Louisiana,Region VI,1987,11-Nov,10,5
+Tornado,LA,Louisiana,Region VI,1989,06-Jun,9,2
+Tornado,MA,Massachusetts,Region I,1953,06-Jun,1,1
+Tornado,MD,Maryland,Region III,2002,04-Apr,3,1
+Tornado,MI,Michigan,Region V,1953,06-Jun,2,1
+Tornado,MI,Michigan,Region V,1956,04-Apr,1,1
+Tornado,MI,Michigan,Region V,1965,04-Apr,16,1
+Tornado,MI,Michigan,Region V,1974,04-Apr,1,1
+Tornado,MI,Michigan,Region V,1980,05-May,2,1
+Tornado,MN,Minnesota,Region V,1998,03-Mar,7,1
+Tornado,MN,Minnesota,Region V,1998,05-May,19,45
+Tornado,MO,Missouri,Region VII,1957,05-May,1,1
+Tornado,MO,Missouri,Region VII,1975,05-May,4,1
+Tornado,MO,Missouri,Region VII,1977,05-May,7,1
+Tornado,MO,Missouri,Region VII,1979,04-Apr,17,1
+Tornado,MO,Missouri,Region VII,1980,05-May,1,1
+Tornado,MS,Mississippi,Region IV,1953,12-Dec,1,1
+Tornado,MS,Mississippi,Region IV,1971,02-Feb,23,1
+Tornado,MS,Mississippi,Region IV,1975,01-Jan,4,1
+Tornado,MS,Mississippi,Region IV,1978,04-Apr,15,1
+Tornado,MS,Mississippi,Region IV,1982,04-Apr,3,1
+Tornado,MS,Mississippi,Region IV,1984,03-Mar,6,2
+Tornado,MS,Mississippi,Region IV,1992,10-Oct,1,1
+Tornado,MS,Mississippi,Region IV,1992,11-Nov,21,2
+Tornado,MS,Mississippi,Region IV,1992,03-Mar,4,2
+Tornado,NC,North Carolina,Region IV,1974,04-Apr,6,1
+Tornado,NC,North Carolina,Region IV,1984,03-Mar,14,2
+Tornado,NC,North Carolina,Region IV,1988,11-Nov,9,1
+Tornado,NC,North Carolina,Region IV,1989,05-May,13,2
+Tornado,ND,North Dakota,Region VIII,1957,06-Jun,1,1
+Tornado,ND,North Dakota,Region VIII,1978,07-Jul,1,1
+Tornado,ND,North Dakota,Region VIII,2000,11-Nov,9,20
+Tornado,NE,Nebraska,Region VII,1975,05-May,2,1
+Tornado,NE,Nebraska,Region VII,1980,06-Jun,3,1
+Tornado,NE,Nebraska,Region VII,1984,04-Apr,1,1
+Tornado,NE,Nebraska,Region VII,1984,06-Jun,24,12
+Tornado,OH,Ohio,Region V,1965,04-Apr,15,1
+Tornado,OH,Ohio,Region V,1968,05-May,5,1
+Tornado,OH,Ohio,Region V,1969,07-Jul,26,1
+Tornado,OH,Ohio,Region V,1974,04-Apr,14,1
+Tornado,OH,Ohio,Region V,1985,05-May,6,1
+Tornado,OH,Ohio,Region V,2003,07-Jul,15,36
+Tornado,OK,Oklahoma,Region VI,1956,04-Apr,1,1
+Tornado,OK,Oklahoma,Region VI,1975,12-Dec,2,1
+Tornado,OK,Oklahoma,Region VI,1976,04-Apr,2,1
+Tornado,OK,Oklahoma,Region VI,1979,04-Apr,6,1
+Tornado,OK,Oklahoma,Region VI,1984,04-Apr,8,4
+Tornado,OK,Oklahoma,Region VI,1991,04-Apr,6,2
+Tornado,OK,Oklahoma,Region VI,1993,04-Apr,4,1
+Tornado,OK,Oklahoma,Region VI,1995,05-May,29,17
+Tornado,OK,Oklahoma,Region VI,1999,05-May,19,2
+Tornado,PA,Pennsylvania,Region III,1980,06-Jun,4,1
+Tornado,PA,Pennsylvania,Region III,1985,05-May,11,2
+Tornado,SC,South Carolina,Region IV,1984,03-Mar,7,2
+Tornado,TN,Tennessee,Region IV,1971,05-May,3,1
+Tornado,TN,Tennessee,Region IV,1974,04-Apr,45,1
+Tornado,TN,Tennessee,Region IV,1995,05-May,5,33
+Tornado,TN,Tennessee,Region IV,1997,02-Feb,29,25
+Tornado,TX,Texas,Region VI,1953,05-May,1,1
+Tornado,TX,Texas,Region VI,1958,06-Jun,1,1
+Tornado,TX,Texas,Region VI,1965,06-Jun,7,1
+Tornado,TX,Texas,Region VI,1970,05-May,11,1
+Tornado,TX,Texas,Region VI,1975,04-Apr,1,1
+Tornado,TX,Texas,Region VI,1979,04-Apr,5,1
+Tornado,TX,Texas,Region VI,1982,04-Apr,1,1
+Tornado,TX,Texas,Region VI,1986,04-Apr,1,1
+Tornado,TX,Texas,Region VI,1986,05-May,1,1
+Tornado,TX,Texas,Region VI,1987,11-Nov,10,2
+Tornado,TX,Texas,Region VI,1987,05-May,2,1
+Tornado,TX,Texas,Region VI,1992,11-Nov,1,1
+Tornado,TX,Texas,Region VI,1992,06-Jun,3,1
+Tornado,TX,Texas,Region VI,1999,05-May,4,1
+Tornado,TX,Texas,Region VI,2000,03-Mar,1,2
+Tornado,UT,Utah,Region VIII,1999,08-Aug,1,1
+Tornado,WI,Wisconsin,Region V,1965,04-Apr,20,1
+Tornado,WI,Wisconsin,Region V,1974,04-Apr,4,1
+Tornado,WI,Wisconsin,Region V,1984,06-Jun,2,1
+Tornado,WI,Wisconsin,Region V,1992,06-Jun,1,1
+Tornado,WI,Wisconsin,Region V,1992,08-Aug,1,1
+Tornado,WI,Wisconsin,Region V,2002,09-Sep,19,5
+Tornado,WY,Wyoming,Region VIII,1979,07-Jul,1,1
+Tornado,WY,Wyoming,Region VIII,2005,08-Aug,1,1
