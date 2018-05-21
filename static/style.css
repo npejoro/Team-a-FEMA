@@ -1161,7 +1161,7 @@ input::-ms-input-placeholder {
 
 
 .carousel-overlay{
-	background-color:darkslategray;
+	background-color:black;
 	width: 100%;
 	opacity: 0.3;
 	height: 100%;
