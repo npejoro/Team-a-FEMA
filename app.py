@@ -4,7 +4,7 @@ import scrape_fema
 from flask_assets import Bundle, Environment
 
 import os
-import pandas as import pd
+import pandas as pd
 import numpy as np
 
 app = Flask(__name__, static_folder='static')
@@ -35,44 +35,42 @@ def scrape():
 
     return redirect("http://localhost:5000/home", code=302)
 
-if __name__ == "__main__":
-    app.run(debug=True)
-
 
 # victoria
-df = pd.read_csv("noaadata.csv")
-Cost = df["Cost"].tolist()
-Deaths = df["Deaths"].tolist()
-Name = df["Name"].tolist()
-Year = df["Year"].tolist()
-Disaster = df["Disaster"].tolist()
-disasterType = df["disasterType"].tolist()
-impactScale = df["impactScale"].tolist()
 
-@app.route("/")
-def index():
-    return render_template('index.html')
+# df = pd.read_csv("noaadata.csv")
+# Cost = df["Cost"].tolist()
+# Deaths = df["Deaths"].tolist()
+# Name = df["Name"].tolist()
+# Year = df["Year"].tolist()
+# Disaster = df["Disaster"].tolist()
+# disasterType = df["disasterType"].tolist()
+# impactScale = df["impactScale"].tolist()
+
+# @app.route("/")
+# def index():
+#     return render_template('index.html')
 
 
 
-@app.route("/future")
-def future():
-    data=[{
-        "Cost": Cost,
-        "Deaths":Deaths,
-        "Name": Name,
-        "Year": Year,
-        "Disaster": Disaster,
-        "disasterType": disasterType,
-        "impactScale": impactScale,
-    }]
+# @app.route("/future")
+# def future():
+#     data=[{
+#         "Cost": Cost,
+#         "Deaths":Deaths,
+#         "Name": Name,
+#         "Year": Year,
+#         "Disaster": Disaster,
+#         "disasterType": disasterType,
+#         "impactScale": impactScale,
+#     }]
 
-    for i in (data[0]['Deaths']):
-        # print (type(i))
-        if not isinstance(i,int):
-            print (i)
-        # print(data[0]['Deaths'])
-    return jsonify(data)
+#     for i in (data[0]['Deaths']):
+#         # print (type(i))
+#         if not isinstance(i,int):
+#             print (i)
+#         # print(data[0]['Deaths'])
+#     return jsonify(data)
 
 
 if __name__ == "__main__":
