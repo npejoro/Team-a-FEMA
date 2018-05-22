@@ -11,12 +11,16 @@
 
 <body>
 
-<!--  <div id="MyDiv"></div>-->
-    <div class="plot" id="MyDiv"></div>
+<div class="showcase__section" id="bubble">
+  <div class="spacer --small"></div>
+  <div id="bubbleplots">
+    <div class="bubbleplot" data-num="0">
+      <div class="plot" id="MyDiv"></div>
+      <div class="control-row">
 
-  <script src="Choropleth_USA.js"></script>
+  
 
-  <select class="list">
+  <select class="disasterdata">
     <option value="Drought">Drought</option>
     <option value="Earthquake">Earthquake</option>
     <option value="Fire">Fire</option>
@@ -25,10 +29,14 @@
     <option value="Hurricane">Hurricane</option>
     <option value="Snow">Snow</option>
     <option value="Tornado">Tornado</option>
-    <option value="Other">Other</option>
-   
+    <option value="Other">Other</option> 
+</select>   
+    </div>
+    </div>
+  </div>
+</div>
   
-  </select>
-</body>
+<script src="Choropleth_USA.js"></script>
+        </body>
 
 </html>
