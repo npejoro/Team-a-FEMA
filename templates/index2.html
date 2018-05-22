@@ -1,0 +1,61 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <title> TEQUILA TEAM </title>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+            <title>Choropleth USA</title>
+            <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    </head>
+
+<style>
+.team{
+    background: url(/static/teambg.jpg) no-repeat center center;
+    overflow:hidden;
+    background-size: cover;
+    color:#fff;
+}
+.team .main_team{
+}
+</style>
+    
+<section id="team" class="team">
+
+              
+              <body>
+              
+              <div class="showcase__section" id="bubble">
+                <div class="spacer --small"></div>
+                <div id="bubbleplots">
+                  <div class="bubbleplot" data-num="0">
+                    <div class="plot" id="MyDiv"></div>
+                    <div class="control-row">
+              
+                
+              
+                <select class="disasterdata">
+                  <option value="Drought">Drought</option>
+                  <option value="Earthquake">Earthquake</option>
+                  <option value="Fire">Fire</option>
+                  <option value="Flood">Flood</option>
+                  <option value="Human">Human</option>
+                  <option value="Hurricane">Hurricane</option>
+                  <option value="Snow">Snow</option>
+                  <option value="Tornado">Tornado</option>
+                  <option value="Other">Other</option> 
+              </select>   
+                  </div>
+                  </div>
+                </div>
+              </div>
+                
+              <script src="../static/Choropleth_USA.js"></script>
+                      </body>
+              
+</section>
+
+</html>
