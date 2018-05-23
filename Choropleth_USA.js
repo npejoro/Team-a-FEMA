@@ -25,8 +25,8 @@ function myFunction(err, rows){
         locations: unpack(rows, 'StateAbbreviation'),
         z: currentCount,
         text: unpack(rows, 'State'),
-        zmin: 0,
-        zmax: 50,
+        zmin: Math.min.currentCount,
+        zmax: Math.max.currentCount,
         colorscale: [
             [0, 'rgb(242,240,247)'], [0.2, 'rgb(218,218,235)'],
             [0.4, 'rgb(188,189,220)'], [0.6, 'rgb(158,154,200)'],
@@ -43,7 +43,7 @@ function myFunction(err, rows){
             }
         }
     }];
-
+console.log(data)
     var layout = {
         title: 'Count of '+ chosenDisaster + ' from 1953 - 2016',
         geo:{
@@ -85,5 +85,5 @@ function myFunction(err, rows){
 Plotly.relayout(MyDiv, update)
   }
 
-Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/master/FEMA4.csv', myFunction);
+Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/ken_/FEMA5.csv', myFunction);
 
