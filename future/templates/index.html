@@ -1,0 +1,56 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>FEMA Project 2</title>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+    
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-12 jumbotron text-center">
+                        <h1>The Impacts of Million Dollar Disasters and our Future Climate</h1>
+                     
+                    </div>
+            <div class="row">
+                    <div class="col-md-12">
+                        <h2> Breaking down Deaths by Disaster</h2>
+                        <div id="deathpie"></div>
+                    </div>
+                </div>
+            <div class="row">
+                    <div class="col-md-12">
+                        <h2> Breaking down Cost by Disaster</h2>
+                        <div id="costpie"></div>
+                    </div>
+                </div>
+            <div class="row">
+                    <div class="col-md-12">
+                        <h2> Breaking down Deaths by Disaster</h2>
+                        <div id="scatter"></div>
+                        </div>
+                    </div>
+                </div>
+            <!-- <div class="row">
+                    <div class="col-md-12">
+                        <h2> Breaking down Deaths by Disaster Dual Axis</h2>
+                        <div id="doublescatter"></div>
+                        </div>
+                    </div>
+                </div> -->
+            <script src="{{ url_for('static', filename='js/plot3.js') }}"></script>
+            <script src="{{ url_for('static', filename='js/plot2.js') }}"></script>
+            <script src="{{ url_for('static', filename='js/plot1.js') }}"></script>
+            <!-- <script src="{{ url_for('static', filename='js/plot4.js') }}"></script> -->
+            </div>
+    </body>
+    
+
+</html>
