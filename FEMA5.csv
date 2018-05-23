@@ -1,0 +1,326 @@
+IncidentType,StateAbbreviation,State,Count,Duration
+Drought,AL,Alabama,67,1.0
+Drought,AR,Arkansas,32,1.0
+Drought,AS,American Samoa,5,1.0
+Drought,AZ,Arizona,8,1.0
+Drought,CA,California,47,1.0
+Drought,CO,Colorado,42,1.0
+Drought,DE,Delaware,3,1.0
+Drought,FM,Federated States of Micronesia,6,119.33333333333333
+Drought,GA,Georgia,144,1.0
+Drought,IA,Iowa,3,1.0
+Drought,ID,Idaho,9,1.0
+Drought,MH,Marshall Islands,25,165.0
+Drought,MI,Michigan,44,1.0
+Drought,MN,Minnesota,78,1.0
+Drought,MO,Missouri,94,1.0
+Drought,MT,Montana,6,1.0
+Drought,NC,North Carolina,49,1.0
+Drought,ND,North Dakota,18,1.0
+Drought,NE,Nebraska,2,1.0
+Drought,NJ,New Jersey,42,1.0
+Drought,NM,New Mexico,8,1.0
+Drought,NV,Nevada,5,1.0
+Drought,NY,New York,14,1.0
+Drought,OR,Oregon,19,1.0
+Drought,PA,Pennsylvania,13,1.0
+Drought,PR,Puerto Rico,25,1.0
+Drought,SC,South Carolina,31,1.0
+Drought,SD,South Dakota,60,1.0
+Drought,TX,Texas,149,78.0
+Drought,UT,Utah,27,1.0
+Drought,VA,Virginia,100,1.0
+Drought,VI,Virgin Islands,6,1.0
+Drought,VT,Vermont,2,1.0
+Drought,WA,Washington,16,1.0
+Drought,WI,Wisconsin,66,1.0
+Drought,WV,West Virginia,21,1.0
+Drought,WY,Wyoming,4,1.0
+Earthquake,AK,Alaska,7,7.0
+Earthquake,CA,California,21,54.523809523809526
+Earthquake,GU,Guam,1,1.0
+Earthquake,HI,Hawaii,3,1.0
+Earthquake,ID,Idaho,3,90.0
+Earthquake,NV,Nevada,1,1.0
+Earthquake,NY,New York,6,1.0
+Earthquake,OR,Oregon,5,1.0
+Earthquake,WA,Washington,30,13.8
+Fire,AK,Alaska,8,20.375
+Fire,AL,Alabama,3,4.0
+Fire,AZ,Arizona,46,13.130434782608695
+Fire,CA,California,200,26.7
+Fire,CO,Colorado,111,61.85585585585586
+Fire,FL,Florida,124,49.75806451612903
+Fire,FM,Federated States of Micronesia,1,1.0
+Fire,GA,Georgia,5,43.0
+Fire,HI,Hawaii,15,6.133333333333334
+Fire,ID,Idaho,34,31.735294117647058
+Fire,KS,Kansas,2,2.0
+Fire,KY,Kentucky,6,20.0
+Fire,LA,Louisiana,11,15.0
+Fire,MA,Massachusetts,3,4.333333333333333
+Fire,MH,Marshall Islands,1,1.0
+Fire,MI,Michigan,1,5.0
+Fire,MN,Minnesota,6,13.333333333333334
+Fire,MO,Missouri,1,5.0
+Fire,MT,Montana,72,55.52777777777778
+Fire,ND,North Dakota,1,5.0
+Fire,NE,Nebraska,6,17.666666666666668
+Fire,NH,New Hampshire,1,1.0
+Fire,NJ,New Jersey,22,1.0
+Fire,NM,New Mexico,101,41.772277227722775
+Fire,NV,Nevada,44,5.886363636363637
+Fire,NY,New York,1,1.0
+Fire,OK,Oklahoma,125,84.32
+Fire,OR,Oregon,23,15.565217391304348
+Fire,PR,Puerto Rico,5,4.0
+Fire,SC,South Carolina,2,14.0
+Fire,SD,South Dakota,12,9.916666666666666
+Fire,TX,Texas,899,138.3170189098999
+Fire,UT,Utah,13,7.769230769230769
+Fire,VA,Virginia,8,18.25
+Fire,WA,Washington,61,10.508196721311476
+Fire,WV,West Virginia,24,14.583333333333334
+Fire,WY,Wyoming,18,10.833333333333334
+Flood,AK,Alaska,21,23.38095238095238
+Flood,AL,Alabama,104,4.0
+Flood,AR,Arkansas,235,11.302127659574468
+Flood,AS,American Samoa,5,1.0
+Flood,AZ,Arizona,74,20.66216216216216
+Flood,CA,California,243,17.43621399176955
+Flood,CO,Colorado,98,2.989795918367347
+Flood,CT,Connecticut,17,3.6470588235294117
+Flood,DE,Delaware,3,1.6666666666666667
+Flood,FL,Florida,73,11.73972602739726
+Flood,FM,Federated States of Micronesia,1,1.0
+Flood,GA,Georgia,62,8.451612903225806
+Flood,HI,Hawaii,9,10.444444444444445
+Flood,IA,Iowa,561,42.16755793226381
+Flood,ID,Idaho,48,1.2916666666666667
+Flood,IL,Illinois,241,38.850622406639005
+Flood,IN,Indiana,177,13.338983050847459
+Flood,KS,Kansas,182,33.456043956043956
+Flood,KY,Kentucky,257,20.43190661478599
+Flood,LA,Louisiana,206,8.014563106796116
+Flood,MA,Massachusetts,42,12.523809523809524
+Flood,MD,Maryland,54,2.3703703703703702
+Flood,ME,Maine,96,8.479166666666666
+Flood,MH,Marshall Islands,6,1.0
+Flood,MI,Michigan,125,13.456
+Flood,MN,Minnesota,436,35.79816513761468
+Flood,MO,Missouri,310,57.564516129032256
+Flood,MP,Northern Mariana Islands,1,1.0
+Flood,MS,Mississippi,82,19.26829268292683
+Flood,MT,Montana,63,7.4603174603174605
+Flood,NC,North Carolina,43,1.697674418604651
+Flood,ND,North Dakota,471,54.81316348195329
+Flood,NE,Nebraska,268,18.388059701492537
+Flood,NH,New Hampshire,47,8.191489361702128
+Flood,NJ,New Jersey,70,3.4571428571428573
+Flood,NM,New Mexico,50,7.22
+Flood,NV,Nevada,18,9.333333333333334
+Flood,NY,New York,161,4.869565217391305
+Flood,OH,Ohio,116,14.137931034482758
+Flood,OK,Oklahoma,183,6.721311475409836
+Flood,OR,Oregon,105,6.180952380952381
+Flood,PA,Pennsylvania,311,9.72347266881029
+Flood,PR,Puerto Rico,356,4.786516853932584
+Flood,SC,South Carolina,18,24.38888888888889
+Flood,SD,South Dakota,233,70.6137339055794
+Flood,TN,Tennessee,205,7.121951219512195
+Flood,TX,Texas,360,17.208333333333332
+Flood,UT,Utah,47,12.404255319148936
+Flood,VA,Virginia,280,2.357142857142857
+Flood,VI,Virgin Islands,7,1.0
+Flood,VT,Vermont,70,6.771428571428571
+Flood,WA,Washington,191,11.073298429319372
+Flood,WI,Wisconsin,153,22.895424836601308
+Flood,WV,West Virginia,239,7.2092050209205025
+Flood,WY,Wyoming,14,1.0
+Human,CA,California,2,20.5
+Human,CO,Colorado,1,1.0
+Human,FL,Florida,4,1.0
+Human,KY,Kentucky,1,1.0
+Human,LA,Louisiana,1,1.0
+Human,MS,Mississippi,1,1.0
+Human,NY,New York,3,1.0
+Human,OK,Oklahoma,1,1.0
+Human,RI,Rhode Island,2,110.0
+Human,VA,Virginia,1,1.0
+Human,WV,West Virginia,9,12.0
+Human,WY,Wyoming,1,1.0
+Hurricane,AL,Alabama,267,13.816479400749063
+Hurricane,AR,Arkansas,75,34.0
+Hurricane,AS,American Samoa,15,5.666666666666667
+Hurricane,AZ,Arizona,15,34.0
+Hurricane,CA,California,58,34.0
+Hurricane,CT,Connecticut,35,10.342857142857143
+Hurricane,DC,District of Columbia,4,14.25
+Hurricane,DE,Delaware,16,13.3125
+Hurricane,FL,Florida,250,13.472
+Hurricane,GA,Georgia,57,2.192982456140351
+Hurricane,HI,Hawaii,7,1.0
+Hurricane,IA,Iowa,99,34.0
+Hurricane,ID,Idaho,44,34.0
+Hurricane,IL,Illinois,102,34.0
+Hurricane,IN,Indiana,92,34.0
+Hurricane,KS,Kansas,105,31.0
+Hurricane,LA,Louisiana,400,25.43
+Hurricane,MA,Massachusetts,64,11.3125
+Hurricane,MD,Maryland,109,16.146788990825687
+Hurricane,ME,Maine,34,17.029411764705884
+Hurricane,MI,Michigan,83,34.0
+Hurricane,MN,Minnesota,87,34.0
+Hurricane,MO,Missouri,115,34.0
+Hurricane,MS,Mississippi,191,10.136125654450261
+Hurricane,MT,Montana,56,34.0
+Hurricane,NC,North Carolina,617,21.13452188006483
+Hurricane,NE,Nebraska,93,34.0
+Hurricane,NH,New Hampshire,27,15.592592592592593
+Hurricane,NJ,New Jersey,98,13.612244897959183
+Hurricane,NM,New Mexico,33,34.0
+Hurricane,NV,Nevada,17,34.0
+Hurricane,NY,New York,168,18.946428571428573
+Hurricane,OH,Ohio,88,34.0
+Hurricane,OK,Oklahoma,77,34.0
+Hurricane,PA,Pennsylvania,229,20.14410480349345
+Hurricane,PR,Puerto Rico,372,2.868279569892473
+Hurricane,RI,Rhode Island,27,10.074074074074074
+Hurricane,SC,South Carolina,157,21.764331210191084
+Hurricane,TN,Tennessee,95,34.0
+Hurricane,TX,Texas,809,24.45611866501854
+Hurricane,VA,Virginia,586,16.87542662116041
+Hurricane,VI,Virgin Islands,26,3.0
+Hurricane,VT,Vermont,14,8.0
+Hurricane,WI,Wisconsin,73,34.0
+Hurricane,WV,West Virginia,123,21.203252032520325
+Other,AK,Alaska,41,30.609756097560975
+Other,AL,Alabama,349,16.49570200573066
+Other,AR,Arkansas,316,18.43354430379747
+Other,AS,American Samoa,20,3.3
+Other,AZ,Arizona,20,14.05
+Other,CA,California,236,72.32203389830508
+Other,CO,Colorado,92,28.23913043478261
+Other,CT,Connecticut,28,5.321428571428571
+Other,DC,District of Columbia,9,4.111111111111111
+Other,DE,Delaware,6,10.5
+Other,FL,Florida,147,56.197278911564624
+Other,FM,Federated States of Micronesia,23,3.4782608695652173
+Other,GA,Georgia,270,44.44074074074074
+Other,GU,Guam,11,2.4545454545454546
+Other,HI,Hawaii,10,517.1
+Other,IA,Iowa,366,21.972677595628415
+Other,ID,Idaho,56,43.69642857142857
+Other,IL,Illinois,222,15.027027027027026
+Other,IN,Indiana,484,30.81611570247934
+Other,KS,Kansas,547,15.813528336380257
+Other,KY,Kentucky,642,15.9797507788162
+Other,LA,Louisiana,214,14.144859813084112
+Other,MA,Massachusetts,64,9.34375
+Other,MD,Maryland,44,8.181818181818182
+Other,ME,Maine,138,17.369565217391305
+Other,MH,Marshall Islands,29,1.6896551724137931
+Other,MI,Michigan,110,10.818181818181818
+Other,MN,Minnesota,330,43.72727272727273
+Other,MO,Missouri,1393,18.899497487437184
+Other,MP,Northern Mariana Islands,28,3.2857142857142856
+Other,MS,Mississippi,424,16.537735849056602
+Other,MT,Montana,63,77.23809523809524
+Other,NC,North Carolina,139,7.194244604316546
+Other,ND,North Dakota,364,64.43131868131869
+Other,NE,Nebraska,527,24.753320683111955
+Other,NH,New Hampshire,76,11.947368421052632
+Other,NJ,New Jersey,72,49.34722222222222
+Other,NM,New Mexico,23,10.652173913043478
+Other,NV,Nevada,17,15.411764705882353
+Other,NY,New York,273,52.37362637362637
+Other,OH,Ohio,522,20.96551724137931
+Other,OK,Oklahoma,776,13.871134020618557
+Other,OR,Oregon,136,31.014705882352942
+Other,PA,Pennsylvania,238,19.521008403361346
+Other,PR,Puerto Rico,77,8.87012987012987
+Other,PW,Republic of Palau,6,1.1666666666666667
+Other,RI,Rhode Island,8,23.0
+Other,SC,South Carolina,126,8.325396825396826
+Other,SD,South Dakota,376,40.909574468085104
+Other,TN,Tennessee,496,18.590725806451612
+Other,TX,Texas,602,22.44518272425249
+Other,UT,Utah,31,32.12903225806452
+Other,VA,Virginia,312,10.14102564102564
+Other,VI,Virgin Islands,3,7.0
+Other,VT,Vermont,84,17.928571428571427
+Other,WA,Washington,181,29.607734806629836
+Other,WI,Wisconsin,213,41.96244131455399
+Other,WV,West Virginia,333,29.30930930930931
+Other,WY,Wyoming,6,15.666666666666666
+Snow,AK,Alaska,15,31.733333333333334
+Snow,AL,Alabama,67,5.0
+Snow,AR,Arkansas,17,2.0
+Snow,CA,California,57,12.491228070175438
+Snow,CO,Colorado,55,4.290909090909091
+Snow,CT,Connecticut,52,3.2115384615384617
+Snow,DC,District of Columbia,2,4.0
+Snow,DE,Delaware,12,6.25
+Snow,FL,Florida,147,19.836734693877553
+Snow,GA,Georgia,99,4.757575757575758
+Snow,IA,Iowa,43,3.0
+Snow,ID,Idaho,1,95.0
+Snow,IL,Illinois,153,9.718954248366012
+Snow,IN,Indiana,226,7.9734513274336285
+Snow,KY,Kentucky,291,5.563573883161512
+Snow,LA,Louisiana,42,1.5714285714285714
+Snow,MA,Massachusetts,76,3.5526315789473686
+Snow,MD,Maryland,85,5.1647058823529415
+Snow,ME,Maine,88,26.977272727272727
+Snow,MI,Michigan,184,15.63586956521739
+Snow,MN,Minnesota,4,2.0
+Snow,MS,Mississippi,72,1.0
+Snow,MT,Montana,1,1.0
+Snow,NC,North Carolina,193,5.632124352331606
+Snow,ND,North Dakota,38,3.0
+Snow,NE,Nebraska,15,4.0
+Snow,NH,New Hampshire,49,2.7551020408163267
+Snow,NJ,New Jersey,63,4.333333333333333
+Snow,NV,Nevada,31,5.0
+Snow,NY,New York,212,5.764150943396227
+Snow,OH,Ohio,181,1.5082872928176796
+Snow,OK,Oklahoma,4,2.0
+Snow,PA,Pennsylvania,139,5.129496402877698
+Snow,RI,Rhode Island,27,3.111111111111111
+Snow,SD,South Dakota,65,11.307692307692308
+Snow,TN,Tennessee,57,5.0
+Snow,TX,Texas,16,4.375
+Snow,VA,Virginia,383,4.237597911227154
+Snow,VT,Vermont,9,3.0
+Snow,WI,Wisconsin,28,11.392857142857142
+Snow,WV,West Virginia,148,5.77027027027027
+Tornado,AL,Alabama,61,1.0
+Tornado,AR,Arkansas,90,2.3333333333333335
+Tornado,CO,Colorado,27,1.0
+Tornado,CT,Connecticut,3,1.0
+Tornado,FL,Florida,38,5.0
+Tornado,GA,Georgia,134,12.91044776119403
+Tornado,IA,Iowa,18,1.0555555555555556
+Tornado,IL,Illinois,110,20.78181818181818
+Tornado,IN,Indiana,59,1.0
+Tornado,KS,Kansas,59,3.4915254237288136
+Tornado,KY,Kentucky,90,3.2555555555555555
+Tornado,LA,Louisiana,22,3.227272727272727
+Tornado,MA,Massachusetts,1,1.0
+Tornado,MD,Maryland,3,1.0
+Tornado,MI,Michigan,22,1.0
+Tornado,MN,Minnesota,26,33.15384615384615
+Tornado,MO,Missouri,30,1.0
+Tornado,MS,Mississippi,78,1.3974358974358974
+Tornado,NC,North Carolina,42,1.6428571428571428
+Tornado,ND,North Dakota,11,16.545454545454547
+Tornado,NE,Nebraska,30,9.8
+Tornado,OH,Ohio,81,7.481481481481482
+Tornado,OK,Oklahoma,77,7.662337662337662
+Tornado,PA,Pennsylvania,15,1.7333333333333334
+Tornado,SC,South Carolina,7,2.0
+Tornado,TN,Tennessee,82,11.439024390243903
+Tornado,TX,Texas,50,1.22
+Tornado,UT,Utah,1,1.0
+Tornado,WI,Wisconsin,47,2.617021276595745
+Tornado,WY,Wyoming,2,1.0
