@@ -712,7 +712,7 @@ Author URI: http://bootstrapthemes.co
    
    /* Team section css */
    .team{
-       background: url(teambg.jpg) no-repeat center center;
+       background: url(images/teambg.jpg) no-repeat center center;
        overflow:hidden;
        background-size: cover;
        color:#fff;
@@ -859,7 +859,7 @@ Author URI: http://bootstrapthemes.co
    
    /* Carousel */
    .testimonial{
-       background: url(teambg.jpg) no-repeat center center;
+       background: url(images/teambg.jpg)) no-repeat center center;
        background-size: cover;
    }
    .main_testimonial {

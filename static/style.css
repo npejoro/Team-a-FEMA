@@ -146,7 +146,7 @@ input[type="color"],
 h1,
 h2,
 h3 {
-   
+    color: black;
     font-weight: 300;
     margin: 0;
 }
@@ -173,6 +173,7 @@ h3 {
     line-height: 2.5rem;  
     text-transform: uppercase;
     font-family: 'playfair_displaybold';
+    
 }
 h4 {
     font-size: 0.875rem;
