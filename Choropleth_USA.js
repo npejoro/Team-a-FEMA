@@ -74,10 +74,16 @@ function myFunction(err, rows){
     }
 
     disasterSelector.addEventListener('change', updateDisaster, false);
+
   
-}
+  
+  var update = {
+        width: 1250,
+        height:700
+  
+  }  
+Plotly.relayout(MyDiv, update)
+  }
 
-Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/ken_/FEMA4.csv', myFunction);
+Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/master/FEMA4.csv', myFunction);
 
-    
- 
