@@ -6,11 +6,6 @@ Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/nl_branch/F
         console.log(d)
         return {
             mode: 'markers',
-//            marker: {
-//                size: data.marker.size.slice(),
-//                sizemode: 'area',
-//                sizeref: 200000
-//            },
             marker: {
                 opacity: 0.7, 
                 size: d.map(r => r.Duration),
@@ -22,9 +17,26 @@ Plotly.d3.csv('https://raw.githubusercontent.com/npejoro/Team-a-FEMA/nl_branch/F
             x: d.map(r => r.Year),
             y: d.map(r => r.Count)
         }
-        
     })
-    
-  
+//    var layout = {
+//        autosize: false,
+//        width: 500,
+//        height: 1000,
+//        margin: {
+//            l: 50,
+//            r: 50,
+//            b: 100,
+//            t: 100,
+//            pad: 4
+//        },
+//        paper_bgcolor: '#7f7f7f',
+//        plot_bgcolor: '#c7c7c7'
+//    };
     Plotly.newPlot('graph', data)
+    
+    var update = {
+        width: 1200,
+        height:700
+    }
+    Plotly.relayout('graph', update)
 })
