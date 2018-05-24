@@ -81,6 +81,17 @@ def future():
         # print(data[0]['Deaths'])
     return jsonify(data)
 
+# @app.route("/disaster")
+# def disaster():
+#     return render_template("disaster.html")
+
+@app.route('/disaster', methods=['GET','POST'])
+def disaster():
+    if request.method =='POST':
+        return redirect(url_for ('disaster'))
+    return render_template('disaster.html')
+
+
 
 if __name__ == "__main__":
      app.run(debug=True)

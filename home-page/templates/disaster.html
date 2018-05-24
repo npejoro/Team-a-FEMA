@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>FEMA Charts</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+</head>
+
+<body>
+      <div class="container">
+        <div class="row">
+                <div class="col-md-12 jumbotron text-center">
+                    <h1>Visualizations of FEMA Data</h1>
+                </div>          
+          </div>
+        <div class="row">
+                <div class="col-md-12">
+                  <div class="showcase__section" id="bubble">
+                        <div class="spacer --small"></div>
+                          <div class="bubbleplot" data-num="0">
+                            <div class="plot" id="MyDiv">
+                              <div class="control-row">
+
+  
+
+                                <select class="disasterdata">
+                                  <option value="Drought">Drought</option>
+                                  <option value="Earthquake">Earthquake</option>
+                                  <option value="Fire">Fire</option>
+                                  <option value="Flood">Flood</option>
+                                  <option value="Human">Human</option>
+                                  <option value="Hurricane">Hurricane</option>
+                                  <option value="Snow">Snow</option>
+                                  <option value="Tornado">Tornado</option>
+                                  <option value="Other">Other</option> 
+                                </select>   
+                              </div>
+                            </div>
+                        </div>
+                  </div>  
+                </div>
+            </div>
+        <div class="row">
+          <h2>
+            <br/>
+            <br/>
+          </h2>
+        </div>
+        <div class="row">
+                <div class="col-md-12">
+                    <h3>Disasters Over Time (1953 - 2014)</h3>
+                    <div id="graph"></div>
+                </div>
+            </div>
+        </div>
+    
+        <script src="static/js/Choropleth_USA.js"></script>
+        <script src="static/js/charts.js"></script>
+        <!-- <script src="{{ url_for('static', filename='js/Choropleth_USA.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/charts.js') }}"></script> -->
+        </body>
+
+</html>
